@@ -1,0 +1,15 @@
+{{ define "content" }}
+
+<section id="content" class="section--center mdl-grid mdl-shadow--2dp">
+    <ul>
+    {{ range where site.RegularPages "Type" "articles" }}
+        <li>
+            <a class="mdl-navigation__link" href="{{ .Permalink }}">
+                {{ .Title }}
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</section><!-- /#content -->
+{{ end }}
+

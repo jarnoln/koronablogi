@@ -1,0 +1,11 @@
+{{ define "content" }}
+<section>
+	<p>List template</p>
+	<ul>
+	{{ range .Pages }}
+	  <li> <a href=".Permalink">{{ .Title }}</a></li>
+    {{ end }}
+	</ul>
+</section><!-- /#content -->
+{{ end }}
+

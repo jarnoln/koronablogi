@@ -90,7 +90,7 @@ title: Aikajana
 14.4.2020 [Lääkärien huoli heräsi: Koronavirus voi aiheuttaa pidempiaikaisia vaurioita ympäri kehoa – Keuhkojen lisäksi esimerkiksi maksa ja sydän ovat vaarassa, vihjaavat tutkimukset]( https://tekniikanmaailma.fi/laakarien-huoli-herasi-koronavirus-voi-aiheuttaa-pidempiaikaisia-vaurioita-ympari-kehoa-keuhkojen-lisaksi-esimerkiksi-maksa-ja-sydan-ovat-vaarassa-vihjaavat-tutkimukset/)
 
 15.4.2020 [Koronaviruksen testausta laajennetaan ja lisätään – uuden ohjeen mukaan testeihin kaikki, joilla on koronavirukseen sopivia oireita](https://www.kaleva.fi/koronaviruksen-testausta-laajennetaan-ja-lisataan/1638522)
-* (Huom: Tämä siis n. kuukausi sen jälkeen, kun WHO suositteli laajaa testaamista ja THL julisti, että siitä ei ole mitään hyötyä eikä WHO ymmärrä epidemioita)
+> *(Tämä siis n. kuukausi sen jälkeen, kun WHO suositteli laajaa testaamista ja THL julisti, että siitä ei ole mitään hyötyä eikä WHO ymmärrä epidemioita)*
 
 16.4.2020 [THL:n pääjohtajan kehotus käyttää naamamaskeja hermostutti ministeriön: ”Hänen asemassaan ei ole oikeutta yksityisajatteluun”]( https://www.iltalehti.fi/koronavirus/a/5f69d97f-3d68-40d8-8cc0-38bf0a113cca)
 
@@ -142,7 +142,8 @@ title: Aikajana
 4.6.2020 [Krista Kiuru kertoo, miksi hallitus ohitti oman tiedepaneelinsa eikä antanut yleistä suositusta kasvomaskien käytöstä](https://www.is.fi/kotimaa/art-2000006529283.html)
 > Hallitus jyräsi asettamansa tiedepaneelin, joka oli tiistaina suositellut kasvosuojuksen käyttämistä yleisillä paikoilla ja joukkoliikenteessä.
 
-15.6.2020 Hallitus arvioi 15. kesäkuuta, että koronavirusepidemia on hallittavissa viranomaisten säännönmukaisin toimivaltuuksin ja totesi, että maassa eivät enää vallitse poikkeusolot.
+15.6.2020 [Poikkeusolot päättyvät](https://www.is.fi/politiikka/art-2000006541443.html)
+> – Kynnys valmiuslain ottamiseksi uudelleen käyttöön on jatkossa entistä korkeampi. Toivon, että lakia ei enää tarvittaisi, Henriksson sanoi.
 
 4.7.2020 [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
 
@@ -160,111 +161,37 @@ THL suosittaa kasvomaskien käyttöä niissä tilanteissa, joissa lähikontaktie
 15.9.2020 [THL:n Salminen: Korona ei ole niin vaarallinen kuin pelättiin – ”Se, miltä korona näytti keväällä, ei ihan pidä paikkansa”](https://www.is.fi/kotimaa/art-2000006635940.html)
 > Vaikka tietenkin toivomme epidemian hiipumista keväällä, niin täytyy vahvasti varautua siihenkin, että kesäänkin asti voidaan epidemian kanssa joutua pärjäämään.
 
-2020-08-25 Tutkijat löysivät maailman ensimmäisen tapauksen, jossa sama ihminen on saanut koronatartunnan kahdesti – Löytö jakaa tutkijoiden mielipiteitä
-https://tekniikanmaailma.fi/tutkijat-loysivat-maailman-ensimmaisen-tapauksen-jossa-sama-ihminen-on-saanut-koronatartunnan-kahdesti-loyto-jakaa-tutkijoiden-mielipiteita/
+25.8.2020 [Tutkijat löysivät maailman ensimmäisen tapauksen, jossa sama ihminen on saanut koronatartunnan kahdesti](https://tekniikanmaailma.fi/tutkijat-loysivat-maailman-ensimmaisen-tapauksen-jossa-sama-ihminen-on-saanut-koronatartunnan-kahdesti-loyto-jakaa-tutkijoiden-mielipiteita/)
 
-5.10. CDC Acknowledges Coronavirus Can Spread Via Airborne Transmission
-(WHO kertoi saman 3 kk aiemmin 7.7.)
-https://www.npr.org/sections/health-shots/2020/10/05/920446534/cdc-acknowledges-coronavirus-can-spread-via-airborne-transmission?t=1614075308612
+5.10.2020 [CDC Acknowledges Coronavirus Can Spread Via Airborne Transmission](https://www.npr.org/sections/health-shots/2020/10/05/920446534/cdc-acknowledges-coronavirus-can-spread-via-airborne-transmission?t=1614075308612)
 
-6.10. Princetonin yliopiston taloustieteen professori: Epidemian hillitsemistä ja taloutta ei voi asettaa vastakkain
-https://www.hs.fi/talous/art-2000006659643.html
+6.10.2020 [Princetonin yliopiston taloustieteen professori: Epidemian hillitsemistä ja taloutta ei voi asettaa vastakkain](https://www.hs.fi/talous/art-2000006659643.html)
 
-Marin myöntää: Keväällä ei suositeltu maskeja, koska Suomessa ei ollut niitä kaikille tarjolla
-https://www.is.fi/politiikka/art-2000006663372.html
+8.10.2020 [Marin myöntää: Keväällä ei suositeltu maskeja, koska Suomessa ei ollut niitä kaikille tarjolla](https://www.is.fi/politiikka/art-2000006663372.html)
 
-9.10. Kommentti: Leikkikö hallitus maskiselvityksellään suomalaisten terveydellä ja luottamuksella?
-https://www.iltalehti.fi/politiikka/a/52ae6126-8a08-47c0-8165-145f292c5c45
+9.10.2020 [Kommentti: Leikkikö hallitus maskiselvityksellään suomalaisten terveydellä ja luottamuksella?](https://www.iltalehti.fi/politiikka/a/52ae6126-8a08-47c0-8165-145f292c5c45)
 
-12.10. THL:n pääjohtaja: THL halusi keväällä tiedottaa maskien käytöstä, ministeriö torppasi aikeet
-https://www.is.fi/politiikka/art-2000006667717.html
+12.10.2020 [THL:n pääjohtaja: THL halusi keväällä tiedottaa maskien käytöstä, ministeriö torppasi aikeet](https://www.is.fi/politiikka/art-2000006667717.html)
 
-13.10.
-Politiikan tutkija maskikiistasta: ”Tämän rinnalla Rinteen Posti-puheet näyttävät harmittomalta kompuroinnilta”
-https://www.is.fi/politiikka/art-2000006668540.html
+13.10.2020 [Politiikan tutkija maskikiistasta: ”Tämän rinnalla Rinteen Posti-puheet näyttävät harmittomalta kompuroinnilta”](https://www.is.fi/politiikka/art-2000006668540.html)
 
-Maskijupakassa on kyse luottamuksesta hallintoon – haluttomuudelle tunnustaa kasvosuojien hyödyt oli syynsä, joita ei tahdottu myöntää kansalaisille
-https://www.hs.fi/politiikka/art-2000006668286.html
+13.10.2020 [Maskijupakassa on kyse luottamuksesta hallintoon – haluttomuudelle tunnustaa kasvosuojien hyödyt oli syynsä, joita ei tahdottu myöntää kansalaisille](https://www.hs.fi/politiikka/art-2000006668286.html)
 
-14.10. Kirsi Varhila: Korona, maskit ja julkinen keskustelu
-https://stm.fi/-/kirsi-varhila-korona-maskit-ja-julkinen-keskustelu
-  Jussi Kivistön vastine: https://twitter.com/jakivisto/status/1316271885533970432
+14.10.2020 [Ranska julisti hätätilan - yöllinen ulkonaliikkumiskielto yhdeksään kaupunkiin](https://www.iltalehti.fi/ulkomaat/a/014e2a1e-0756-4edc-8a46-da7526f29f42)
 
-Töissä suositellaan nyt pitämään kasvomaskia pääkaupunkiseudulla – Pormestari Vapaavuori: ”On näyttöä siitä, että tauti on levinnyt työpaikoilla”
-https://www.hs.fi/kaupunki/art-2000006669534.html
-   - Uutena suosituksena koordinaatioryhmä kehottaa vanhempia käyttämään kasvomaskeja myös oleskellessaan varhaiskasvatuksen sisätiloissa, esimerkiksi viedessään ja hakiessaan lasta päiväkodista.
+6.11.2020 [Pysäyttääkö rokote pandemian? Se riippuu monesta asiasta, mutta suomalaistutkijan mukaan laumasuoja ei ole tällä hetkellä realistinen tavoite](https://tekniikanmaailma.fi/pysayttaako-rokote-pandemian-se-riippuu-monesta-asiasta-mutta-suomalaistutkijan-mukaan-laumasuoja-ei-ole-talla-hetkella-realistinen-tavoite/)
+> Tutkijat varoittavat, että liian alhainen rokotekattavuus voi johtaa siihen, että taudista tulee kausi-influenssan tapaan pysyvä vitsaus. 
 
-Pääkaupunkiseudulle uusi suositus: ”Älkää järjestäkö yli 20 hengen yksityistilaisuuksia”
-https://www.hs.fi/kaupunki/art-2000006664677.html
+19.11.2020 [STM ja THL: Uusien koronatapausten määrä nousussa, epidemia voi vaikeutua nopeasti koko maassa – tartuntoja yhä enemmän iäkkäillä ja työpaikoilla](https://yle.fi/uutiset/3-11654758)
 
-Ranska julisti hätätilan - yöllinen ulkonaliikkumiskielto yhdeksään kaupunkiin
-https://www.iltalehti.fi/ulkomaat/a/014e2a1e-0756-4edc-8a46-da7526f29f42
-  - Ulkonaliikkumiskielto alkaa kello illalla 21 ja päättyy kello 6 aamulla.
-  
-- Neljä uutta koronakuolemaa
-- Pääkaupunkiseudun koronakoordinaatioryhmä toivoo maskipakkoa yli 20 hengen yleisötilaisuuksiin. Samalla linjalla ovat hmyös HUS ja THL
-- Eduskunta äänestää Krista Kiurun luottamuksesta
-- Kataloniassa baarit ja ravintolat kiinni kahdeksi viikoksi
-- Jussi-gaala
+27.11.2020 [Hetemäki vaati kirjeenvaihdossa valmiuslakia ja maskipakkoa jo lokakuussa](https://yle.fi/uutiset/3-11670649)
+> Kirjeenvaihdosta selviää, että Hetemäki on jo kuukausi sitten ehdottanut maskipakkoa ja liikkumisen rajoittamista, jotta epidemia saadaan pysähtymään. Hän on nähnyt valmiuslain käyttöönoton välttämättömäksi.
 
-15.10.
-Marin on saanut selvityksen THL:n Tervahaudalta – ”Asia loppuun käsitelty”
-https://www.iltalehti.fi/politiikka/a/42beb1c6-22d7-4e3c-bee9-cbb226b726a5
+29.11.20209 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
 
-Hallitus linjasi: Koko Suomeen laaja etätyösuositus
-https://www.iltalehti.fi/politiikka/a/e8a383eb-66f6-4d6c-ae99-0537b46430b3
-- aikuisten sisäliikuntaharrastuksia suositellaan keskeytettäväksi kiihtymisvaiheessa olevilla alueilla.
-- Leviämisvaiheessa yleisötilaisuuksia suositellaan kiellettäväksi.
+2.12.2020 [Rokote koronaa vastaan tarjotaan kaikille halukkaille, hallitus neuvotteli järjestyksestä – Arvio: hoitajien rokotukset alkavat ensi kuussa](https://yle.fi/uutiset/3-11677115)
 
-Hallitus linjasi valtakunnallisista ja alueellisista suosituksista koronaepidemian leviämisen estämiseksi
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-valtakunnallisista-ja-alueellisista-suosituksista-koronaepidemian-leviamisen-estamiseksi
-- Valtakunnallinen etätyösuositus
+15.12.2020 [Husin johtaja­ylilääkäriltä vahva viesti: ”Uudeltamaalta ei tänä jouluna lähdetä muualle Suomeen”](https://www.is.fi/kotimaa/art-2000007682656.html)
+> Jos nykyisiä rajoituksia ei noudateta paremmin, viikon päästä on asetettava uusia, Markku Mäkijärvi sanoo.
 
-Perustuslakivaliokunta pysäytti ravintolarajoitukset ja vaatii muutoksia – hallituksen esitys rajoittaa liikaa elinkeinovapautta
-https://yle.fi/uutiset/3-11596956
-
-Marraskuu
-
-19.11. STM ja THL: Uusien koronatapausten määrä nousussa, epidemia voi vaikeutua nopeasti koko maassa – tartuntoja yhä enemmän iäkkäillä ja työpaikoilla
-https://yle.fi/uutiset/3-11654758
-
-27.11. "Pahoittelen, että vaivaan taas" – Hetemäki vaati kirjeenvaihdossa valmiuslakia ja maskipakkoa jo lokakuussa, Marin: "Olen syvästi turhautunut"
-Entinen valtiosihteeri, hallitukselle koronastrategiaa laatinut Martti Hetemäki on lähestynyt pääministeri Sanna Marinia (sd.) sähköpostilla useita kertoja ja varoittanut korkean korona-aallon riskistä ja sen vaatimista raskaista toimista. Kirjeenvaihdosta selviää, että Hetemäki on jo kuukausi sitten ehdottanut maskipakkoa ja liikkumisen rajoittamista, jotta epidemia saadaan pysähtymään. Hän on nähnyt valmiuslain käyttöönoton välttämättömäksi.
-Pääministeri harmittelee, että kaikki ne tahot, jotka ovat ensisijaisesti koronatoimista vastuussa – eli alueet ja kunnat, eivät ole ryhtyneet riittäviin toimiin. Yksimielisyyttä ei ole hallituspuolueidenkaan kesken.
-– Olen syvästi turhautunut siihen, ettei tilanteen vakavuutta laajasti ymmärretä. Hallituksen sisälläkin on vaikeuksia saada riittäviä toimia läpi eri puolueiden epäröinnistä johtuen.
-– Alueilla on välineitä tehdä ennakoivia ja nopeita toimia, mutta rohkeutta puuttuu. Erityisesti kannan huolta pääkaupunkiseudun toimien vaatimattomuudesta, Marin vastaa Hetemäelle.
-https://yle.fi/uutiset/3-11670649
-
-
-Joulukuu
-
-2.12. Rokote koronaa vastaan tarjotaan kaikille halukkaille, hallitus neuvotteli järjestyksestä – Arvio: hoitajien rokotukset alkavat ensi kuussa
-https://yle.fi/uutiset/3-11677115
-
-15.12. Husin johtaja­ylilääkäriltä vahva viesti: ”Uudeltamaalta ei tänä jouluna lähdetä muualle Suomeen”
-Jos nykyisiä rajoituksia ei noudateta paremmin, viikon päästä on asetettava uusia, Markku Mäkijärvi sanoo.
-https://www.is.fi/kotimaa/art-2000007682656.html
-
-16.12. Kirjeenvaihtajalta: Saksassa on edessä joulu ilman lahjaostoksia ja uusivuosi ilman raketteja – Euroopan suurin talous menee säppiin, mutta taloustieteilijät kiittävät
-Saksassa alkaa tänään keskiviikkona laaja yhteiskunnan sulku. Koulut, päiväkodit ja valtaosa kaupoista pysyvät suljettuna vähintään tammikuun 10. päivään asti.
-1. Kaikki muut paitsi välttämättöminä pidetyt kaupat on suljettava.
-2. Koulut ja päiväkodit menevät kiinni siten, että joululomia pidennetään molemmista päistä. Hätähoito on yhä auki sitä tarvitseville perheille.
-3. Ilotulitteiden myynti kielletään uudeksivuodeksi. Taustalla on ajatus, etteivät ihmiset kokoontuisi tai kuormittaisi jo valmiiksi täysiä sairaaloita räjähdevammoillaan.
-4. Poliittinen johto kannustaa sulkemaan työpaikat, jos etätyö ei ole mahdollista.
-5. Glögin myynti kaduilla käytännössä kielletään uusilla rajoituksilla, jotka koskevat alkoholinkäyttöä julkisella paikalla.
-https://yle.fi/uutiset/3-11698041
-Viim. 14pv tartunnat: 5997 kuolleet: 58
-sairaalassa 284, teholla 35
-
-[2020-12-17 "Keväällä huutokauppameininki", "Koulujen sulku nurinkurista", "Kaikkien pitäisi hoitaa oma tonttinsa" – hallituspuolueiden johtajat avaavat vuoden vaikeuksia](https://yle.fi/uutiset/3-11696580)
-Katri Kulmuni: Seison sen takana, että keväällä toimet olivat mittasuhteiltaan oikeita ja ne tehtiin oikeaan aikaan.
-Maria Ohisalo:  Koulut laitettiin kiinni, koska ajateltiin, että jos lapset ja nuoret tartuttavat tautia samalla tavoin kuin aikuiset, kouluissa on erityinen tartuntariski....Nyt tekisimme varmasti hallituksena toisin.
-Anna-Maja Henriksson: Kasvomaskien hankintoihin ja lentokentän tilanteeseen liittyy asioita, jotka eivät menneet kuin Strömsössä. Keväällä yllätyin siitä, että aika monet tuntuivat olevan valmiita menemään heti hyvin tiukkoihin rajoituksiin, ruvettiin puhumaan jopa ulkonaliikkumiskiellosta. Tuli sellainen huutokaupan meininki. Se vaihe onneksi meni vähitellen ohitse ja kannat muuttuivat. Silloin kun tuulee kovaa, jonkun on koko ajan seistävä jalat maassa.
-Li Andersson: Näin jälkiviisastellen sanoisin, että matkustusmallia koskeva työ olisi pitänyt laittaa aikaisemmin liikkeelle. Meillähän ei ole sitä vieläkään. Valmistelu on ollut huomattavasti haasteellisempaa kuin oletettiin.
-Kun kevään osalta erityisesti Andersson ja Ohisalo harmittelivat koulujen sulkemista, syksyllä ministereitä ovat kaihertaneet eniten matkustusrajoitukset. Kaikki haastatellut ministerit ovat sitä mieltä, että syksyn vaikeimmat kysymykset liittyvät rajoihin.
-
-Toisen asteen #etäopetus Helsingissä päättyy hiihtoloman jälkeen, hallitusti ja tiukoin turvatoimin. Tämä oli tärkeä päätös, koska meillä on ollut jo pidempään huolestuttavia merkkejä nuorten kokemasta pahoinvoinnista ja oppimisen vaikeuksista.
-https://twitter.com/sannavesikansa/status/1362428159224856576
-
-2022-01-25 Ministeri Krista Kiuru jää sairauslomalle
-https://www.hs.fi/politiikka/art-2000008565688.html
+16.12.2020 [Saksa lockdowniin](https://yle.fi/uutiset/3-11698041)

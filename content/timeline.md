@@ -129,15 +129,20 @@ title: Aikajana
 * Kun tartuntojen määrä on saatu hyvin pieneksi, helpottuu tartuntaketjujen tunnistaminen ja jäljittäminen.
 * Uusien tartuntojen leviäminen ulkomailta takaisin Suomeen voidaan estää maahan tulevien testauksella ja/tai karanteenilla. Näin saamme ehkäistyä uudet epidemia-aallot toimin, jotka ovat taloudellisilta ja inhimillisiltä kustannuksiltaan siedettävät.
 
+15.5.2020 [Tutkimus: Koronavirus on ainakin 10 kertaa tappavampi kuin tavallinen kausi-influenssa – Suhdeluku voi vieläkin kasvaa, tutkijat varoittavat](https://tekniikanmaailma.fi/tutkimus-koronavirus-on-ainakin-10-kertaa-tappavampi-kuin-tavallinen-kausi-influenssa-suhdeluku-voi-vielakin-kasvaa-tutkijat-varoittavat/)
+
 29.5.2020 [STM selvitti: Kasvomaskien vaikutus koronan ehkäisemisessä on vähäinen tai olematon – väärä käyttö voi lisätä tartuntariskiä, alan kansainväliset tutkimukset epäluotettavia](https://www.mtvuutiset.fi/artikkeli/katso-suorana-juuri-nyt-tuleeko-kasvomaskisuositus-suomeen-stm-julkistaa-selvityksensa/7833490)
 
 1.6.2020 [Ravintolarajoituksia puretaan](https://yle.fi/uutiset/3-11357765)
 
 2.6.2020 [Hallituksen tiedepaneeli suosittelee: Maskeja kannattaa käyttää julkisilla paikoilla](https://www.mtvuutiset.fi/artikkeli/hallituksen-tiedepaneeli-suosittelee-maskeja-kannattaa-kayttaa-julkisilla-paikoilla/7836036)
 
-3.6. Hallitus päättää, että se ei anna suositusta kasvomaskien käytöstä silloisessa epidemiatilanteessa. 
+3.6.2020 [Hallitus ei anna yleistä suositusta kasvomaskien käytöstä](https://www.hs.fi/politiikka/art-2000006528390.html)
 
-15.6. Hallitus arvioi 15. kesäkuuta, että koronavirusepidemia on hallittavissa viranomaisten säännönmukaisin toimivaltuuksin ja totesi, että maassa eivät enää vallitse poikkeusolot.
+4.6.2020 [Krista Kiuru kertoo, miksi hallitus ohitti oman tiedepaneelinsa eikä antanut yleistä suositusta kasvomaskien käytöstä](https://www.is.fi/kotimaa/art-2000006529283.html)
+> Hallitus jyräsi asettamansa tiedepaneelin, joka oli tiistaina suositellut kasvosuojuksen käyttämistä yleisillä paikoilla ja joukkoliikenteessä.
+
+15.6.2020 Hallitus arvioi 15. kesäkuuta, että koronavirusepidemia on hallittavissa viranomaisten säännönmukaisin toimivaltuuksin ja totesi, että maassa eivät enää vallitse poikkeusolot.
 
 4.7.2020 [239 Experts With One Big Claim: The Coronavirus Is Airborne](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html)
 
@@ -152,9 +157,8 @@ title: Aikajana
 13.8.2020 [Hallitus puoltaa THL:n maskisuositusta julkiseen liikenteeseen, suositus etätöistä palautetaan alueellisesti, riskimaille tulossa liikennevalomalli
 THL suosittaa kasvomaskien käyttöä niissä tilanteissa, joissa lähikontaktien välttäminen ei ole mahdollista.](https://yle.fi/uutiset/3-11490572)
 
-15.9: Ilta-Sanomat etusivu (screenshot):
-THL-johtaja Mika Salminen räväyttää: Korona ei ole niin vaarallinen kuin pelättiin
-- Kuolleisuus laskee koko ajan
+15.9.2020 [THL:n Salminen: Korona ei ole niin vaarallinen kuin pelättiin – ”Se, miltä korona näytti keväällä, ei ihan pidä paikkansa”](https://www.is.fi/kotimaa/art-2000006635940.html)
+> Vaikka tietenkin toivomme epidemian hiipumista keväällä, niin täytyy vahvasti varautua siihenkin, että kesäänkin asti voidaan epidemian kanssa joutua pärjäämään.
 
 2020-08-25 Tutkijat löysivät maailman ensimmäisen tapauksen, jossa sama ihminen on saanut koronatartunnan kahdesti – Löytö jakaa tutkijoiden mielipiteitä
 https://tekniikanmaailma.fi/tutkijat-loysivat-maailman-ensimmaisen-tapauksen-jossa-sama-ihminen-on-saanut-koronatartunnan-kahdesti-loyto-jakaa-tutkijoiden-mielipiteita/

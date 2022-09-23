@@ -16,9 +16,6 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 12.4.2021 ["Tuore suomalaistutkimus: FFP-maski suojaa koronalta terveydenhuollossa"](https://www.laakarilehti.fi/tieteessa/uutiset/tuore-suomalaistutkimus-ffp-maski-suojaa-koronalta-terveydenhuollossa/?public=1caddc5a00d9df8176df646517b3b546)
 > "Työperäisiä koronatartuntoja ei tullut, kun koronapotilaita hoitavilla terveydenhuollon työntekijöillä oli käytössään FFP2/FFP3-hengityksensuojaimet tai paremmat"
 
-26.4.2021 [MIT:n tutkimus kyseenalaistaa kahden metrin turvavälin – Ohjeistus synnyttää ”valheellisen turvallisuudentunteen”, sanoo professori](https://tekniikanmaailma.fi/mitn-tutkimus-kyseenalaistaa-kahden-metrin-turvavalin-ohjeistus-synnyttaa-valheellisen-turvallisuudentunteen-sanoo-professori/)
-> Tutkijoiden keskeinen havainto on, ettei kahden metrin turvavälillä ole altistumisriskiin merkittävää vaikutusta etenkään, jos ihmiset käyttävät kasvomaskeja. ”Mitä pidempään olet sisällä tartunnan saaneen ihmisen kanssa, sitä korkeampi on tartunnan riski.”
-
 9.6.2021 [Ilman maskia puhuminen sisätiloissa asettaa muita ihmisiä suurimpaan koronavaaraan, tutkimus sanoo – Aerosolit leijuvat ilmassa minuutteja ”savun tavoin”](https://tekniikanmaailma.fi/ilman-maskia-puhuminen-sisatiloissa-asettaa-muita-ihmisia-suurimpaan-koronavaaraan-tutkimus-sanoo-aerosolit-leijuvat-ilmassa-minuutteja-savun-tavoin/)
 > Kasvomaskitta puhuminen suljetussa tilassa asettaa muut samassa tilassa olevat ihmiset korkeimpaan mahdolliseen koronatartuntavaaraan, esittää tuore yhdysvaltalaistutkimus. Tutkijat katsovatkin nyt, että puheen kautta ilmateitse tapahtuvat koronavirustartunnat olisivat ”ensisijaisia edistäjiä” koronaviruksen pikaisessa leviämisessä ympäri maailmaa.
 

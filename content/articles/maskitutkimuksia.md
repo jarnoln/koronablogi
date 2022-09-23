@@ -5,6 +5,8 @@ date: 2022-09-23
 
 Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei ole hyötyä korovavirukselta suojautumisessa tai epidemian hallinnassa. Usein edes maalaisjärki (asiaan perehtymätönkin saattaisi päätellä, että hengityssuojaimet olisivat varsin hyödyllisiä pääasiassa hengitysteitse leviävää virusta vastaan) tai esimerkit (Aasian maissa, joissa hengityssuojainten käyttö oli yleistä jo ennen koronapandemiaa, on koronan kuolleita vain murto-osa Suomen lukemista huolimatta siitä, että niissä on paljon suurmpi väestöntiheys ja siten paremmat edellytykset viruksen leviämiselle) eivät auta. Siksi tässä vielä pari aihetta käsittelevää tutkimusta:
 
+15.5.2020 [VTT:n tutkija: Kangasmaskit eivät suojaa koronavirukselta, mutta jos tarpeeksi moni käyttäisi niitä, tartuttavuus laskisi paljon](https://tekniikanmaailma.fi/vttn-tutkija-kangasmaskit-eivat-suojaa-koronavirukselta-mutta-jos-tarpeeksi-moni-kayttaisi-niita-tartuttavuus-laskisi-paljon/)
+
 2.6.2020 [Hallituksen tiedepaneeli suosittelee: Maskeja kannattaa käyttää julkisilla paikoilla](https://www.mtvuutiset.fi/artikkeli/hallituksen-tiedepaneeli-suosittelee-maskeja-kannattaa-kayttaa-julkisilla-paikoilla/7836036)
 
 7.12.2020 [Saksalaistutkimus: Kasvomaskit vähensivät selvästi koronaviruksen tartuntamääriä]( https://tekniikanmaailma.fi/saksalaistutkimus-kasvomaskit-vahensivat-selvasti-koronaviruksen-tartuntamaaria/)

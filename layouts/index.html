@@ -1,10 +1,12 @@
 {{ define "content" }}
 
-<section id="content" class="section--center mdl-grid mdl-shadow--2dp">
+<h1>Kirjoituksia koronasta</h2>
+
+<section id="content">
     <ul>
     {{ range where site.RegularPages "Type" "articles" }}
         <li>
-            <a class="mdl-navigation__link" href="{{ .Permalink }}">
+            <a href="{{ .Permalink }}">
                 {{ .Title }}
             </a>
         </li>
@@ -12,4 +14,3 @@
     </ul>
 </section><!-- /#content -->
 {{ end }}
-

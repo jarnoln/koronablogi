@@ -96,6 +96,14 @@
 
 11.9.2021 [Median pitää rohkaista ihmisiä pois koronapelosta, sanoo HS:n toimituspäällikkö Esa Mäkinen – "Mika Salminen ei tule taluttamaan meitä karaokeen"](https://yle.fi/uutiset/3-12094285)
 
+24.9.2021 [Pääministeri Marin oli keväällä ”aika väsynyt”, mutta IS-haastattelussa hänellä on kansalle vapauden­viesti – korona on pian selätetty: ”Nyt saa mennä, kokea ja tehdä”](https://www.is.fi/politiikka/art-2000008285520.html)
+* Tässä haastattelussa hänen pääviestinsä on typistetysti: Nyt on oikea aika jokaisen suomalaisen elää normaalia elämää.
+* "Toivon, että kaikki suomalaiset nyt kokevat, että saavat mennä, tehdä, kokea ja viettää aikaa ystävien ja läheisten seurassa."
+* Marin kannustaa liikkeelle myös niitä, jotka pitkän kurimuksen jälkeen eivät vielä oikein ole uskaltautuneet rokotteista huolimatta.
+* Marin muistuttaa hallituksen purkavan rajoituksia jo nyt koko ajan. "Emme suinkaan odota sinne asti, että rokotekattavuus on 80 prosenttia."
+* "Esimerkiksi kun päivitimme hybridistrategiaamme, niin silloin itsekin kuvasin, että emme jää yhden tai kahden prosentin vangiksi, vaan pyrimme avaamaan yhteiskuntaa jo ennen 80 prosentin rokotekattavuutta ja tulemme sen tekemään."
+* Useat hallituksen ministerit ovat olleet kulisseissa tuskastuneita Kiurun ja STM:n hitauteen Suomen avaamisessa. Marinin kerrotaan joutuneen laittamaan Kiurua kovastikin kulisseissa järjestykseen.
+
 30.9.2021 [Ravintolarajoituksissa yllätyskäänne: viimeisetkin laulu- ja tanssikiellot poistuvat, tunti lisää aukioloon](https://yle.fi/uutiset/3-12121991)
 * Kiihtymisvaiheen maakunnista poistetaan kaikki rajoitukset.
 
@@ -128,90 +136,45 @@ https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-e
 25.11.2021 [Jos sulkee silmät, törmää seinään](https://www.tiede.fi/blogit/kaiken-takana-loinen/jos-sulkee-silmat-tormaa-seinaan)
 * Koronapandemian aikana on tehty paljon vääriä päätöksiä. ... Hämmentävintä on kuitenkin ollut tämän syksyn kehitys, jossa aluksi teeskenneltiin, että pandemia on jo melkein ohi, kunnes viimeistään tällä viikolla tajuttiin, ettei ole. 
 
-2021-11-27 "Hädissään ei ole syytä olla" – asiantuntijat kertovat, miten uuteen omikron-koronamuunnokseen kannattaa suhtautua
-Salminen Me olemme nähneet, että jos on herkästi leviävä variantti, sen leviämisen estäminen on melko mahdoton tehtävä pidemmän päälle. Sitä voi ehkä vähän viivyttää, mutta täysin sen estäminen ei ole millään aikaisemmalla variantilla onnistunut. Siksi on aika vaikea nähdä, että se onnistuisi millään uudellakaan.
+27.11.2021 ["Hädissään ei ole syytä olla" – asiantuntijat kertovat, miten uuteen omikron-koronamuunnokseen kannattaa suhtautua](https://yle.fi/uutiset/3-12206267)
+* Salminen: Me olemme nähneet, että jos on herkästi leviävä variantti, sen leviämisen estäminen on melko mahdoton tehtävä pidemmän päälle. Sitä voi ehkä vähän viivyttää, mutta täysin sen estäminen ei ole millään aikaisemmalla variantilla onnistunut. Siksi on aika vaikea nähdä, että se onnistuisi millään uudellakaan.
+* Salminen: Meillä ei ole mitään näyttöä siitä, että nämä muunnokset romahduttaisivat rokotevasteen. Pitää olla vähän varovainen, ettei liian helposti hypätä myöskään ylivarovaisuuden kelkkaan.
 
-Salminen: Meillä ei ole mitään näyttöä siitä, että nämä muunnokset romahduttaisivat rokotevasteen.
-Pitää olla vähän varovainen, ettei liian helposti hypätä myöskään ylivarovaisuuden kelkkaan. Nämä ovat mielestäni hyvät toimet tähän tilanteeseen. 
-https://yle.fi/uutiset/3-12206267
+28.11.2021 [Oikeusministeri Henriksson tyrmää alue­vaalien lykkäämisen: ”Ei ole tarkoitus siirtää vaaleja”](https://www.is.fi/politiikka/art-2000008437288.html)
 
-Länsimaissa ollut epidemian aikana yleistä, että terveysviranomaiset ovat ryhtyneet politikoimaan kansanterveydestä huolehtimisen sijaan ja puolustaneet alussa tehtyjä oletuksia vielä sittenkin, kun tiede on osoittanut ne vääriksi (esim. ilmavälitteisyys).
+29.11.2021 [Husin Lasse Lehtonen: Suomessa havaittu mahdollisesti ensimmäinen omikrontapaus](https://www.hs.fi/kaupunki/art-2000008439320.html)
 
-28.11. Oikeusministeri Henriksson tyrmää alue­vaalien lykkäämisen: ”Ei ole tarkoitus siirtää vaaleja”
-https://www.is.fi/politiikka/art-2000008437288.html
+1.12.2021 [Tutkimus: Vaikean koronataudin sairastaneilla on yli kaksinkertainen riski kuolla tartuntaa seuraavan vuoden aikana](https://tekniikanmaailma.fi/tutkimus-vaikean-koronataudin-sairastaneilla-on-yli-kaksinkertainen-riski-kuolla-tartuntaa-seuraavan-vuoden-aikana/)
 
-29.11
-Husin Lasse Lehtonen: Suomessa havaittu mahdollisesti ensimmäinen omikrontapaus
-Husin diagnostiikkajohtaja Lasse Lehtonen vahvisti HS:lle, että Suomesta on löytynyt S-geeninegatiivinen näyte.
-https://www.hs.fi/kaupunki/art-2000008439320.html
-
-Tänään Suomessa ilmoitettiin 29 uutta koronakuollutta. Marraskuun (29 päivän) aikana on ilmoitettu nyt yht. 180 kuollutta.
-Olen varma, että kaikki 180 kuolemaa ovat olleet vain lieviä kuolemia.
-https://twitter.com/GisseProf/status/1465262187258253315
-
-Marraskuussa on nyt ilmoitettu 177 koronakuolemaa. Numero olisi koko epidemian korkein, lukuun ottamatta huhtikuun 2020 piikkiä (194). Mutta koska marraskuussa tapahtuneita kuolemia ilmoitetaan vielä koko joulukuu, niiden luku voi hyvinkin olla yli 177 tai yli 194. "Nyt saa elää"
-https://twitter.com/MartinScheininF/status/1465276386604630021
-
-2021-12-01 Tutkimus: Vaikean koronataudin sairastaneilla on yli kaksinkertainen riski kuolla tartuntaa seuraavan vuoden aikana
-https://tekniikanmaailma.fi/tutkimus-vaikean-koronataudin-sairastaneilla-on-yli-kaksinkertainen-riski-kuolla-tartuntaa-seuraavan-vuoden-aikana/
-
-2.12. 
-Koronakatsaus
+2.12.2021 [STM:n ja THL:n koronatilannekatsaus](https://www.youtube.com/watch?v=fD6gw_DaVr4)
 - Epidemia­tilanne heikentynyt edelleen, teho­hoidon kuormitus selvästi aiempia viikkoja suurempi – suora lähetys käynnissä
-- Kuopion yliopistosairaalan tehohoidon professori Matti Reinikainen, kertoo että tehohoitoa saa nyt 53 koronaportilasta.
+- Kuopion yliopistosairaalan tehohoidon professori Matti Reinikainen, kertoo että tehohoitoa saa nyt 53 koronapotilasta.
 - Nuorten potilaiden osuus tehohoidossa on noussut verrattuna vuoteen 2020.
 - Neljäsosalla potilaista tehohoito on jatkunut yli kahden viikon ajan.
 - Tehohoidoissa olleista potilaista 14 prosenttia on kuollut teho-osastolla ja yhteensä 18 prosenttia sairaalahoitojakson aikana.
 - Yli 70-vuotiaista tehohoitoon joutuneista useampi kuin joka kolmas on kuollut tehohoitoon jouduttuaan.
-- Helve: Lasten tartuntoja torjutaan etenkin torjumalla aikuisten tartuntoja (https://www.youtube.com/watch?v=fD6gw_DaVr4)
-https://www.hs.fi/kotimaa/art-2000008447068.html
-https://yle.fi/uutiset/3-12213324
 
-Koronapotilaiden tehohoidon tarve selvässä kasvussa – sairaaloissa jo 52 potilasta, alle 40-vuotiaiden osuus yli kaksinkertaistunut aiemmasta
-https://yle.fi/uutiset/3-12212414
+2.12.2021 [Koronapotilaiden tehohoidon tarve selvässä kasvussa – sairaaloissa jo 52 potilasta, alle 40-vuotiaiden osuus yli kaksinkertaistunut aiemmasta](https://yle.fi/uutiset/3-12212414)
 
-2021-12-02 Kommentti: Korona­taistelun suuri johtaja Sanna Marin katosi ja sysäsi vastuun muille – mitä pääministeri pelkää?
-Suomen koronatilanne on vakava. Päivittäisissä tartunnoissa tehdään ennätyksiä ja tehohoidon kuormitus kasvaa. Pääministeri kuitenkin pysyy hiljaa, eikä ole julkisuudessa juurikaan kommentoinut koronatilannetta. 
- Ainakin Sdp:ssä on pelätty syksystä lähtien sitä, että koronatilanteen heikentyminen ja rajoitusten paluu romahduttavat pääministeripuolueen ja pääministerin kannatuksen. Kansa on kyllästynyt koronaan ja rajoituksiin ja Marin on jo kerran ehtinyt julistaa Suomen avatuksi ja koronan voitetuksi.
-Marinin jättämän tyhjiön onkin täyttänyt perhe- ja peruspalveluministeri Krista Kiuru. Mutta tottelevatko ihmiset Kiurua, joka on leimattu koko epidemian ajan turhan pelottelijaksi?
-https://www.is.fi/politiikka/art-2000008448595.html
+2.12.2021 [Kommentti: Korona­taistelun suuri johtaja Sanna Marin katosi ja sysäsi vastuun muille – mitä pääministeri pelkää?](https://www.is.fi/politiikka/art-2000008448595.html)
+* Suomen koronatilanne on vakava. Päivittäisissä tartunnoissa tehdään ennätyksiä ja tehohoidon kuormitus kasvaa. Pääministeri kuitenkin pysyy hiljaa, eikä ole julkisuudessa juurikaan kommentoinut koronatilannetta. 
+ * Ainakin Sdp:ssä on pelätty syksystä lähtien sitä, että koronatilanteen heikentyminen ja rajoitusten paluu romahduttavat pääministeripuolueen ja pääministerin kannatuksen. Kansa on kyllästynyt koronaan ja rajoituksiin ja Marin on jo kerran ehtinyt julistaa Suomen avatuksi ja koronan voitetuksi.
+* Marinin jättämän tyhjiön onkin täyttänyt perhe- ja peruspalveluministeri Krista Kiuru. Mutta tottelevatko ihmiset Kiurua, joka on leimattu koko epidemian ajan turhan pelottelijaksi?
 
+8.12.2021 [Tanska sulkee koulut](https://www.iltalehti.fi/ulkomaat/a/55748a61-25a4-4f07-ade8-c03eb3c64d3d)
 
-8.12. Tanska sulkee koulut
-https://www.iltalehti.fi/ulkomaat/a/55748a61-25a4-4f07-ade8-c03eb3c64d3d
+14.12.2021 Krista Kiuru A-studiossa
 
-14.12. Krista Kiuru A-studiossa
+15.12.2021 [Heikentynyt koronatilanne pakotti Taysin avaamaan koronaosaston uudelleen nopealla aikataululla: ”Emme enää pärjää ilman osastoa, sillä potilaita on paljon”](https://www.aamulehti.fi/koronavirus/art-2000008475989.html)
 
-15.12. Heikentynyt koronatilanne pakotti Taysin avaamaan koronaosaston uudelleen nopealla aikataululla: ”Emme enää pärjää ilman osastoa, sillä potilaita on paljon”
-https://www.aamulehti.fi/koronavirus/art-2000008475989.html
+16.12.2021 [Tutkimus: Laajamittainen maskien käyttö vähentää koronakuolemia merkittävästi](https://tekniikanmaailma.fi/tutkimus-laajamittainen-maskien-kaytto-vahentaa-koronakuolemia-merkittavasti/)
 
-2021-12-16 Tutkimus: Laajamittainen maskien käyttö vähentää koronakuolemia merkittävästi
-https://tekniikanmaailma.fi/tutkimus-laajamittainen-maskien-kaytto-vahentaa-koronakuolemia-merkittavasti/
+17.12.2021 [Tanska menee kiinni](https://www.iltalehti.fi/ulkomaat/a/f3b35b5f-24e6-4338-bf79-73babf4424fa)
+ 
+17.12.2021 [HUSin valmiustaso on nostettu täysvalmiuteen](https://www.hus.fi/ajankohtaista/husin-valmiustaso-nostettu-taysvalmiuteen)
 
-17.12. Tanska menee kiinni
- uun muassa teatterit, keikkapaikat, messukeskukset, elokuvateatterit, kasinot, museot, taidegalleriat, leikkipaikat, vesipuistot, tivolit, seurakuntatilat ja kansanopistot sulkeutuvat. Väkimäärää kirkoissa rajoitetaan. Myymälöiden aukioloaikoja ja asiakasmääriä suitsitaan niin ikään. Kauppojen asiakaspalveluhenkilökunnalle tulee maskipakko. Ravintoloiden tulee lopettaa ruoan ja juoman tarjoilu viimeistään kello 22. Tähän mennessä anniskelukielto on alkanut puoliltaöin.
+27.12.2021 [CDC Updates Guidance, Says People With Covid-19 Only Need to Isolate for 5 Days if Asymptomatic](https://gizmodo.com/cdc-updates-guidance-says-people-with-covid-19-only-ne-1848275098)
 
-HUSin valmiustaso on nostettu täysvalmiuteen 
-https://www.hus.fi/ajankohtaista/husin-valmiustaso-nostettu-taysvalmiuteen
+28.12.2021 ['Reckless and Dangerous': CDC's New, Shorter Covid-19 Isolation Guidelines Disturb Some Health Experts](https://gizmodo.com/reckless-and-dangerous-cdcs-new-shorter-covid-19-isol-1848276268)
 
-Kaikille työntekijöille sekä yksityisellä että julkisella sektorilla suositellaan etätöitä, jos se suinkin on mahdollista. Tanskan koulut suljettiin jo keskiviikkona.
-https://www.iltalehti.fi/ulkomaat/a/f3b35b5f-24e6-4338-bf79-73babf4424fa
-
-2021-12-17 Näyttäisi lievä koronahysteria jälleen ottavan tulta. Toivottavasti ei tartu päättäjiin. Yhteiskunnan sulkemisen hinta kun on kova, sitä ei kannata turhaan tehdä. Rokotukset edelleen tehokkain vastine.
-https://twitter.com/MikaelJungner/status/1471725511298752512
-
-28.12.
-New Delta Variant Warning sign
-A new Delta variant has appeared with 10+ more mutations, similar to Omicron.
-Source: https://nextstrain.org/ncov/gisaid/global
-https://twitter.com/Gab_H_R/status/1475827929988964357
-
-2021-12-27 CDC Updates Guidance, Says People With Covid-19 Only Need to Isolate for 5 Days if Asymptomatic
-https://gizmodo.com/cdc-updates-guidance-says-people-with-covid-19-only-ne-1848275098
-
-2021-12-28 'Reckless and Dangerous': CDC's New, Shorter Covid-19 Isolation Guidelines Disturb Some Health Experts
-https://gizmodo.com/reckless-and-dangerous-cdcs-new-shorter-covid-19-isol-1848276268
-
-2021-12-30 Tutkimus: Koronavirus voi pesiytyä aivoihin ja elimiin kuukausiksi akuutin taudin jälkeen
-https://tekniikanmaailma.fi/tutkimus-korona-voi-pesiytya-aivoihin-ja-elimiin-kuukausiksi-akuutin-taudin-jalkeen/
-
+30.12.2021 [Tutkimus: Koronavirus voi pesiytyä aivoihin ja elimiin kuukausiksi akuutin taudin jälkeen](https://tekniikanmaailma.fi/tutkimus-korona-voi-pesiytya-aivoihin-ja-elimiin-kuukausiksi-akuutin-taudin-jalkeen/)

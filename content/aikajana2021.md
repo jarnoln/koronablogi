@@ -57,6 +57,8 @@
 
 26.6.2021 [Kaikissa Pietarin EM-paluubusseissa on voinut altistua koronalle –Kisaturisteilla 120 tartuntaa](https://www.iltalehti.fi/koronavirus/a/2714d4a0-9d44-4919-beeb-d35edb5a7698)
 
+29.6.2021 [THL:n Nohynek: Koronarokotusohjelman päämäärät on pian saavutettu – onko tartuntojen estäminen enää tarpeellista?](https://www.mtvuutiset.fi/artikkeli/thl-n-nohynek-koronarokotusohjelman-paamaarat-on-pian-saavutettu-onko-tartuntojen-estaminen-enaa-tarpeellista/8180964#gs.hj1ccj)
+
 12.7.2021 [THL:n Salminen: ”Elämä palaa vanhoille raiteille” – lohduttava viesti suomalaisille](https://www.iltalehti.fi/terveysuutiset/a/6e433208-821b-4dbc-b25a-6c9b1e4f0b02)
 * Salminen uskoo, että ajan myötä pandemiaan liittyvät varotoimet unohdetaan. Maskit unohdetaan, samoin turvavälit ja jopa käsihygienia saattaa taas palautua entiselle tolalle.
 * Jos rokotuksissa käydään aikataulun mukaisesti, jo elo-syyskuun vaihteessa on Salmisen mukaan Suomessa suurin osa koronan riskeistä on saatu painettua alas.
@@ -107,37 +109,24 @@
 19.10.2021 [Analyysi: Suomi voi joutua painamaan koronahätäjarrua](https://www.iltalehti.fi/politiikka/a/e38599cf-14f8-4e2e-9794-5a695fcfaed2)
 * Iltalehden tietojen mukaan Suomi voi olla muutaman viikon kuluttua tilanteessa, jossa terveydenhuollon kantokyky ei kestä ja hallitus joutuu myöntämään virheensä koronarajoitusten liian nopeassa avaamisessa, kirjoittaa Kreeta Karvala.
 
-2021-10-20 Covid-19-tapaukset lisääntyvät koulujen avautuessa – Etenkin silloin, kun opettajat ja oppilaat eivät käytä maskeja 
-Yhdysvalloissa tehdyn uuden tutkimuksen mukaan koulujen uudelleen avaaminen vuoden 2020 lopulla liittyi Covid-19-tapausten ja kuolemien lisääntymiseen.
-Mutta mikä tärkeintä, tapaukset ja kuolemat lisääntyivät eniten alueilla, joissa oppilaiden ja opettajien ei tarvinnut käyttää maskeja koulussa.
-Meidän ei pitäisi olla yllättyneitä tästä havainnosta, koska kasvomaskit ovat yksi tehokkaimmista tavoista estää Covid-19-taudin leviäminen. Yhdysvaltain tautikeskusten (CDC) tukema tutkimus tartuntojen leviämisestä kouluissa havaitsi, että kouluissa, joissa ei vaadittu kasvomaskia, oli 3,5 kertaa suurempi todennäköisyys taudin puhkeamiseen kuin kouluissa, joissa oppilailla ja henkilökunnalla oli maskipakko.
+20.10.2021 [Covid-19-tapaukset lisääntyvät koulujen avautuessa – Etenkin silloin, kun opettajat ja oppilaat eivät käytä maskeja](https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-etenkin-silloin-kun-opettajat-ja-oppilaat-eivat-kayta-maskeja/)
+* Yhdysvalloissa tehdyn uuden tutkimuksen mukaan koulujen uudelleen avaaminen vuoden 2020 lopulla liittyi Covid-19-tapausten ja kuolemien lisääntymiseen.
+* Mutta mikä tärkeintä, tapaukset ja kuolemat lisääntyivät eniten alueilla, joissa oppilaiden ja opettajien ei tarvinnut käyttää maskeja koulussa.
+* Meidän ei pitäisi olla yllättyneitä tästä havainnosta, koska kasvomaskit ovat yksi tehokkaimmista tavoista estää Covid-19-taudin leviäminen. Yhdysvaltain tautikeskusten (CDC) tukema tutkimus tartuntojen leviämisestä kouluissa havaitsi, että kouluissa, joissa ei vaadittu kasvomaskia, oli 3,5 kertaa suurempi todennäköisyys taudin puhkeamiseen kuin kouluissa, joissa oppilailla ja henkilökunnalla oli maskipakko.
 https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-etenkin-silloin-kun-opettajat-ja-oppilaat-eivat-kayta-maskeja/
 
-2021-10-21 Latvia menee tänään kiinni, sairaaloissa yli tuhat koronapotilasta – "Ainoa keino ratkaista tämä kriisi on rokottautua"
-Latvia ottaa tänään torstaina käyttöön raskaansarjan koronatoimet. Niitä ovat öinen ulkonaliikkumiskielto, kauppojen ja ravintoloiden sulkeminen sekä kulttuuri- ja urheilutapahtumien peruminen.
-Latvian hallitus julisti maahan poikkeustilan jo puolitoista viikkoa sitten, mutta se ei ole parantanut tartuntatilannetta.
-Poikkeustila kohdistettiin ennen kaikkea rokottamattomiin. He saivat käydä vain välttämättömillä asioilla, kuten apteekissa ja ruokakaupassa.
-https://yle.fi/uutiset/3-12150705
+11.10.2021 [Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan](https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/)
 
-2021-10-11 Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan
-https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/
+21.10.2021 [Latvia menee tänään kiinni, sairaaloissa yli tuhat koronapotilasta – "Ainoa keino ratkaista tämä kriisi on rokottautua"](https://yle.fi/uutiset/3-12150705)
+* Latvia ottaa tänään torstaina käyttöön raskaansarjan koronatoimet. Niitä ovat öinen ulkonaliikkumiskielto, kauppojen ja ravintoloiden sulkeminen sekä kulttuuri- ja urheilutapahtumien peruminen.
 
+3.11.2021 [THL:n Mika Salminen: Uusi arvio paluusta normaaliin elämään](https://www.is.fi/kotimaa/art-2000008374234.html)
+* Hän arvioi, että viimeistään keväällä Suomessa voidaan elää normaalia elämää.
 
-Marraskuu
+18.11.2021 [Tutkimus: Maskit ovat tehokkain yksittäinen keino vähentää koronaviruksen ilmaantuvuutta](https://tekniikanmaailma.fi/tutkimus-maskit-ovat-tehokkain-yksittainen-keino-vahentaa-koronaviruksen-ilmaantuvuutta/)
 
-2021-11-03 THL:n Mika Salminen: Uusi arvio paluusta normaaliin elämään
-Hän arvioi, että viimeistään keväällä Suomessa voidaan elää normaalia elämää. (Salminen)
-https://www.is.fi/kotimaa/art-2000008374234.html
-
-2021-11-18 Tutkimus: Maskit ovat tehokkain yksittäinen keino vähentää koronaviruksen ilmaantuvuutta
-https://tekniikanmaailma.fi/tutkimus-maskit-ovat-tehokkain-yksittainen-keino-vahentaa-koronaviruksen-ilmaantuvuutta/
-
-2021-11-22 Koronakuolemien määrä laskee alle kausi-influenssan aiheuttamien kuolemien määrän ensi kesään mennessä, Bill Gates ennustaa
-Gates perustaa arvionsa rokotekattavuuteen, tartuntojen kautta saavutettuun luontaisen immuniteetin lisääntymiseen ja suun kautta nautittavien koronaviruslääkkeiden markkinoille tuloon.
-https://tekniikanmaailma.fi/koronakuolemien-maara-laskee-alle-kausi-influenssan-aiheuttamien-kuolemien-maaran-ensi-kesaan-mennessa-bill-gates-ennustaa/
-
-2021-11-25 Jos sulkee silmät, törmää seinään
-https://www.tiede.fi/blogit/kaiken-takana-loinen/jos-sulkee-silmat-tormaa-seinaan
+25.11.2021 [Jos sulkee silmät, törmää seinään](https://www.tiede.fi/blogit/kaiken-takana-loinen/jos-sulkee-silmat-tormaa-seinaan)
+* Koronapandemian aikana on tehty paljon vääriä päätöksiä. ... Hämmentävintä on kuitenkin ollut tämän syksyn kehitys, jossa aluksi teeskenneltiin, että pandemia on jo melkein ohi, kunnes viimeistään tällä viikolla tajuttiin, ettei ole. 
 
 2021-11-27 "Hädissään ei ole syytä olla" – asiantuntijat kertovat, miten uuteen omikron-koronamuunnokseen kannattaa suhtautua
 Salminen Me olemme nähneet, että jos on herkästi leviävä variantti, sen leviämisen estäminen on melko mahdoton tehtävä pidemmän päälle. Sitä voi ehkä vähän viivyttää, mutta täysin sen estäminen ei ole millään aikaisemmalla variantilla onnistunut. Siksi on aika vaikea nähdä, että se onnistuisi millään uudellakaan.

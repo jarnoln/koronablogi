@@ -31,6 +31,9 @@ title: Aikajana
 
 10.3.2020 [Italiassa maanlaajuinen lockdown](https://www.theguardian.com/world/2020/mar/09/coronavirus-italy-prime-minister-country-lockdown
 
+3.10.2020 [Infektiotautien erikoislääkäri Jukka Lumio: Massatapahtumien peruminen saattaa olla turhaa – “Virus jyllää kolmesta kuuteen kuukautta ja sitten se katoaa”](https://yle.fi/uutiset/3-11246000)
+* Lumio pitää täysin mahdollisena, että kesään mennessä aalto sammuu itsestään.
+
 11.3.2020 [Suomessa ei ainakaan toistaiseksi kielletä suuria yleisötilaisuuksia](https://yle.fi/uutiset/3-11252252)
 * Johtaja Mika Salminen Terveyden ja hyvinvoinnin laitoksen terveysturvallisuusosastolta arvioi tiistaina Ylelle, että yleisötapahtumien peruminen ei merkittävästi edes viivytä epidemiaa.
 * Kiellon vaikuttavuus on todella pieni, sanoo sosiaali- ja terveysministeriön kansliapäällikkö Kirsi Varhila.
@@ -130,6 +133,10 @@ title: Aikajana
 * Uusien tartuntojen leviäminen ulkomailta takaisin Suomeen voidaan estää maahan tulevien testauksella ja/tai karanteenilla. Näin saamme ehkäistyä uudet epidemia-aallot toimin, jotka ovat taloudellisilta ja inhimillisiltä kustannuksiltaan siedettävät.
 
 15.5.2020 [Tutkimus: Koronavirus on ainakin 10 kertaa tappavampi kuin tavallinen kausi-influenssa – Suhdeluku voi vieläkin kasvaa, tutkijat varoittavat](https://tekniikanmaailma.fi/tutkimus-koronavirus-on-ainakin-10-kertaa-tappavampi-kuin-tavallinen-kausi-influenssa-suhdeluku-voi-vielakin-kasvaa-tutkijat-varoittavat/)
+
+29.5.2020 [Päätoimittajan kommentti: Koronan ensi-isku oli pelkkä tussahdus – entäpä jos annettaisiin vaara ohi -merkki?](https://www.mtvuutiset.fi/artikkeli/paatoimittajan-kommentti-koronan-ensi-isku-oli-pelkka-tussahdus-entapa-jos-annettaisiin-vaara-ohi-merkki/7833812)
+* Tarvittaisiin Ritari Rohkea, joka jykevän selväsanaisesti hälventää Suomessa yhä leijuvaa koronapelon ilmapiiriä, kirjoittaa MTV Uutisten päätoimittaja Ilkka Ahtiainen.
+* Arvataanpa: Toista lockdownia ei tule
 
 29.5.2020 [STM selvitti: Kasvomaskien vaikutus koronan ehkäisemisessä on vähäinen tai olematon – väärä käyttö voi lisätä tartuntariskiä, alan kansainväliset tutkimukset epäluotettavia](https://www.mtvuutiset.fi/artikkeli/katso-suorana-juuri-nyt-tuleeko-kasvomaskisuositus-suomeen-stm-julkistaa-selvityksensa/7833490)
 

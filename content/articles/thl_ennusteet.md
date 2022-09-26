@@ -1,6 +1,6 @@
 ---
 title: THL:n ennusteet
-date: 2022-09-23
+date: 2022-09-25
 ---
 
 THL on Suomen johtava terveysviranomainen ja Suomen koronapolitiikka on pitkälti pohjutunut THL:n tilannekuvaan ja ennusteisiin. Harmi vain, että ne ovat useimmiten osoittautuneet täysin virheellisiksi. Yleensnsä ne ovat olleet aivan liian optimistisia, minkä vuoksi suojatoimet on aloitettu aivan liian myöhään tai purettu liian aikaisin, minkä vuoksi korona on päässyt leviämään ja tuhansia suomalaisia on sairastunut ja kuollut.

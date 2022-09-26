@@ -29,9 +29,9 @@ title: Aikajana
 * Suun eteen laitettavat naamarit eivät THL:n ylilääkäri Taneli Puumalaisen mukaan suojaa tartunnalta. - Ne eivät tutkitusti juurikaan suojaa käyttäjää arjessa, niitä ei osata käyttää, ja niiden pois riisumiseen liittyy riskejä, Puumalainen sanoi tiedotustilaisuudessa.
 * Käsienpesulla pystyy tehokkaasti hillitsemään virusten leviämistä.
 
-10.3.2020 [Italiassa maanlaajuinen lockdown](https://www.theguardian.com/world/2020/mar/09/coronavirus-italy-prime-minister-country-lockdown
+10.3.2020 [Italiassa maanlaajuinen lockdown](https://www.theguardian.com/world/2020/mar/09/coronavirus-italy-prime-minister-country-lockdown)
 
-3.10.2020 [Infektiotautien erikoislääkäri Jukka Lumio: Massatapahtumien peruminen saattaa olla turhaa – “Virus jyllää kolmesta kuuteen kuukautta ja sitten se katoaa”](https://yle.fi/uutiset/3-11246000)
+10.3.2020 [Infektiotautien erikoislääkäri Jukka Lumio: Massatapahtumien peruminen saattaa olla turhaa – “Virus jyllää kolmesta kuuteen kuukautta ja sitten se katoaa”](https://yle.fi/uutiset/3-11246000)
 * Lumio pitää täysin mahdollisena, että kesään mennessä aalto sammuu itsestään.
 
 11.3.2020 [Suomessa ei ainakaan toistaiseksi kielletä suuria yleisötilaisuuksia](https://yle.fi/uutiset/3-11252252)

@@ -1,6 +1,6 @@
 ---
 title: Muita pieleen menneitä ennusteita
-date: 2022-09-26
+date: 2022-09-25
 ---
 
 THL, Suomen johtavat terveysviranomainen, ei ole varsinaisesti osunut nappiin [ennusteissaan](/articles/thl_ennusteet.html) epidemian kehityksestä (eli ennustanut epidemian päättymistä jo kymmeniä kertoja, ollen joka kerta väärässä). Mutta THL ei ole suinkaan ainoa taho, jonka ennustukset ovat menneet pieleen. Tässä muutamia esimerkkejä muista ennusteista, jotka eivät ihan osuneet kohdalleen:

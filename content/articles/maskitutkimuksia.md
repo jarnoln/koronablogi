@@ -1,6 +1,6 @@
 ---
 title: Maskitutkimuksia
-date: 2022-09-24
+date: 2022-09-18
 ---
 
 Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei ole hyötyä korovavirukselta suojautumisessa tai epidemian hallinnassa. Usein edes maalaisjärki (asiaan perehtymätönkin saattaisi päätellä, että hengityssuojaimet olisivat varsin hyödyllisiä pääasiassa hengitysteitse leviävää virusta vastaan) tai esimerkit (Aasian maissa, joissa hengityssuojainten käyttö oli yleistä jo ennen koronapandemiaa, on koronan kuolleita vain murto-osa Suomen lukemista huolimatta siitä, että niissä on paljon suurempi väestöntiheys ja siten paremmat edellytykset viruksen leviämiselle) eivät auta. Siksi tässä vielä pari aihetta käsittelevää tutkimusta:

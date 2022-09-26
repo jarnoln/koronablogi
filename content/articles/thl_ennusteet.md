@@ -1,6 +1,6 @@
 ---
 title: THL:n ennusteet
-date: 2022-09-25
+date: 2022-09-24
 ---
 
 THL on Suomen johtava terveysviranomainen ja Suomen koronapolitiikka on pitkälti pohjutunut THL:n tilannekuvaan ja ennusteisiin. Harmi vain, että ne ovat useimmiten osoittautuneet täysin virheellisiksi. Yleensnsä ne ovat olleet aivan liian optimistisia, minkä vuoksi suojatoimet on aloitettu aivan liian myöhään tai purettu liian aikaisin, minkä vuoksi korona on päässyt leviämään ja tuhansia suomalaisia on sairastunut ja kuollut.
@@ -17,7 +17,8 @@ Tässä muutamia esimerkkejä:
 
 18.3. [Huhtikuun puolenvälin lopulla voi olla epidemian huippu ja epidemia voi jatkua kesään asti, Jussi Sane arvioi.](https://www.is.fi/kotimaa/art-2000006443789.html)
 
-15.9. [THL:n Salminen: Korona ei ole niin vaarallinen kuin pelättiin - Vaikka tietenkin toivomme epidemian hiipumista keväällä, niin täytyy vahvasti varautua siihenkin, että kesäänkin asti voidaan epidemian kanssa joutua pärjäämään.](https://www.is.fi/kotimaa/art-2000006635940.html)  
+15.9. [THL:n Salminen: Korona ei ole niin vaarallinen kuin pelättiin](https://www.is.fi/kotimaa/art-2000006635940.html)
+* Vaikka tietenkin toivomme epidemian hiipumista keväällä, niin täytyy vahvasti varautua siihenkin, että kesäänkin asti voidaan epidemian kanssa joutua pärjäämään.
 
 
 ### 2021

@@ -13,8 +13,11 @@ body {
 }
 
 .container {
-  margin-left: 4rem;
-  margin-right: 4rem;
+  max-width: 800px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .dark-background {
@@ -69,6 +72,7 @@ body {
         <li> <a class="{{ if .IsHome }} active{{ end }}" href="/index.html">Artikkelit</a> </li>
         <li> <a href="/aikajana2020.html">Aikajana: 2020</a> </li>
         <li> <a href="/aikajana2021.html">2021</a> </li>
+        <li> <a href="/aikajana2022.html">2022</a> </li>
       </ul>
     </nav>
     {{ block "header_extra" . }}

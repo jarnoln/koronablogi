@@ -1,16 +1,17 @@
 {{ define "content" }}
-
-<h1>Kirjoituksia koronasta</h2>
-
 <section id="content">
-    <ul>
-    {{ range where site.RegularPages "Type" "articles" }}
-        <li>
-            <a href="{{ .Permalink }}">
-                {{ .Title }}
-            </a>
-        </li>
-    {{ end }}
-    </ul>
+    <div style="margin:auto; border: 0px solid black; width: 350px;">
+        <h1>Kirjoituksia koronasta</h1>
+        <ul>
+        {{ range where site.RegularPages "Type" "articles" }}
+            <li>
+                <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                </a>
+            </li>
+        {{ end }}
+        </ul>
+    </div>
 </section><!-- /#content -->
+
 {{ end }}

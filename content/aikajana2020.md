@@ -1,10 +1,10 @@
 ---
-title: Aikajana
+title: 2020 Aikajana
 ---
 
 
-2020
-----
+2020 aikajana
+-------------
 
 11.1.2020 [Kiina vahvistaa ensimmäisen koronakuoleman](https://yle.fi/uutiset/3-11153391)
 

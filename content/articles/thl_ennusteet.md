@@ -48,6 +48,8 @@ Tässä muutamia esimerkkejä:
 7.7.  [THL:n Mika Salminen ei kesän riennoissa enää huomioisi koronaa erityisesti: "Minä eläisin ihan normaalisti"](https://yle.fi/uutiset/3-12528332)
 
 
-Lähteet:
+Pieleen menneistä ennusteista on oltu mediassa pääosin kohteliaasti hiljaa eikä niiden perään ole kyselty silloinkaan, kun Salminen ja Sane ovat tehneet uudelleen tismalleen samoja ennusteita, kuin tekivät kuukausia tai vuosia aiemminkin. Parissa jutussa niitä sentään on vähän ihmetelty:
+
+14.3.2020 [Näin viesti koronaviruksen vaaroista on muuttunut – THL tammikuun lopulla: ”Pieni riski sille, että virus leviäisi Suomeen etenkin epidemiana”](https://www.is.fi/kotimaa/art-2000006439416.html)
 
 31.1.2022 [Suomalaisen asiantuntijan lausunnot koronasta – joko se viimein loppuisi](https://www.verkkouutiset.fi/a/suomalaisen-asiantuntijan-lausunnot-koronasta-joko-se-viimein-loppuisi/#a1db291f)

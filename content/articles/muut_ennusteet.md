@@ -23,3 +23,4 @@ THL, Suomen johtavat terveysviranomainen, ei ole varsinaisesti osunut nappiin [e
 * "Esimerkiksi kun päivitimme hybridistrategiaamme, niin silloin itsekin kuvasin, että emme jää yhden tai kahden prosentin vangiksi, vaan pyrimme avaamaan yhteiskuntaa jo ennen 80 prosentin rokotekattavuutta ja tulemme sen tekemään."
 * Useat hallituksen ministerit ovat olleet kulisseissa tuskastuneita Kiurun ja STM:n hitauteen Suomen avaamisessa. Marinin kerrotaan joutuneen laittamaan Kiurua kovastikin kulisseissa järjestykseen.
 
+25.12.2021 [Omikron: Kaikkien aikojen joululahja](https://twitter.com/MikaelJungner/status/1474754919999676420)

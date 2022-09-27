@@ -18,13 +18,19 @@
 
 19.2.2021 [Koronavirukseen kuolleilla olisi keskimäärin ollut vielä 16 vuotta elettävänään, tutkijat laskivat](https://tekniikanmaailma.fi/koronavirukseen-kuolleilla-olisi-keskimaarin-ollut-viela-16-vuotta-elettavanaan-tutkijat-laskivat/)
 
-25.2.2021 [Hallitus juistaa 3 viikon sulkutilan alkavaksi 8.3.](https://yle.fi/uutiset/3-11808721)
+23.2.2021 [Koronasta tuli Yhdysvaltain yleisin kuolinsyy ja siihen on kuollut enemmän väkeä kuin toisessa maailmansodassa](https://yle.fi/uutiset/3-11804792)
+* Koronakuolemien määrä ylitti Yhdysvalloissa puolen miljoonan rajan.
+
+25.2.2021 [Hallitus julistaa 3 viikon sulkutilan alkavaksi 8.3.](https://yle.fi/uutiset/3-11808721)
 * Hallitus on linjannut, että Suomessa toteutetaan 8. maaliskuuta alkava kolmen viikon mittainen sulkutila, joka päättyy 28. maaliskuuta.
 * Kaikilla leviämis- ja kiihtymisvaiheen alueilla on syytä ottaa käyttöön etäopetus toisella asteella ja perusopetuksen yläluokilla. Yli 12-vuotiaiden ryhmätoiminta keskeytetään.
 
 8.3.2021 Sulkutila alkaa
 
 11.3.2021 [Tutkimus: Koronavirus muuntumassa sellaiseen suuntaan, että rokotteiden teho heikkenee – ”Saatamme päätyä jahtaamaan SARS-CoV-2-virusta](https://tekniikanmaailma.fi/tutkimus-koronavirus-muuntumassa-sellaiseen-suuntaan-etta-rokotteiden-teho-heikkenee-saatamme-paatya-jahtaamaan-sars-cov-2-virusta-jatkuvasti/)
+
+24.3.2021 [Central Europe’s hospitals slammed, can’t treat all in need](https://apnews.com/article/world-news-pandemics-europe-romania-poland-67132169f6f216ec97b67e87b63015a9)
+* Ambulances in Poland have been waiting for hours in front of hospitals to unload their patients or have had to transport patients to distant facilities.
 
 6.4.2021 [Yhdysvaltain tautikeskus: Todennäköisyys koronaviruksen tarttumiseen pintojen välityksellä on alle 1:10 000](https://tekniikanmaailma.fi/yhdysvaltain-tautikeskus-todennakoisyys-koronaviruksen-tarttumiseen-pintojen-valityksella-on-alle-110-000/)
 
@@ -111,6 +117,8 @@
 
 2.10.2021 [Pääministeri Marin kertoo Ylelle, miksi hallitus ohitti THL:n näkemyksen ravintoloista: "Rokotetuilla on täysi oikeus normaalimpaan elämään"](https://yle.fi/uutiset/3-12126037)
 
+11.10.2021 [Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan](https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/)
+
 11.10.2021 [THL on päivittänyt ohjeensa koronavirustestiin hakeutumisesta](https://thl.fi/fi/-/thl-on-paivittanyt-ohjeensa-koronavirustestiin-hakeutumisesta)
 * Kaksi koronarokoteannosta saaneen ei yleensä tarvitse mennä testiin, vaikka oireita ilmenisi.
  
@@ -123,10 +131,13 @@
 * Meidän ei pitäisi olla yllättyneitä tästä havainnosta, koska kasvomaskit ovat yksi tehokkaimmista tavoista estää Covid-19-taudin leviäminen. Yhdysvaltain tautikeskusten (CDC) tukema tutkimus tartuntojen leviämisestä kouluissa havaitsi, että kouluissa, joissa ei vaadittu kasvomaskia, oli 3,5 kertaa suurempi todennäköisyys taudin puhkeamiseen kuin kouluissa, joissa oppilailla ja henkilökunnalla oli maskipakko.
 https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-etenkin-silloin-kun-opettajat-ja-oppilaat-eivat-kayta-maskeja/
 
-11.10.2021 [Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan](https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/)
-
 21.10.2021 [Latvia menee tänään kiinni, sairaaloissa yli tuhat koronapotilasta – "Ainoa keino ratkaista tämä kriisi on rokottautua"](https://yle.fi/uutiset/3-12150705)
 * Latvia ottaa tänään torstaina käyttöön raskaansarjan koronatoimet. Niitä ovat öinen ulkonaliikkumiskielto, kauppojen ja ravintoloiden sulkeminen sekä kulttuuri- ja urheilutapahtumien peruminen.
+
+22.10.2021 [Suomi purki koronarajoituksia, vaikka THL:n käyrät varoittivat uhkaavista seurauksista – tautiekologi: "Masentavinta, että meni juuri niin kuin ajateltiin"](https://yle.fi/uutiset/3-12155829)
+* THL mallinsi elokuussa, miten sairaalahoito kuormittuisi, jos rajoituksia purettaisiin 80 prosentin rokotekattavuuden koittaessa. Hoidon tarve olisi noussut merkittävästi. Rajoitukset purettiin, kun kattavuus oli vielä selvästi vähemmän, noin 70 prosenttia.
+* Pääkaupunkiseudulla Suomessa joudutaan siirtämään sydänleikkauksia, koska tehohoidossa ei ole koronapotilaiden takia tilaa.
+* Tässä uusimmassa aallossa ehkä masentavinta on se, että tilanne meni juuri niin kuin ajateltiin että se menee, sanoo tautiekologi, Helsingin yliopiston tohtorikoulutettava Tuomas Aivelo.
 
 3.11.2021 [THL:n Mika Salminen: Uusi arvio paluusta normaaliin elämään](https://www.is.fi/kotimaa/art-2000008374234.html)
 * Hän arvioi, että viimeistään keväällä Suomessa voidaan elää normaalia elämää.

@@ -72,6 +72,8 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 2022-07-05 [Covid-19 reinfections may increase the likelihood of new health problems](https://edition.cnn.com/2022/07/05/health/covid-reinfection-risk/index.html)
 * Repeatedly catching Covid-19 appears to increase the chances that a person will face new and sometimes lasting health problems after their infection, according to the first study on the health risks of reinfection.
 
+2022-07-05 [Pääkirjoitus: Vanhuksia kuolee, neljättä rokotetta pantataan ja strategia hukassa – Suomen koronataistelua ei johda nyt kukaan](https://www.is.fi/paakirjoitus/art-2000008927835.html)
+
 2022-07-06 [Tartuntojen määrä on yhä valtava, mutta silti kuluva kesä on helpoin kaikista koronakesistä, sanoo Asko Järvinen](https://yle.fi/uutiset/3-12525084)
 
 2022-07-07 [THL:n Mika Salminen ei kesän riennoissa enää huomioisi koronaa erityisesti: "Minä eläisin ihan normaalisti"](https://yle.fi/uutiset/3-12528332)
@@ -90,6 +92,8 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 2022-07-15 [Sadat jakoivat kokemuksensa Acutan ruuhkasta: Naista kehotettiin ottamaan vain särky­lääkettä, lopulta korvat vuosivat – Taysin sairaanhoitajan mukaan tilanne on kestämätön](https://www.aamulehti.fi/pirkanmaa/art-2000008946499.html)
 
 2022-07-19 [THL:n Salminen kehottaa päättäjiä harkitsemaan terveydenhuollon resurssien lisäämistä – "Koronaan ei voida ikuisesti suhtautua toisin kuin muihin tauteihin"](https://www.keskipohjanmaa.fi/uutinen/629659)
+
+2022-07-23 [Mika Salminen MTV:lle: Korona pitäisi poistaa yleisvaarallisten tartuntatautien joukosta](https://www.is.fi/kotimaa/art-2000008962831.html)
 
 2022-07-27 [THL:n mukaan olemme siirtyneet koronapandemiasta endemiaan – "On aika todeta, että emme enää elä akuuttia kriisivaihetta"](https://yle.fi/uutiset/3-12553074)
 

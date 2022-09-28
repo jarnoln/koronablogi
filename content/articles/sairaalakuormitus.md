@@ -65,5 +65,7 @@ https://www.hs.fi/kotimaa/turku/art-2000009041714.html
 
 2022-09-22 [Leikkausompeleet pettivät, mutta potilas odotti leikkausta tunteja – Husin hoitajat kertovat jopa päivittäisistä vaaratilanteista](https://www.hs.fi/kaupunki/art-2000009075848.html)
 
+2022-09-26 [Kardiologian ylilääkärin Tuomas Rissasen mielipidekirjoitus: Erikoissairaanhoito on romahtamassa – tilanteen korjaaminen vaikeaa, muttei mahdotonta](https://www.karjalainen.fi/mielipide/kardiologian-ylil%C3%A4%C3%A4k%C3%A4rin-tuomas-rissasen-mielipidekirjoitus-erikoissairaanhoito-on-romahtamassa-tilanteen-korjaaminen-vaikeaa-muttei-mahdotonta)
+
 2022-09-26 [Toimiiko enää yhtään mikään?](https://www.hs.fi/kaupunki/art-2000009074025.html)
 * Nyt sosiaali- ja terveyspalvelut ovat niin lähellä romahtamista, etten enää tiedä mihin luottaa.

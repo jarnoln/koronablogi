@@ -162,8 +162,8 @@ title: 2020 Aikajana
 
 31.7.2020 [”Ei yllätä” – STM:n maskiselvitys ei kestä vertaisarviointia](https://www.verkkouutiset.fi/a/ei-yllata-stmn-maskiselvitys-ei-kesta-vertaisarviointia/#e81e35db)
 
-13.8.2020 [Hallitus puoltaa THL:n maskisuositusta julkiseen liikenteeseen, suositus etätöistä palautetaan alueellisesti, riskimaille tulossa liikennevalomalli
-THL suosittaa kasvomaskien käyttöä niissä tilanteissa, joissa lähikontaktien välttäminen ei ole mahdollista.](https://yle.fi/uutiset/3-11490572)
+13.8.2020 [Hallitus puoltaa THL:n maskisuositusta julkiseen liikenteeseen, suositus etätöistä palautetaan alueellisesti, riskimaille tulossa liikennevalomalli](https://yle.fi/uutiset/3-11490572)
+* THL suosittaa kasvomaskien käyttöä niissä tilanteissa, joissa lähikontaktien välttäminen ei ole mahdollista.
 
 15.9.2020 [THL:n Salminen: Korona ei ole niin vaarallinen kuin pelättiin – ”Se, miltä korona näytti keväällä, ei ihan pidä paikkansa”](https://www.is.fi/kotimaa/art-2000006635940.html)
 > Vaikka tietenkin toivomme epidemian hiipumista keväällä, niin täytyy vahvasti varautua siihenkin, että kesäänkin asti voidaan epidemian kanssa joutua pärjäämään.
@@ -194,7 +194,7 @@ THL suosittaa kasvomaskien käyttöä niissä tilanteissa, joissa lähikontaktie
 27.11.2020 [Hetemäki vaati kirjeenvaihdossa valmiuslakia ja maskipakkoa jo lokakuussa](https://yle.fi/uutiset/3-11670649)
 > Kirjeenvaihdosta selviää, että Hetemäki on jo kuukausi sitten ehdottanut maskipakkoa ja liikkumisen rajoittamista, jotta epidemia saadaan pysähtymään. Hän on nähnyt valmiuslain käyttöönoton välttämättömäksi.
 
-29.11.20209 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
+29.11.2020 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
 
 2.12.2020 [Rokote koronaa vastaan tarjotaan kaikille halukkaille, hallitus neuvotteli järjestyksestä – Arvio: hoitajien rokotukset alkavat ensi kuussa](https://yle.fi/uutiset/3-11677115)
 

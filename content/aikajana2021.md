@@ -106,6 +106,10 @@ title: 2021 Aikajana
 
 11.9.2021 [Median pitää rohkaista ihmisiä pois koronapelosta, sanoo HS:n toimituspäällikkö Esa Mäkinen – "Mika Salminen ei tule taluttamaan meitä karaokeen"](https://yle.fi/uutiset/3-12094285)
 
+16.9.2021 [Koronatartuntojen räjähtäminen ajoi kanadalais­provinssin terveydenhuollon romahdus­pisteeseen – ”Kolmekymppiset kuolevat”](https://www.is.fi/ulkomaat/art-2000008268480.html)
+* Provinssissa poistettiin suuri osa koronarajoituksista viime kesänä, vaikka tartuntojen määrä oli jo tuolloin kasvussa.
+* muun muassa vaaleilla valitut viranomaiset, palomiehet ja poliisit ovat vastustaneet rokotteita ja kasvomaskeja.
+
 24.9.2021 [Pääministeri Marin oli keväällä ”aika väsynyt”, mutta IS-haastattelussa hänellä on kansalle vapauden­viesti – korona on pian selätetty: ”Nyt saa mennä, kokea ja tehdä”](https://www.is.fi/politiikka/art-2000008285520.html)
 * Tässä haastattelussa hänen pääviestinsä on typistetysti: Nyt on oikea aika jokaisen suomalaisen elää normaalia elämää.
 * "Toivon, että kaikki suomalaiset nyt kokevat, että saavat mennä, tehdä, kokea ja viettää aikaa ystävien ja läheisten seurassa."
@@ -118,6 +122,10 @@ title: 2021 Aikajana
 * Kiihtymisvaiheen maakunnista poistetaan kaikki rajoitukset.
 
 2.10.2021 [HS pääkirjoitus: Yhteiskunnan on aika palata normaaliin, mutta rokottamattomilla vaara ei ole ohi](https://www.hs.fi/paakirjoitukset/art-2000008303359.html)
+
+2.10.2021 [Alberta acted like the pandemic was over. Now it's a cautionary tale for Canada](https://www.cbc.ca/news/health/alberta-fourth-wave-surge-hospitals-icu-covid-19-1.6197263)
+* "Alberta was reckless in dropping all restrictions and declaring the pandemic over. Jason Kenney infamously declared that we were in the post-pandemic era, that COVID was no longer a risk and basically threw caution to the wind — that was a grave misstep"
+* "Our healthcare system has completely collapsed," said Schwartz. "It's not just that we're on the verge of collapse, I think that's misleading at this point — we've completely collapsed."
 
 2.10.2021 [Pääministeri Marin kertoo Ylelle, miksi hallitus ohitti THL:n näkemyksen ravintoloista: "Rokotetuilla on täysi oikeus normaalimpaan elämään"](https://yle.fi/uutiset/3-12126037)
 

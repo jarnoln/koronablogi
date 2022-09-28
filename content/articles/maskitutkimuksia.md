@@ -38,6 +38,9 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 16.12.2021 [Tutkimus: Laajamittainen maskien käyttö vähentää koronakuolemia merkittävästi](https://tekniikanmaailma.fi/tutkimus-laajamittainen-maskien-kaytto-vahentaa-koronakuolemia-merkittavasti/)
 > Tutkijat havaitsivat, että maissa, joissa maskit otettiin käyttöön, koronakuolleisuus oli 48,80 per miljoona ihmistä. Sen sijaan maskien käyttämättömyys näkyi tutkituissa maissa 288,54 koronakuolemana miljoonaa ihmistä kohden.
 
+31.5.2022 [Mask wearing in community settings reduces SARS-CoV-2 transmission](https://www.pnas.org/doi/10.1073/pnas.2119266119)
+> Conclusion: We find that mask wearing is associated with a notable reduction in transmission.
+
 5.6.2022 [Scientific evidence shows that mask-wearing is effective at limiting community transmission; claims that face masks increase mortality are based on flawed correlation studies](https://healthfeedback.org/claimreview/scientific-evidence-shows-mask-wearing-effective-at-limiting-community-transmission-claims-face-masks-increase-mortality-based-on-flawed-correlation-studies/?fbclid=IwAR1bkwuTnhiConyPO0gK415havKqqiTD4gqe36lXp9mMWCiqy602mndhu74)
 
 9.8.2022 [Kouluissa, joissa maskien käytöstä luovuttiin, todettiin huomattavasti enemmän koronatartuntoja kuin kouluissa, joissa maskien käyttöä jatkettiin](https://www.medrxiv.org/content/10.1101/2022.08.09.22278385v1)

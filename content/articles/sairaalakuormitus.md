@@ -8,10 +8,17 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 2021-10-17  [Nyt puhuu teho­hoito­lääkäri: ”Emme jaksa enää”](https://www.iltalehti.fi/koronavirus/a/35a746af-e1df-4212-8680-2a26e4636375)
 * Tehohoitolääkärin mukaan hoitohenkilökunta on aivan loppu.
 
-2022-07-13 [Helppo kesä jäi haaveeksi – korona kaataa terveydenhuollon henkilöstöä ja pahentaa työvoimapulaa entisestään](https://twitter.com/yleuutiset/status/1547256039485181952)
+2022-07-13 [Helppo kesä jäi haaveeksi – korona kaataa terveydenhuollon henkilöstöä ja pahentaa työvoimapulaa entisestään](https://yle.fi/uutiset/3-12534914)
+* Tuhansien sairauspoissaolojen ja henkilöstöpulan keskellä petipaikkoja on jouduttu sulkemaan jopa ennätysmäärä ja hoitoja ajamaan alas.
+* Useat sairaanhoitopiirit kertovat, että heillä on päivittäin kymmeniä työntekijöitä pois töistä koronaan sairastumisen vuoksi.
+* Tänä vuonna Etelä-Karjalan sosiaali- ja terveyspiirin (Eksote) henkilöstölle on kertynyt noin 11 500 koronasta johtuvaa sairauspoissaolopäivää.
+* Terveyspalvelujen johtaja Tuula Karhula kertoo, että tartunnat ovat kohdentuneet noin 1700 työntekijälle, joka on noin kolmannes koko henkilöstöstä.
+* Kanta-Hämeen sairaanhoitopiirissäkin korona on aiheuttanut tammi-toukokuussa jo yli 3000 sairaspäivää.
+* Pohjanmaalla sairauspoissaolot lähentelivät keväällä pahimmillaan kymmentä prosenttia.
+* Terveydenhuollon ja erikoissairaanhoidon henkilöstö on joutunut toimimaan lähes kaksi ja puoli vuotta jatkuneessa poikkeustilanteessa.
 
 2022-07-13 [Husin sairaaloissa eletään ennen­näkemätöntä kriisikesää – Sairaalan johto vahvistaa tilanteen erittäin vakavaksi
-Husin työntekijöiden mukaan työntekijäpula vaikuttaa jo potilasturvallisuuteen. Husin johto vahvistaa erittäin vaikean tilanteen, mutta uskoo potilasturvallisuuden säilyvän.](https://www.hs.fi/kaupunki/art-2000008931042.html)
+* Husin työntekijöiden mukaan työntekijäpula vaikuttaa jo potilasturvallisuuteen. Husin johto vahvistaa erittäin vaikean tilanteen, mutta uskoo potilasturvallisuuden säilyvän.](https://www.hs.fi/kaupunki/art-2000008931042.html)
 
 2022-07-13 [Potilaat odottavat jopa vuorokausia HUSin päivystyksessä pääsemättä eteenpäin – paha ruuhka syntynyt helteistä ja hoitajapulasta](https://yle.fi/uutiset/3-12019218)
 
@@ -59,9 +66,10 @@ Husin työntekijöiden mukaan työntekijäpula vaikuttaa jo potilasturvallisuute
 * Tyksissä on parhaillaan sairaalahoidossa useita perusterveitä lapsipotilaita hankalan hengenahdistuksen vuoksi.
 * Kujari sanoo, että lasten ja nuorten päivystys on tällä hetkellä erittäin ruuhkainen.
 * Hoidossa on ollut useita sellaisiakin potilaita, joilla ei ole astmaa tai muuta terveysongelmaa taustalla.
-https://www.hs.fi/kotimaa/turku/art-2000009041714.html
 
 2022-09-15 [Jorvin ruuhkat ”historian hirveimmät”: Ambulanssitkin jäivät jonoon](https://www.hs.fi/kaupunki/art-2000009069446.html)
+* Espoossa Jorvin sairaalassa päivystys oli niin pahasti ruuhkautunut tiistaina, että ambulanssilla saapuvatkin joutuivat jonottamaan tai käännytetyksi muihin sairaaloihin.
+* ”Tämä on vielä onneksi Suomessa ollut pienimuotoista, mutta pitäisin tätä hätähuutona järjestelmän luhistumisesta”, Castrén sanoo.
 
 2022-09-22 [Leikkausompeleet pettivät, mutta potilas odotti leikkausta tunteja – Husin hoitajat kertovat jopa päivittäisistä vaaratilanteista](https://www.hs.fi/kaupunki/art-2000009075848.html)
 

@@ -82,6 +82,9 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
 2022-07-09 [Huolestuttava uusi tutkimus koronasta: Jokainen uusi tartunta voikin olla edellistä kohtalokkaampi](https://www.is.fi/kotimaa/art-2000008931452.html)
 
+2022-07-10 [Huippututkijat: paremmalla ilmanvaihdolla olisi mahdollista torjua hengitysteitse leviäviä epidemioita](https://yle.fi/uutiset/3-12518229)
+* Tutkijoiden tekemien laskelmien perusteella tehostetulla ja oikein suunnatulla sisäilmanvaihdolla riski saada hengitysteitse leviävä tauti, kuten Covid-19, laskisi 20 prosentista 5 prosenttiin.
+
 2022-07-13 [Helppo kesä jäi haaveeksi – korona kaataa terveydenhuollon henkilöstöä ja pahentaa työvoimapulaa entisestään](https://yle.fi/uutiset/3-12534914)
 
 2022-07-13 [Husin sairaaloissa eletään ennen­näkemätöntä kriisikesää – Sairaalan johto vahvistaa tilanteen erittäin vakavaksi](https://www.hs.fi/kaupunki/art-2000008931042.html)

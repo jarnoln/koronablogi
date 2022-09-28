@@ -10,7 +10,7 @@ Vaikka koronaan kuolleita on valtava määrä ja akuutti infektio vaatii monilla
 
 Joidenkin tutkimusten mukaan jopa 20% tartunnan saaneista saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
 
-Uusintatartunnat kasvattavat huomattavasti sekä kuolemanriskiä että pitkäaikaisvaikutusten riskiä.
+Uusintatartunnat kasvattavat huomattavasti sekä kuoleman että pitkäaikaisoireiden riskiä.
 
 Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Kohonnut kuolemanriski ainakin 6kk:n ajaksi infektion jälkeen
@@ -29,6 +29,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 26.4.2021 [”Pitkittynyt koronatauti on USA:n seuraava suuri terveyskriisi” – Sairastettu koronatauti yhdistettiin huomattavasti kohonneeseen kuolemanriskiin](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
 * Koronatautiin sairastuneilla oli kontrolliryhmään verrattuna 60 prosenttia kohonnut riski kuolla kuuden kuukauden tarkastelujaksolla.
 * ”Tutkimuksemme, että kuuden kuukauden jälkeen diagnoosista kuolemanriski edes lievän koronataudin sairastaneille ei ole triviaali, ja riski kasvaa koronataudin vakavuuden mukaan”, toteaa tutkimuksen pääkirjoittaja, apulaisprofessori Ziyad Al-Aly tutkimustiedotteessa.
+
+11.10.2021 [Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan](https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/)
 
 30.12.2021 [Tutkimus: Koronavirus voi pesiytyä aivoihin ja elimiin kuukausiksi akuutin taudin jälkeen](https://tekniikanmaailma.fi/tutkimus-korona-voi-pesiytya-aivoihin-ja-elimiin-kuukausiksi-akuutin-taudin-jalkeen/)
 
@@ -70,8 +72,17 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * With reinfections on the rise, scientists warn that each bout increases your risk of troubling outcomes, from long COVID to heart disease.
 * In June, Al-Aly published a study, which has not yet been peer reviewed, analyzing more than 5.6 million military veterans’ medical records that showed each new infection added to their risk of dying from just about any cause. It also boosted the odds of other troubling health outcomes from heart, blood, and brain disorders, as well as diseases such as diabetes, chronic fatigue, and long COVID.
 
+8.8.2022 [Hollantilaistutkimus: Joka kahdeksas koronatautiin sairastunut kärsii pitkästä koronasta – Laaja tutkimus selvitti yleisimmät oireet](https://tekniikanmaailma.fi/hollantilaistutkimus-joka-kahdeksas-koronatautiin-sairastunut-karsii-pitkasta-koronasta-laaja-tutkimus-selvitti-yleisimmat-oireet/)
+
 18.8.2022 [COVID can impair brain function, large study suggests](https://www.politico.eu/article/covid-impair-brain-function-dementia-psychosis-anxiety-depression-large-study/)
 * Researchers from Oxford University combed through more than a million patient files and discovered that, two years after infection, patients who had recovered from COVID-19 were at a higher risk of psychosis, dementia and "brain fog" when compared with patients who recovered from other respiratory diseases.
 * Children getting over COVID-19 were twice as likely to suffer from epilepsy or a seizure, and three times as likely to develop a psychotic disorder compared with those recovering from a respiratory disease, even as the absolute risk of the conditions remains low.
 
 2.9.2022 [Long Covid Is Keeping Millions Of People Out Of Work](https://www.forbes.com/sites/williamhaseltine/2022/09/02/long-covid-is-keeping-millions-of-people-out-of-work/?sh=7120746a52cc)
+
+5.9.2022 [Long-term cardiac pathology in individuals with mild initial COVID-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
+
+19.9.2022 [Long COVID Experts and Advocates Say the Government Is Ignoring 'the Greatest Mass-Disabling Event in Human History'](https://time.com/6213103/us-government-long-covid-response/)
+
+22.9.2022 [Yhä melkoinen mysteeri](https://suomenkuvalehti.fi/tiede-ja-teknologia/koronan-loytymisesta-on-pian-kolme-vuotta-silti-pitka-korona-hammentaa-yha-tutkijoita/)
+* Pitkän koronan syntymekanismia ei vieläkään tunneta. Siihen ei ole myöskään parantavaa hoitoa. Suomessa tutkimusta ja hoitoa ovat hidastaneet rahapula ja sairauden vähättely.

@@ -26,6 +26,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 29.11.2020 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
 
+9.4.2021 [Covid-19 on myös merkittävä aivosairaus](https://www.utu.fi/fi/ajankohtaista/uutinen/covid-19-on-myos-merkittava-aivosairaus)
+
 26.4.2021 [”Pitkittynyt koronatauti on USA:n seuraava suuri terveyskriisi” – Sairastettu koronatauti yhdistettiin huomattavasti kohonneeseen kuolemanriskiin](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
 * Koronatautiin sairastuneilla oli kontrolliryhmään verrattuna 60 prosenttia kohonnut riski kuolla kuuden kuukauden tarkastelujaksolla.
 * ”Tutkimuksemme, että kuuden kuukauden jälkeen diagnoosista kuolemanriski edes lievän koronataudin sairastaneille ei ole triviaali, ja riski kasvaa koronataudin vakavuuden mukaan”, toteaa tutkimuksen pääkirjoittaja, apulaisprofessori Ziyad Al-Aly tutkimustiedotteessa.
@@ -50,6 +52,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 5.5.2022 [Vakava koronatauti saattaa kiihdyttää kognitiivista vanhenemista jopa 20 vuodella, tutkimus kertoo](https://tekniikanmaailma.fi/vakava-koronatauti-saattaa-kiihdyttaa-kognitiivista-vanhenemista-jopa-20-vuodella-tutkimus-kertoo/)
 
+7.5.2022 [Tutkijat havaitsivat yhteyden erektiohäiriön ja sairastetun koronavirustaudin välillä – Ongelmat jatkuneet puoli vuottakin sairastamisen jälkeen](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-erektiohairion-ja-sairastetun-koronavirustaudin-valilla-ongelmat-jatkuneet-puoli-vuottakin-sairastamisen-jalkeen/)
+
 24.5.2022 [More than 1 in 5 adult Covid survivors in the U.S. may develop long Covid, a C.D.C. study suggests.](https://www.nytimes.com/2022/05/24/health/long-covid-infections.html?referringSource=articleShare)
 
 25.5.2022 [Vaccines may not prevent many symptoms of long covid, study suggests](https://www.washingtonpost.com/health/2022/05/25/long-covid-vaccines-slight-protection/)
@@ -73,6 +77,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * In June, Al-Aly published a study, which has not yet been peer reviewed, analyzing more than 5.6 million military veterans’ medical records that showed each new infection added to their risk of dying from just about any cause. It also boosted the odds of other troubling health outcomes from heart, blood, and brain disorders, as well as diseases such as diabetes, chronic fatigue, and long COVID.
 
 8.8.2022 [Hollantilaistutkimus: Joka kahdeksas koronatautiin sairastunut kärsii pitkästä koronasta – Laaja tutkimus selvitti yleisimmät oireet](https://tekniikanmaailma.fi/hollantilaistutkimus-joka-kahdeksas-koronatautiin-sairastunut-karsii-pitkasta-koronasta-laaja-tutkimus-selvitti-yleisimmat-oireet/)
+
+11.8.2022 [Morphological, cellular, and molecular basis of brain infection in COVID-19 patients](https://www.pnas.org/doi/full/10.1073/pnas.2200960119)
 
 18.8.2022 [COVID can impair brain function, large study suggests](https://www.politico.eu/article/covid-impair-brain-function-dementia-psychosis-anxiety-depression-large-study/)
 * Researchers from Oxford University combed through more than a million patient files and discovered that, two years after infection, patients who had recovered from COVID-19 were at a higher risk of psychosis, dementia and "brain fog" when compared with patients who recovered from other respiratory diseases.

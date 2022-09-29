@@ -201,3 +201,9 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 2022-09-27 [Korona on vihdoinkin yksi tauti muiden joukossa, sanoo THL:n ylilääkäri – Töihin voi palata jo yhden oireettoman päivän jälkeen](https://www.hs.fi/hyvinvointi/art-2000009086946.html)
 * Kahden kuukauden aikavälin mukaisia uusintainfektioita on tähän mennessä havaittu runsaalla 53000 henkilöllä.
+
+2022-09-29 [STM:n ja THL:n koronatilkannekatsaus](https://www.youtube.com/watch?v=rgI2Ll83lys). Uutisia:
+* Yle: [WHO suosittelee maskeja takaisin joukkoliikenteeseen – THL ja STM kertoivat loppuvuoden epidemianäkymistä](https://yle.fi/uutiset/3-12642988)
+  * Koronatartuntojen määrä ja tautitaakka ovat syksyn myötä kääntyneet nousuun
+  * Lisääntyvät tartunnat kuormittavat jälleen terveydenhoitoa
+* Ilta-Sanomat: [Uusi omikron­aalto alkamassa useissa EU-maissa – WHO suosittelee maskeja takaisin joukko­liikenteeseen](https://www.is.fi/kotimaa/art-2000009101801.html)

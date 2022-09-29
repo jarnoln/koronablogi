@@ -92,3 +92,6 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 22.9.2022 [Yhä melkoinen mysteeri](https://suomenkuvalehti.fi/tiede-ja-teknologia/koronan-loytymisesta-on-pian-kolme-vuotta-silti-pitka-korona-hammentaa-yha-tutkijoita/)
 * Pitkän koronan syntymekanismia ei vieläkään tunneta. Siihen ei ole myöskään parantavaa hoitoa. Suomessa tutkimusta ja hoitoa ovat hidastaneet rahapula ja sairauden vähättely.
+
+22.9.2022 [COVID-19 infection may increase risk of type 1 diabetes, suggests nationwide study of 1.2 million children](https://www.eurekalert.org/news-releases/965465)
+* Nationwide study spanning first 2 years of the pandemic finds 0.13% of children and adolescents who contracted COVID-19 were diagnosed with type 1 diabetes a month or more after infection compared to 0.08% in children without a registered infection

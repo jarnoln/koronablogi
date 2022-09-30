@@ -180,6 +180,10 @@ title: 2020 Aikajana
 
 12.10.2020 [THL:n pääjohtaja: THL halusi keväällä tiedottaa maskien käytöstä, ministeriö torppasi aikeet](https://www.is.fi/politiikka/art-2000006667717.html)
 
+12.10.2020 [Koronaan liittyvän karanteenin pituus lyhenee 10 päivään](https://thl.fi/fi/-/koronaan-liittyvan-karanteenin-pituus-lyhenee-10-paivaan-12.10.-alkaen)
+* Omaehtoinen karanteeni lyhenee 14 päivästä 10 päivään.
+* Tartuntatautilääkärin määräämää karanteeni lyhenee 14 päivästä 10 päivään.
+
 13.10.2020 [Politiikan tutkija maskikiistasta: ”Tämän rinnalla Rinteen Posti-puheet näyttävät harmittomalta kompuroinnilta”](https://www.is.fi/politiikka/art-2000006668540.html)
 
 13.10.2020 [Maskijupakassa on kyse luottamuksesta hallintoon – haluttomuudelle tunnustaa kasvosuojien hyödyt oli syynsä, joita ei tahdottu myöntää kansalaisille](https://www.hs.fi/politiikka/art-2000006668286.html)

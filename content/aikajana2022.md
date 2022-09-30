@@ -27,7 +27,7 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
 2022-01-11 [Suomalaistutkijat kehittivät ”biologisen maskin” koronaa vastaan – Nenäsuihke voi tarjota suojaa jopa kahdeksaksi tunniksi](https://tekniikanmaailma.fi/suomalaistutkijat-kehittivat-biologisen-maskin-koronaa-vastaan-nenasuihke-voi-tarjota-suojaa-jopa-kahdeksaksi-tunniksi/)
 
-2022-01-13 STM:n ja THL:n koronainfo
+2022-01-13 [STM:n ja THL:n koronainfo](https://yle.fi/uutiset/3-12268586)
 * Karanteenien kesto lyhennetään 5 päivään
 
 2022-01-25 [Ministeri Krista Kiuru jää sairauslomalle](https://www.hs.fi/politiikka/art-2000008565688.html)
@@ -75,6 +75,12 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 2022-07-05 [Pääkirjoitus: Vanhuksia kuolee, neljättä rokotetta pantataan ja strategia hukassa – Suomen koronataistelua ei johda nyt kukaan](https://www.is.fi/paakirjoitus/art-2000008927835.html)
 
 2022-07-06 [Tartuntojen määrä on yhä valtava, mutta silti kuluva kesä on helpoin kaikista koronakesistä, sanoo Asko Järvinen](https://yle.fi/uutiset/3-12525084)
+
+2022-07-06 [Tutkimus: Näin koronan sairastaminen useamman kerran voi vaikuttaa terveyteesi](https://www.mtvuutiset.fi/artikkeli/tutkimus-nain-koronan-sairastaminen-useamman-kerran-voi-vaikuttaa-terveyteesi/8464246#gs.dhv4gd)
+* Toistuvat koronavirusinfektiot saattavat tutkimuksen mukaan lisätä muiden, toisinaan pysyvien terveysongelmien riskiä, kertoo CNN
+* Useampi sairastettu covid-19-tauti nosti kuoleman riskin kaksinkertaiseksi
+* Riski joutua sairaalaan puolen vuoden sisällä koronavirustaudista nousi kolminkertaiseksi.
+* Myös joidenkin muiden terveysongelmien, kuten munuais-, suolisto-, keuhko- ja sydänongelmien, riski lisääntyi.
 
 2022-07-07 [THL:n Mika Salminen ei kesän riennoissa enää huomioisi koronaa erityisesti: "Minä eläisin ihan normaalisti"](https://yle.fi/uutiset/3-12528332)
 
@@ -207,3 +213,5 @@ https://twitter.com/yleuutiset/status/1564822284052975616
   * Koronatartuntojen määrä ja tautitaakka ovat syksyn myötä kääntyneet nousuun
   * Lisääntyvät tartunnat kuormittavat jälleen terveydenhoitoa
 * Ilta-Sanomat: [Uusi omikron­aalto alkamassa useissa EU-maissa – WHO suosittelee maskeja takaisin joukko­liikenteeseen](https://www.is.fi/kotimaa/art-2000009101801.html)
+
+2022-09-30 [THL:n tuore johtaja Otto Helve ei ole huolissaan uudesta korona-aallosta: "Suoja väestössä on hyvä"](https://www.mtvuutiset.fi/artikkeli/thl-n-tuore-johtaja-otto-helve-ei-ole-huolissaan-uudesta-korona-aallosta-suoja-vaestossa-on-hyva/8524800#gs.djfzbd)

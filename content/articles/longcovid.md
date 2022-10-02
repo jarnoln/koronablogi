@@ -66,6 +66,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Pitkittynyttä koronaoireilua eli long covidia on tilastossa ainakin kahdella eri koodilla: U08 (aiemmin sairastettu COVID-19-virusinfektio) ja U09 (COVID-19-virusinfektion jälkitila). Näiden kahden diagnoosien perusteella Suomessa on tänä vuonna hoidettu jo lähes 12 800:aa ihmistä, kun luku viime vuonna oli 2 800. Luku on siis noin 4,5-kertaistunut. Eniten potilaita on Uudellamaalla, runsaat 4 370.
 * Tuntuu uskottavalta, että meillä voisi todellisuudessa olla muutamia kymmeniä tuhansia potilaita Suomessa. Ehkä jopa 50 000, kommentoi Kansallisen long covid -asiantuntijaryhmän puheenjohtaja, neurologian professori Risto O. Roine.
 
+1.7.2022 [Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita](https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita)
+
 2.7.2022 [COVID-19 reinfections may increase the likelihood of new health problems](https://edition.cnn.com/2022/07/05/health/covid-reinfection-risk/index.html)
 * The study, which is based on the health records of more than 5.6 million people treated in the VA Health System, found that, compared with those with just one Covid-19 infection, those with two or more documented infections had more than twice the risk of dying and three times the risk of being hospitalized within six months of their last infection. They also had higher risks for lung and heart problems, fatigue, digestive and kidney disorders, diabetes and neurologic problems.
 

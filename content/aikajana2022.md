@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=b6UnEFR3ijc&t=3430s
 58:01 Se on sanottava suoraan, että taudinjäljitys eikä rokottaminen toimi sillä tahdilla, kuin tässä tilanteessa pitäisi. Ei toimi myöskään testaus.
 https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
-2022-01-07 Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita(https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita)
+2022-01-07 [Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita](https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita)
 
 2022-01-11 [Suomalaistutkijat kehittivät ”biologisen maskin” koronaa vastaan – Nenäsuihke voi tarjota suojaa jopa kahdeksaksi tunniksi](https://tekniikanmaailma.fi/suomalaistutkijat-kehittivat-biologisen-maskin-koronaa-vastaan-nenasuihke-voi-tarjota-suojaa-jopa-kahdeksaksi-tunniksi/)
 

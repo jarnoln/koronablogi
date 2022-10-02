@@ -115,6 +115,7 @@ title: 2020 Aikajana
 * [Tuomas Aivelo] sanoo avoimesti kannattavansa viruksen tukahduttamista eli eliminoimista. Aivelon mielessä tukahduttaminen ei tarkoita sitä, että virus pystyttäisiin kokonaan pitämään poissa Suomesta. Jos tartunnat saadaan riittävän matalalle tasolle, ne voidaan hänen mielestään pitää hallinnassa testaamalla ja jäljittämällä.
 
 1.5.2020 [Maskisuositukset yleistyvät Euroopan maissa – STM: Suomessa maskisuositusta ei valmistella](https://www.hs.fi/kotimaa/art-2000006494300.html)
+* Suu-nenäsuojusten toimivuudella tartuntojen estämisessä on vahva tieteellinen perusta, sanoo professori Olli Vapalahti
 
 7.5.2020 [Suomi on valmis vetämään uudestaan koronahätäjarrua – THL:n Salminen: ”Tärkein on tehohoitopotilaiden määrä”](https://www.is.fi/politiikka/art-2000006500228.html)
 * THL:n Mika Salminen uskoo, että tilanne voi palautua tartunnanjäljityksen myötä ”aika normaaliksi”.
@@ -124,6 +125,8 @@ title: 2020 Aikajana
 
 12.5.2020 [Tutkimus: Lapset eivät olekaan niin turvassa koronavirukselta kuin on luultu – ”Ajatus siitä, että sairaus säästäisi nuoria, on ihan väärä”](https://tekniikanmaailma.fi/tutkimus-lapset-eivat-olekaan-niin-turvassa-koronavirukselta-kuin-on-luultu-ajatus-siita-etta-sairaus-saastaisi-nuoria-on-ihan-vaara/)
 
+12.5.2020 [Matkustajien käytettävä kasvomaskia Finnairin lennoilla ensi viikosta alkaen](https://yle.fi/uutiset/3-11347444)
+
 14.5.2020 [Koulut avataan 2kk:n sulun jälkeen](https://yle.fi/uutiset/3-11329130)
 
 14.5.2020 [Eroon koronasta -ryhmä kehottaa tukahduttamaan epidemian](https://www.eroonkoronasta.fi/muistio/)
@@ -132,7 +135,16 @@ title: 2020 Aikajana
 * Kun tartuntojen määrä on saatu hyvin pieneksi, helpottuu tartuntaketjujen tunnistaminen ja jäljittäminen.
 * Uusien tartuntojen leviäminen ulkomailta takaisin Suomeen voidaan estää maahan tulevien testauksella ja/tai karanteenilla. Näin saamme ehkäistyä uudet epidemia-aallot toimin, jotka ovat taloudellisilta ja inhimillisiltä kustannuksiltaan siedettävät.
 
+14.5. [Oppositio kurmotti kyselytunnilla hallitusta](https://yle.fi/uutiset/3-11350950)
+* Ben Zyskowicz (kok.) ihmettelee, miksi sosiaali- ja terveysministeriö tekee vielä selvityksen kasvomaskien käytöstä, kun monissa maissa niiden käyttö on jo pakollista julkisilla paikoilla tai ainakin niitä suositellaan.
+* Marin ja Kiuru kiistivät kiivaasti opposition epäilyt, että hallitus ei halua tukahduttaa koronavirusta vaan vain hidastaa sen leviämistä suomalaisten keskuudessa laumasuojan aikaansaamiseksi.
+
 15.5.2020 [Tutkimus: Koronavirus on ainakin 10 kertaa tappavampi kuin tavallinen kausi-influenssa – Suhdeluku voi vieläkin kasvaa, tutkijat varoittavat](https://tekniikanmaailma.fi/tutkimus-koronavirus-on-ainakin-10-kertaa-tappavampi-kuin-tavallinen-kausi-influenssa-suhdeluku-voi-vielakin-kasvaa-tutkijat-varoittavat/)
+
+15.5.2020 [Marin hallituksen koronastrategiasta: Epidemia ei saa levitä Suomessa](https://yle.fi/uutiset/3-11352814)
+* Pääministeri Sanna Marinin (sd.) mukaan hallituksen näkemys on, että koronavirusepidemia ei saisi levitä Suomessa ollenkaan. 
+* – Hallituksen toimet perustuvat siihen, että estämme taudin leviämistä ja pyrimme siihen, että tautiin ei sairastuta
+* Hallitusta on syytetty epäselvästä viestinnästä koronavirusstrategian suhteen.
 
 29.5.2020 [Päätoimittajan kommentti: Koronan ensi-isku oli pelkkä tussahdus – entäpä jos annettaisiin vaara ohi -merkki?](https://www.mtvuutiset.fi/artikkeli/paatoimittajan-kommentti-koronan-ensi-isku-oli-pelkka-tussahdus-entapa-jos-annettaisiin-vaara-ohi-merkki/7833812)
 * Tarvittaisiin Ritari Rohkea, joka jykevän selväsanaisesti hälventää Suomessa yhä leijuvaa koronapelon ilmapiiriä, kirjoittaa MTV Uutisten päätoimittaja Ilkka Ahtiainen.

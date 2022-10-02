@@ -97,6 +97,9 @@ title: 2021 Aikajana
  * Jos täysin rokotettuna ei voi elää normaalisti, niin sitten ei voi varmaan koskaan, asiantuntija (Mika Rämet) sanoo.
 
 6.9.2021 Hallitus julkaisee uuden koronastrategian
+* Yle: [Hallituksen uusi koronastrategia tähtää Suomen avautumiseen pian – valtakunnalliset toimet loppuvat, alueiden rooli kasvaa](https://yle.fi/uutiset/3-12087198)
+  * Strategian päätavoitteena on, että yhteiskunta halutaan avata ja pitää auki.
+  * Rajoituksista luovutaan, kun 80 prosentin rokotekattavuus on saavutettu. Mutta jo sitä ennen rajoituksista luovutaan asteittain.
 
 6.9.2021 [HS muuttaa koronauutisoinnin painopisteen pois tartuntamääristä kohti elämää koronan kanssa](https://www.hs.fi/kotimaa/art-2000008243137.html)
 * ”Ylhäältä annetun luvan sijasta jokaisen pitää itse päättää, että nyt on turvallista elää enemmän. Korona loppuu siinä vaiheessa, kun kukin meistä itse päättää lakata pelkäämästä”, kirjoittaa HS:n toimituspäällikkö Esa Mäkinen

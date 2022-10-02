@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=b6UnEFR3ijc&t=3430s
 58:01 Se on sanottava suoraan, että taudinjäljitys eikä rokottaminen toimi sillä tahdilla, kuin tässä tilanteessa pitäisi. Ei toimi myöskään testaus.
 https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
+2022-01-07 Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita(https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita)
+
 2022-01-11 [Suomalaistutkijat kehittivät ”biologisen maskin” koronaa vastaan – Nenäsuihke voi tarjota suojaa jopa kahdeksaksi tunniksi](https://tekniikanmaailma.fi/suomalaistutkijat-kehittivat-biologisen-maskin-koronaa-vastaan-nenasuihke-voi-tarjota-suojaa-jopa-kahdeksaksi-tunniksi/)
 
 2022-01-13 [STM:n ja THL:n koronainfo](https://yle.fi/uutiset/3-12268586)
@@ -36,6 +38,16 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 * "Aaltoilu jatkuu noin kaksi vuotta, kunnes tilanne alkaa rauhoittua." (Sane)
 
 2022-02-08 [D-vitamiinin puutos yhdistettiin aiempaa vankemmin vakavalle koronataudille altistavaksi tekijäksi – ”14-kertainen riski”](https://tekniikanmaailma.fi/d-vitamiinin-puutos-yhdistettiin-aiempaa-vankemmin-vakavalle-koronataudille-altistavaksi-tekijaksi-14-kertainen-riski/)
+
+2022-02-10 [Suomi avaa yhteiskuntaa, mutta THL ei harkitse maskisuosituksen muuttamista: ”Pidämme sitä aika kevyenä keinona”](https://www.hs.fi/kotimaa/art-2000008600964.html)
+* Selkeä strategian tavoite tälle vuodelle on yhteiskunnan auki pitäminen
+
+2022-02-10 [Koronaepidemian hillintään uudet linjaukset - tavoitteena vakauttaa yhteiskunta mahdollisimman avoimeksi](https://stm.fi/-/uudet-linjaukset-koronaepidemian-hillintaan)
+* Epidemiantorjunta perustuu jatkossa ensisijaisesti ihmisten omaehtoisen terveysturvallisen toimintatavan tukemiseen, tartuntojen vakavien seurausten ehkäisemiseen rokotuksin ja vain välttämättömiltä ja rajatuilta osin tilapäiseen sääntelyyn.
+* Tarkoitus on luopua laajamittaisista toimista.
+
+2022-02-10 [Koronatestaus- ja jäljitysstrategia on päivitetty - tavoitteena ehkäistä taudin leviämistä erityisesti riskiryhmissä](https://stm.fi/-/koronatestaus-ja-jaljitysstrategia-on-paivitetty-tavoitteena-ehkaista-taudin-leviamista-erityisesti-riskiryhmissa)
+* Päivitetyn strategian mukaan tartunnanjäljitys tulisi kohdentaa sosiaali- ja terveydenhuollon asiakkaisiin ja potilaisiin sekä kyseisten yksiköiden työntekijöihin. 
 
 2022-02-15 [Tutkimus: Lieväkin koronatartunta lisää huomattavasti sydänsairauden riskiä vielä vuoden tartunnan jälkeen](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
 

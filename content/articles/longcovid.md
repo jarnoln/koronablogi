@@ -13,16 +13,16 @@ Joidenkin tutkimusten mukaan jopa 20% tartunnan saaneista saa pitkäkestoisia oi
 Uusintatartunnat kasvattavat huomattavasti sekä kuoleman että pitkäaikaisoireiden riskiä.
 
 Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
-* Kohonnut kuolemanriski ainakin 6kk:n ajaksi infektion jälkeen
-* Lisää sydänsairauksien riskiä
+* [Kohonnut kuolemanriski ainakin 6kk:n ajaksi infektion jälkeen](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
+* [Lisää sydänsairauksien riskiä vähintään vuoden ajaksi](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
 * Lisää maksavaurioiden riskiä
-* Lisää riskiä sairastua diabetekseen
-* Saattaa vaurioittaa hampaita ja aiheuttaa hampaiden irtoamista
-* Vaurioittaa hermosota ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykooseilla ja Alzheimerin taudille
+* Lisää riskiä sairastua [diabetekseen](https://www.eurekalert.org/news-releases/965465)
+* Saattaa [vaurioittaa hampaita ja aiheuttaa hampaiden irtoamista](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
+* Vaurioittaa hermosota ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykooseilla ja [Alzheimerin taudille](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
 #### Tutkimuksia:
 
-14.4.2020 [Lääkärien huoli heräsi: Koronavirus voi aiheuttaa pidempiaikaisia vaurioita ympäri kehoa – Keuhkojen lisäksi esimerkiksi maksa ja sydän ovat vaarassa, vihjaavat tutkimukset]( https://tekniikanmaailma.fi/laakarien-huoli-herasi-koronavirus-voi-aiheuttaa-pidempiaikaisia-vaurioita-ympari-kehoa-keuhkojen-lisaksi-esimerkiksi-maksa-ja-sydan-ovat-vaarassa-vihjaavat-tutkimukset/)
+14.4.2020 [Lääkärien huoli heräsi: Koronavirus voi aiheuttaa pidempiaikaisia vaurioita ympäri kehoa – Keuhkojen lisäksi esimerkiksi maksa ja sydän ovat vaarassa, vihjaavat tutkimukset](https://tekniikanmaailma.fi/laakarien-huoli-herasi-koronavirus-voi-aiheuttaa-pidempiaikaisia-vaurioita-ympari-kehoa-keuhkojen-lisaksi-esimerkiksi-maksa-ja-sydan-ovat-vaarassa-vihjaavat-tutkimukset/)
 
 29.11.2020 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
 
@@ -59,6 +59,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 25.5.2022 [Vaccines may not prevent many symptoms of long covid, study suggests](https://www.washingtonpost.com/health/2022/05/25/long-covid-vaccines-slight-protection/)
 * Six months after their initial diagnosis of covid, people in the study who were vaccinated had only a slightly reduced risk of getting long covid — 15 percent overall.
 
+[Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0)
+
 1.6.2022 [Two million people in UK living with long Covid, find studies](https://www.theguardian.com/world/2022/jun/01/two-million-people-in-uk-living-with-long-covid-say-studies?fs=e&s=cl)
 * ONS figures show that one in five people with long Covid had the infection two years ago
 
@@ -86,9 +88,15 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Researchers from Oxford University combed through more than a million patient files and discovered that, two years after infection, patients who had recovered from COVID-19 were at a higher risk of psychosis, dementia and "brain fog" when compared with patients who recovered from other respiratory diseases.
 * Children getting over COVID-19 were twice as likely to suffer from epilepsy or a seizure, and three times as likely to develop a psychotic disorder compared with those recovering from a respiratory disease, even as the absolute risk of the conditions remains low.
 
+30.8.2022 [The growing evidence that Covid-19 is leaving people sicker](https://www.ft.com/content/26e0731f-15c4-4f5a-b2dc-fd8591a02aec)
+* “The level of damage that’s been done to population health [during Covid], it would be as if everybody suddenly decided to take up smoking in one go,” Strain says.
+* “What’s particularly alarming is that these are really life-long conditions,” says Dr Ziyad Al-Aly
+
 2.9.2022 [Long Covid Is Keeping Millions Of People Out Of Work](https://www.forbes.com/sites/williamhaseltine/2022/09/02/long-covid-is-keeping-millions-of-people-out-of-work/?sh=7120746a52cc)
 
 5.9.2022 [Long-term cardiac pathology in individuals with mild initial COVID-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
+
+18.9.2022 [COVID-19 increases risk of developing Alzheimer's by 50-80% in older adults](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
 19.9.2022 [Long COVID Experts and Advocates Say the Government Is Ignoring 'the Greatest Mass-Disabling Event in Human History'](https://time.com/6213103/us-government-long-covid-response/)
 
@@ -97,3 +105,12 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 22.9.2022 [COVID-19 infection may increase risk of type 1 diabetes, suggests nationwide study of 1.2 million children](https://www.eurekalert.org/news-releases/965465)
 * Nationwide study spanning first 2 years of the pandemic finds 0.13% of children and adolescents who contracted COVID-19 were diagnosed with type 1 diabetes a month or more after infection compared to 0.08% in children without a registered infection
+
+22.9.2022 [COVID-19 infections increase risk of long-term brain problems](https://medicine.wustl.edu/news/covid-19-infections-increase-risk-of-long-term-brain-problems/)
+* Strokes, seizures, memory and movement disorders among problems that develop in first year after infection
+
+6.10.2022 [Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?](https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/)
+
+8.10.2022 [How Many Times Will You Get COVID?](https://www.newyorker.com/science/annals-of-medicine/how-many-times-will-you-get-covid)
+
+10.10.2022 [COVID increases risk of 44 different neuro disorders, including Alzheimer's, 1 year post-infection](https://www.wbur.org/hereandnow/2022/10/10/covid-neuro-disorders-alzheimers)

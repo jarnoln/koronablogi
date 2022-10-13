@@ -77,3 +77,5 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 
 2022-09-26 [Toimiiko enää yhtään mikään?](https://www.hs.fi/kaupunki/art-2000009074025.html)
 * Nyt sosiaali- ja terveyspalvelut ovat niin lähellä romahtamista, etten enää tiedä mihin luottaa.
+
+2022-10-02 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)

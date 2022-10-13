@@ -189,12 +189,12 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 2022-09-04 [Leikkaus­jonot Husissa paisuivat pahimmiksi vuosiin – lääkäri kertoo, mistä on kyse](https://www.is.fi/kotimaa/art-2000009039379.html)
 * Husin vs hallintoylilääkärin Veli-Matti Ulanderin mukaan yli 7 700 potilasta on odottanut leikkaushoitoa yli puoli vuotta.
 
-2022-09-05 [Suomessa on 4.9. mennessä raportoitu yht. 5690 koronakuolemaa. Koronakuolleisuus asukasta kohden viikolla 29.8.-4.9. oli Suomessa n. kolminkertainen EU:n keskiarvoon nähden #covid19 #kuolleisuus](https://twitter.com/lasleh/status/1566683391981981696)
+5.9.2022 [Suomessa on 4.9. mennessä raportoitu yht. 5690 koronakuolemaa. Koronakuolleisuus asukasta kohden viikolla 29.8.-4.9. oli Suomessa n. kolminkertainen EU:n keskiarvoon nähden #covid19 #kuolleisuus](https://twitter.com/lasleh/status/1566683391981981696)
 
-2022-09-09 [Tutkijat löysivät kaksi koronaviruksen vasta-ainetta, jotka ”voivat tehdä koronarokotteet tarpeettomiksi”](https://tekniikanmaailma.fi/tutkijat-loysivat-kaksi-koronaviruksen-vasta-ainetta-jotka-voivat-tehda-koronarokotteet-tarpeettomiksi)
+9.9.2022 [Tutkijat löysivät kaksi koronaviruksen vasta-ainetta, jotka ”voivat tehdä koronarokotteet tarpeettomiksi”](https://tekniikanmaailma.fi/tutkijat-loysivat-kaksi-koronaviruksen-vasta-ainetta-jotka-voivat-tehda-koronarokotteet-tarpeettomiksi)
 * Tutkijat sanovat nyt löydettyjen vasta-aineiden neutraloivan omikron- ja deltamuunnoksia jopa 95 prosentin teholla.
 
-2022-09-14 [The Lancet Commission on lessons for the future from the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01585-9/fulltext)
+14.9.2022 [The Lancet Commission on lessons for the future from the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01585-9/fulltext)
  * This staggering death toll is both a profound tragedy and a massive global failure at multiple levels. Too many governments have failed to adhere to basic norms of institutional rationality and transparency, too many people—often influenced by misinformation—have disrespected and protested against basic public health precautions, and the world's major powers have failed to collaborate to control the pandemic.
  
  * The multiple failures of international cooperation include
@@ -209,21 +209,55 @@ https://twitter.com/yleuutiset/status/1564822284052975616
     9. the failure to combat systematic disinformation
     10. the lack of global and national safety nets to protect populations experiencing vulnerability.
 
-2022-09-18 [Ainakin 17 miljoonaa eurooppalaista on kärsinyt koronan pitkäaikaisoireista kahden vuoden aikana: "Heitä ei voi jättää oman onnensa nojaan"](https://www.ts.fi/teemat/5764102)
+16.9.2022 [Ylilääkäri Otto Helve on valittu THL:n terveysturvaajat-osaston uudeksi johtajaksi](https://thl.fi/fi/-/ylilaakari-otto-helve-on-valittu-thl-n-terveysturvaajat-osaston-uudeksi-johtajaksi)
 
-2022-09-19 [Biden: Korona­pandemia on ohitse Yhdysvalloissa](https://www.is.fi/ulkomaat/art-2000009078283.html)
+18.9.2022 [Ainakin 17 miljoonaa eurooppalaista on kärsinyt koronan pitkäaikaisoireista kahden vuoden aikana: "Heitä ei voi jättää oman onnensa nojaan"](https://www.ts.fi/teemat/5764102)
 
-2022-09-19 [Lancet-komissiolta täystyrmäys pandemian hoidosta: ”Maailmanlaajuinen epäonnistuminen”](https://www.mediuutiset.fi/uutiset/mu/d582b9a4-163a-4652-bb08-cc9491ad21ee)
+19.9.2022 [Biden: Korona­pandemia on ohitse Yhdysvalloissa](https://www.is.fi/ulkomaat/art-2000009078283.html)
 
-2022-09-20 [Husin Asko Järvinen: korona ei enää uhkaa väestön henkeä ja terveyttä yhtä laajasti kuin ennen](https://www.is.fi/kotimaa/art-2000009080530.html)
+19.9.2022 [Lancet-komissiolta täystyrmäys pandemian hoidosta: ”Maailmanlaajuinen epäonnistuminen”](https://www.mediuutiset.fi/uutiset/mu/d582b9a4-163a-4652-bb08-cc9491ad21ee)
 
-2022-09-27 [Korona on vihdoinkin yksi tauti muiden joukossa, sanoo THL:n ylilääkäri – Töihin voi palata jo yhden oireettoman päivän jälkeen](https://www.hs.fi/hyvinvointi/art-2000009086946.html)
+20.9.2022 [Husin Asko Järvinen: korona ei enää uhkaa väestön henkeä ja terveyttä yhtä laajasti kuin ennen](https://www.is.fi/kotimaa/art-2000009080530.html)
+
+27.9.2022 [Korona on vihdoinkin yksi tauti muiden joukossa, sanoo THL:n ylilääkäri – Töihin voi palata jo yhden oireettoman päivän jälkeen](https://www.hs.fi/hyvinvointi/art-2000009086946.html)
 * Kahden kuukauden aikavälin mukaisia uusintainfektioita on tähän mennessä havaittu runsaalla 53000 henkilöllä.
 
-2022-09-29 [STM:n ja THL:n koronatilkannekatsaus](https://www.youtube.com/watch?v=rgI2Ll83lys). Uutisia:
+29.9.2022 [STM:n ja THL:n koronatilkannekatsaus](https://www.youtube.com/watch?v=rgI2Ll83lys). Uutisia:
 * Yle: [WHO suosittelee maskeja takaisin joukkoliikenteeseen – THL ja STM kertoivat loppuvuoden epidemianäkymistä](https://yle.fi/uutiset/3-12642988)
   * Koronatartuntojen määrä ja tautitaakka ovat syksyn myötä kääntyneet nousuun
   * Lisääntyvät tartunnat kuormittavat jälleen terveydenhoitoa
 * Ilta-Sanomat: [Uusi omikron­aalto alkamassa useissa EU-maissa – WHO suosittelee maskeja takaisin joukko­liikenteeseen](https://www.is.fi/kotimaa/art-2000009101801.html)
 
-2022-09-30 [THL:n tuore johtaja Otto Helve ei ole huolissaan uudesta korona-aallosta: "Suoja väestössä on hyvä"](https://www.mtvuutiset.fi/artikkeli/thl-n-tuore-johtaja-otto-helve-ei-ole-huolissaan-uudesta-korona-aallosta-suoja-vaestossa-on-hyva/8524800#gs.djfzbd)
+30.9.2022 [THL:n tuore johtaja Otto Helve ei ole huolissaan uudesta korona-aallosta: "Suoja väestössä on hyvä"](https://www.mtvuutiset.fi/artikkeli/thl-n-tuore-johtaja-otto-helve-ei-ole-huolissaan-uudesta-korona-aallosta-suoja-vaestossa-on-hyva/8524800#gs.djfzbd)
+
+2.10.2022 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)
+
+5.10.2022 [Schools Are Significant Sites of COVID Transmission](https://www.medscape.com/viewarticle/981770)
+* [This comprehensive Italian contact tracing study shows clearly that](https://twitter.com/rdmorris/status/1577398702997921793)
+  * COVID spreads far more easily in the schools than in the community.
+  * Household spread was a major amplifier of childhood infection.
+
+6.10.2022 [Krista Kiuru palaa ministeriksi](https://yle.fi/uutiset/3-12649373)
+
+6.10.2022 [Krista Kiurun mielestä koronaviruksen rokotustilanne voisi olla parempikin – Ylisti äitiyttä: "Minunkin kohdallani tällainen ihme vielä kävi"](https://yle.fi/uutiset/3-12651193)
+* Millä tavalla rokotepolitiikassa voidaan ottaa huomioon se, että me suojaudumme syksyä varten? Nyt on turha kolmatta kertaa sanoa, että ei huomattu varautua.
+* Tuplaantunut koronapotilaiden määrä sairaalassa kertoo siitä, että syksylläkään ei ilman koronaa pystytä täysin elämää
+
+10.10.2022 [Sveitsi palauttaa maskisuosituksen – koronavirus leviää taas](https://www.iltalehti.fi/ulkomaat/a/299a73f4-473e-4b79-b9c3-fedbe65b9db2)
+
+10.10.2022 [COVID increases risk of 44 different neuro disorders, including Alzheimer's, 1 year post-infection](https://www.wbur.org/hereandnow/2022/10/10/covid-neuro-disorders-alzheimers)
+
+
+12.10.2022 [Korona kuormittaa jo sairaaloita, vaikka syksyn aalto on vasta tulossa – tässä syy](https://www.iltalehti.fi/koronavirus/a/bae30f26-5406-4c8f-a1cc-fc6f76569062)
+* Husin diagnostiikkajohtajan (Lehtonen) mukaan kaikki merkit viittaavat tulevaan korona-aaltoon, jonka huippu nähdään vasta yli kuukauden kuluttua.
+* Sairaalapotilaiden määrä on Husin alueella kaksinkertaistunut kahdessa viikossa.
+* Haasteemme on edelleen se, että päivystykset ovat tukossa. Kapasiteetti hoitaa potilaita ei ole ollenkaan hyvä tällä hetkellä, Lehtonen sanoo.
+
+12.10.2022 [EK ja SAK vaativat neljänsiä korona­rokotteita työ­ikäisille](https://www.is.fi/politiikka/art-2000009129117.html)
+* Yksi työssäkäyvän sairauspäivä aiheuttaa keskimäärin 370 euron kustannukset työnantajalle.
+
+12.10.2022 [WHO chief urges immediate action to tackle ‘devastating’ long Covid](https://www.theguardian.com/society/2022/oct/12/long-covid-who-tedros-adhanom-ghebreyesus)
+
+12.10.2022 [Onko koronakriisi ohi vai ei?](https://www.laakarilehti.fi/terveydenhuolto/onko-koronakriisi-ohi-vai-ei/?public=807513f128ea178708f59485c33c9ab6)
+* Juridisessa ja sopimusoikeudellisessa mielessä olemme edelleen pandemiassa. Suomi ei voi päättää, onko pandemiaa vai ei, totesi turvallisuus ja terveys -osaston päällikkö Taneli Puumalainen sosiaali- ja terveysministeriöstä.
+* Jälkeenpäin ajatellen oli harmi, että heitettiin varautuminen aika lailla pois, mentiin sadasta nollaan aika nopeasti, ja siitä seurasi hoivakotiepidemioita ja korkea kuolleisuus, Puumalainen sanoi.

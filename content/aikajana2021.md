@@ -159,6 +159,8 @@ https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-e
 
 18.11.2021 [Tutkimus: Maskit ovat tehokkain yksittäinen keino vähentää koronaviruksen ilmaantuvuutta](https://tekniikanmaailma.fi/tutkimus-maskit-ovat-tehokkain-yksittainen-keino-vahentaa-koronaviruksen-ilmaantuvuutta/)
 
+24.11.2021 [Pääkirjoitus: Liika optimismi ei sovi koronataistoon – Krista Kiuru joutui suotta ivan kohteeksi](https://www.is.fi/paakirjoitus/art-2000008428981.html)
+
 25.11.2021 [Jos sulkee silmät, törmää seinään](https://www.tiede.fi/blogit/kaiken-takana-loinen/jos-sulkee-silmat-tormaa-seinaan)
 * Koronapandemian aikana on tehty paljon vääriä päätöksiä. ... Hämmentävintä on kuitenkin ollut tämän syksyn kehitys, jossa aluksi teeskenneltiin, että pandemia on jo melkein ohi, kunnes viimeistään tällä viikolla tajuttiin, ettei ole. 
 
@@ -179,6 +181,8 @@ https://tekniikanmaailma.fi/covid-19-tapaukset-lisaantyvat-koulujen-avautuessa-e
 - Neljäsosalla potilaista tehohoito on jatkunut yli kahden viikon ajan.
 - Tehohoidoissa olleista potilaista 14 prosenttia on kuollut teho-osastolla ja yhteensä 18 prosenttia sairaalahoitojakson aikana.
 - Yli 70-vuotiaista tehohoitoon joutuneista useampi kuin joka kolmas on kuollut tehohoitoon jouduttuaan.
+
+1.12.2021 [Markku Tervahauta: Laumasuoja on salaliittoteoria](https://twitter.com/zin_zah/status/1466127316317134849)
 
 2.12.2021 [Koronapotilaiden tehohoidon tarve selvässä kasvussa – sairaaloissa jo 52 potilasta, alle 40-vuotiaiden osuus yli kaksinkertaistunut aiemmasta](https://yle.fi/uutiset/3-12212414)
 

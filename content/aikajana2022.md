@@ -62,6 +62,12 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
 2022-04-14 [THL:n yleinen maskisuositus poistuu](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371)
 
+2022-04-27 [Päättäjät halusivat vähätellä koronapandemiaa ja pantata tietoa kansalaisilta, paljastaa uusi tutkimus](https://yle.fi/uutiset/3-12414931)
+* THL:n raportin mukaan vuoden 2020 alkupuolella tilannetta Suomessa leimasi haluttomuus uskoa koronaviruksen vaarallisuutta. Viruksen arvioitiin käyttäytyvän kuin influenssavirus tai sen ei uskottu tarttuvan ihmisestä toiseen.
+* Osa THL:n tutkimukseen haastatelluista asiantuntijoista kertoo myös, että päättäjät toppuuttelivat liian vakavien uhkaskenaarioiden esittämistä, koska ne voisivat pelottaa kansalaisia.
+  * "Se rupes näyttää siltä, että tilanne näyttää tosi pahalta. Ja sitte kuitenki se kansallinen viesti oli, että ei tässä mitään hätää. (...) Just niitä epävirallisia reittejä alko sitä tietoo tihkua."
+* Varsinkin THL saa kritiikkiä huonosta tiedonkulusta. 
+
 2022-05-05 [Vakava koronatauti saattaa kiihdyttää kognitiivista vanhenemista jopa 20 vuodella, tutkimus kertoo](https://tekniikanmaailma.fi/vakava-koronatauti-saattaa-kiihdyttaa-kognitiivista-vanhenemista-jopa-20-vuodella-tutkimus-kertoo/)
 
 2022-05-07 [Tutkijat havaitsivat yhteyden erektiohäiriön ja sairastetun koronavirustaudin välillä – Ongelmat jatkuneet puoli vuottakin sairastamisen jälkeen](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-erektiohairion-ja-sairastetun-koronavirustaudin-valilla-ongelmat-jatkuneet-puoli-vuottakin-sairastamisen-jalkeen/)
@@ -261,3 +267,48 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 12.10.2022 [Onko koronakriisi ohi vai ei?](https://www.laakarilehti.fi/terveydenhuolto/onko-koronakriisi-ohi-vai-ei/?public=807513f128ea178708f59485c33c9ab6)
 * Juridisessa ja sopimusoikeudellisessa mielessä olemme edelleen pandemiassa. Suomi ei voi päättää, onko pandemiaa vai ei, totesi turvallisuus ja terveys -osaston päällikkö Taneli Puumalainen sosiaali- ja terveysministeriöstä.
 * Jälkeenpäin ajatellen oli harmi, että heitettiin varautuminen aika lailla pois, mentiin sadasta nollaan aika nopeasti, ja siitä seurasi hoivakotiepidemioita ja korkea kuolleisuus, Puumalainen sanoi.
+
+16.10.2022 [Koronatilanne synkkenee – töihin palannut Kiuru: Rokotukset myöhässä, koronalääkkeistä riitaa ja maskit takaisin](https://www.iltalehti.fi/politiikka/a/fc11d862-cd61-477f-8858-4d988f56ee30)
+
+17.10.2022 [Korona ei ole enää yleisvaarallinen tartuntatauti, linjasivat asiantuntijat – "Käytämme rahaa tällä hetkellä aika turhiin toimintoihin"](https://www.mtvuutiset.fi/artikkeli/korona-ei-ole-enaa-yleisvaarallinen-tartuntatauti-linjasivat-asiantuntijat-kaytamme-rahaa-talla-hetkella-aika-turhiin-toimintoihin/8550894#gs.fyy4gj)
+<!--  https://twitter.com/MTVUutiset/status/1582228618884788224 -->
+
+17.10.2022 [Suomessa nyt 6242 koronakuolemaa – viikossa 93 lisää](https://www.verkkouutiset.fi/a/suomessa-nyt-6242-koronakuolemaa-viikossa-93-lisaa/#ec1ec4e4)
+* Koronakuolleisuus asukasta kohden on viisinkertainen EU:n keskiarvoon nähden. 
+
+18.10.2022 [Koronatapaukset lisääntyvät, mutta asialle ei voi tehdä mitään, sanoo ylilääkäri](https://www.hs.fi/kotimaa/art-2000009140486.html)
+* Koronavirustartuntojen lisääntymisen estämiseksi ei Järvisen mukaan ole tehtävissä juuri mitään.
+* Syytä erityiseen huoleen ei THL:n terveysturvaajat-osaston johtaja Otto Helven mukaan ole.
+
+19.10.2022 [Tapio Sadeojan kolumni: Kiuru vastaan THL](https://www.is.fi/kotimaa/art-2000009143743.html)
+* Kaiken kaikkiaan Suomessa oli koronakuolemia 6 242. Sairaaloissa makasi viime viikolla yli tuhat potilasta, mikä alkaa hipoa koko pandemian ajan ennätyslukemia. Kuten tiedämme, Terveyden ja hyvinvoinnin laitos (THL) ei näistä luvuista paljon huutele vaan selittelee, miksi luvuista ei tarvitse olla huolissaan.
+* Etenkin sekä turvallisen ja tehokkaan rokotteen että vakavalta taudilta ja jopa kuolemalta estävän lääkkeen pihtailu hämmästyttävät monia laitoksen ulkopuolisia asiantuntijoita.
+* THL on ottanut mantrakseen hybridi-immuniteetin eli käytännössä rokotuksen ja sairastetun taudin eli THL:n kielellä luonnonboosterin yhdistelmän. Kyse on siis todellisuudessa laumasuojasta.
+* Nyt voidaan oikeutetusti sanoa, että johtava terveysviranomainen näkee koronan sairastamisen jopa hyvänä asiana. 
+* Koronan aiheuttamista pitkäaikaissairauksista terveysviranomaisemme ei puhu käytännössä mitään.
+* Vaikka kuolintilastot osoittivat koronakuolleisuuden lisääntyvän kovaa vauhtia, me emme nähneet yhteiskuntamme hauraimpien ihmisten hätää.
+
+19.10.2022 [Krista Kiuru haluaisi nopeuttaa koronarokotuksia ja lisätä koronalääkkeiden käyttöä](https://yle.fi/uutiset/74-20001804)
+<!-- https://areena.yle.fi/1-63776415 -->
+
+19.10.2022 [Korona kaataa nyt väkeä työpaikoilla, mutta uutta rokotusta ei tipu – myös rokotteen välittömät haittavaikutukset aiheuttavat sairauspoissaoloja](https://yle.fi/uutiset/74-20001832)
+* Syksyn tullen pahentunut koronatilanne hankaloittaa arkea työpaikoilla. Poissaoloja on nyt todella paljon, kertoo Osuuskauppa Hämeenmaan toimitusjohtaja Olli Vormisto.
+
+20.10.2022 [Rokotekiista repii nyt Suomea – THL ja ylilääkärit (Broas, Lehtonen, Ruotsalainen) täysin eri mieltä koronan hoidosta](https://www.is.fi/kotimaa/art-2000009142699.html)
+<!-- https://twitter.com/iltasanomat/status/1582929838716821505 -->
+* Vaikka kaikki potilaat eivät ole joutuneet sairaalaan suoraan koronainfektion vuoksi, lisää koronatartunta Broasin mukaan hoidon tarvetta pahentamalla perussairauksia tai riskiä komplikaatioille, kuten sydän- ja aivoverenkiertohäiriöille.
+* KORONA aiheuttaa tällä hetkellä paljon sairaspoissaoloja. Broas näkee tilanteen erityisen kriittisenä sosiaali- ja terveysalalla, jossa työntekijäpula on laaja ja akuutti.
+
+20.10.2022 [Husin johtajaylilääkäri: Pääministeri Marin kaunisteli korona­tilannetta kriisin alkumetreillä](https://www.is.fi/kotimaa/art-2000009139262.html)
+
+20.10.2022 [Suomen terveydenhuollon kantokyky on ollut vaarassa monta kertaa koronapandemian aikana, sanoo HUSin Markku Mäkijärvi](https://yle.fi/uutiset/74-20001591)
+* Oikeastaan jokaisen pandemia-aallon yhteydessä kantokyky ylittyi. Osa potilaista jäi hoitamatta tai hoito siirtyi, Mäkijärvi summaa nyt.
+* "Minä sanoisin, että Krista Kiuru on ollut ja on varmaan tänäänkin pandemian torjunnan ykkönen Suomessa."
+
+21.10.2022 [65-vuotiaiden elinajan­odote laski historiallisesti](https://www.hs.fi/kotimaa/art-2000009149458.html)
+
+21.10.2022 [Suomen koronatilanne on taas yhtä synkkä kuin alkuvuodesta, paljastaa THL:n tuore raportti](https://yle.fi/uutiset/74-20002056)
+
+21.10.2022 [Kulttuuriministeri Petri Honkosella selvä viesti korona­syksyn varalle: ”Mitään rajoitustoimia ei pidä nyt tehdä”](https://www.is.fi/politiikka/art-2000009149483.html)
+
+21.10.2022 [Kiurun paluu sytytti taas koronariidat](https://www.hs.fi/paakirjoitukset/art-2000009150304.html)

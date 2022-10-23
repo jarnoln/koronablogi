@@ -114,3 +114,5 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 8.10.2022 [How Many Times Will You Get COVID?](https://www.newyorker.com/science/annals-of-medicine/how-many-times-will-you-get-covid)
 
 10.10.2022 [COVID increases risk of 44 different neuro disorders, including Alzheimer's, 1 year post-infection](https://www.wbur.org/hereandnow/2022/10/10/covid-neuro-disorders-alzheimers)
+
+19.10.2022 [Koronalla yllättävä vaikutus sisäelimiin, selviää vuosia kestäneistä tutkimuksista – "Tartunta on kuin ikääntymisen kiihdytin"](https://www.mtvuutiset.fi/artikkeli/koronalla-yllattava-vaikutus-sisaelimiin-selviaa-vuosia-kestaneista-tutkimuksista-tartunta-on-kuin-ikaantymisen-kiihdytin/8552168)

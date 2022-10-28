@@ -80,6 +80,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * With reinfections on the rise, scientists warn that each bout increases your risk of troubling outcomes, from long COVID to heart disease.
 * In June, Al-Aly published a study, which has not yet been peer reviewed, analyzing more than 5.6 million military veterans’ medical records that showed each new infection added to their risk of dying from just about any cause. It also boosted the odds of other troubling health outcomes from heart, blood, and brain disorders, as well as diseases such as diabetes, chronic fatigue, and long COVID.
 
+31.7.2022 [Millions of Americans have long COVID. Many of them are no longer working](https://www.npr.org/2022/07/31/1114375163/long-covid-longhaulers-disability-labor-ada)
+
 8.8.2022 [Hollantilaistutkimus: Joka kahdeksas koronatautiin sairastunut kärsii pitkästä koronasta – Laaja tutkimus selvitti yleisimmät oireet](https://tekniikanmaailma.fi/hollantilaistutkimus-joka-kahdeksas-koronatautiin-sairastunut-karsii-pitkasta-koronasta-laaja-tutkimus-selvitti-yleisimmat-oireet/)
 
 11.8.2022 [Morphological, cellular, and molecular basis of brain infection in COVID-19 patients](https://www.pnas.org/doi/full/10.1073/pnas.2200960119)
@@ -116,3 +118,13 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 10.10.2022 [COVID increases risk of 44 different neuro disorders, including Alzheimer's, 1 year post-infection](https://www.wbur.org/hereandnow/2022/10/10/covid-neuro-disorders-alzheimers)
 
 19.10.2022 [Koronalla yllättävä vaikutus sisäelimiin, selviää vuosia kestäneistä tutkimuksista – "Tartunta on kuin ikääntymisen kiihdytin"](https://www.mtvuutiset.fi/artikkeli/koronalla-yllattava-vaikutus-sisaelimiin-selviaa-vuosia-kestaneista-tutkimuksista-tartunta-on-kuin-ikaantymisen-kiihdytin/8552168)
+
+26.10.2022 [Koronasta voi seurata pitkäaikaisia neurologisia ongelmia – jopa Alzheimer](https://www.is.fi/terveys/art-2000009159209.html)
+
+27.10.2022 [Suomessa saattaa olla jo yli 100 000 pitkäkestoiseen koronaan sairastunutta, tässä ovat yleisimmät oireet](https://www.aamulehti.fi/koronavirus/art-2000009139124.html)
+* Maailman terveysjärjestö WHO arvioi, että sars-CoV-2-viruksen aiheuttamaan covid-19-tautiin sairastuneista 10–20 prosenttia saa pitkäkestoisia oireita.
+
+27.10.2022 [STM:n ja THL:n korontatilannekatsaus](https://www.is.fi/kotimaa/art-2000009162542.html)
+* Puumalainen sanoo, että tämän hetken tiedon mukaan noin joka kahdeksas koronapotilas kärsii pidempiaikaisista oireista.
+
+28.10.2022 [Koronatartunta voi tuhota aivosolujen välisiä yhteyksiä](https://www.verkkouutiset.fi/a/koronatartunta-voi-tuhota-aivosolujen-valisia-yhteyksia/)

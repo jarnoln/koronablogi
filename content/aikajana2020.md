@@ -84,7 +84,9 @@ title: 2020 Aikajana
 * Tavallisten ihmisten kohdalla kasvomaskien käytöstä voi olla jopa haittaa, sanoo Turun yliopiston dosentti, tartuntataudeista vastaava ylilääkäri Esa Rintala Turun yliopistollisesta keskussairaalasta (Tyks).
 * ”Itse en henkilökohtaisesti pidä siitä, että ihmiset käyttävät rautakaupoista ostamiaan maskeja. Se lisää ahdistusta ja epäsolidaarisuutta, kun niitä ei ole kaikilla käytettävissä”, Rintala sanoo.
 * STM:n Sillanaukeen mukaan huivin tai kankaisen maskin käytössä kannattaa huomioida, että ne voivat haitata omaa hengitystä. ”Ne voivat olla esimerkiksi astmaatikoilla ja sydämen vajaatoiminnasta kärsivillä vaarallisia. Miettisin kyllä kaksi kertaa, onko siitä enemmän hyötyä, jos laittaa kankaan suun päälle.”
- 
+
+3.4.2020 [Viisi tutkijaa vaatii: Koronaepidemia pitää tukahduttaa Suomessa nyt – Aasia johtaa torjuntataistelussa Eurooppaa 6–0](https://suomenkuvalehti.fi/mielipide/viisi-tutkijaa-vaatii-koronaepidemia-pitaa-tukahduttaa-suomessa-nyt-aasia-johtaa-torjuntataistelussa-eurooppaa-6-0/)
+
 6.4.2020 [Suomalaistutkijoiden mallinnus: Koronavirusta sisältävät aerosolit voivat leijailla kaupan hyllyjen välissä minuutteja yskäisyn jälkeen](https://tekniikanmaailma.fi/suomalaistutkijoiden-mallinnus-koronavirusta-sisaltavat-aerosolit-voivat-leijailla-kaupan-hyllyjen-valissa-minuutteja-yskaisyn-jalkeen/)
 
 14.4.2020 [THL:n pääjohtaja suosittelee kangasmaskien käyttöä julkisilla paikoilla](https://www.hs.fi/kotimaa/art-2000006474077.html)

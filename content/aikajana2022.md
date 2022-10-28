@@ -311,4 +311,24 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 21.10.2022 [Kulttuuriministeri Petri Honkosella selvä viesti korona­syksyn varalle: ”Mitään rajoitustoimia ei pidä nyt tehdä”](https://www.is.fi/politiikka/art-2000009149483.html)
 
-21.10.2022 [Kiurun paluu sytytti taas koronariidat](https://www.hs.fi/paakirjoitukset/art-2000009150304.html)
+22.10.2022 [Kiurun paluu sytytti taas koronariidat](https://www.hs.fi/paakirjoitukset/art-2000009150304.html)
+
+25.10.2022 [A-studio: Koronapotilaiden määrä kasvaa taas](https://areena.yle.fi/1-50949303)
+* Eeva Ruotsalainen vs. Otto Helve
+
+27.10.2022 [Tilastokeskus julkaisee väestön ennakkotilaston](https://stat.fi/julkaisu/cktjxsgfk1chh0c5553zc71bc)
+  *  Kuolleiden määrä oli 46 111, mikä on 4 239 henkeä enemmän kuin vuotta aiemmin. Tammi–syyskuussa elävänä syntyneiden määrä oli vuodesta 1900 alkavan mittaushistorian pienin ja kuolleiden määrä vuodesta 1945 alkavan mittaushistorian suurin.
+  * Uutisia:
+    * [Korona selittää suurimman osan kuolleisuuden poikkeuksellisesta kasvusta](https://www.mtvuutiset.fi/artikkeli/korona-selittaa-suurimman-osan-kuolleisuuden-poikkeuksellisesta-kasvusta/8558012)
+      * Suomessa kuoli alkuvuonna enemmän ihmisiä kuin koko mittaushistorian aikana eli vuodesta 1945 lähtien.
+      * Tutkimusprofessori Mika Gissler Terveyden ja hyvinvoinnin laitoksesta arvioi, että suurinta osaa kuolleisuuden kasvusta selittää koronaepidemia
+      * – Ylikuolleisuus oli suurinta keväällä, jolloin oli myös eniten koronatartuntoja. Näyttää siltä, että korona on vaikuttanut sekä suoraan että epäsuorasti, Gissler sanoo.
+      * Epäsuora vaikutus on Gisslerin mukaan sitä, että koronaepidemia aiheutti kuolemia, jotka muuna aikana olisi vältetty. Esimerkiksi hän ottaa syöpäsairaudet.
+      * - Syöpäseulontaan ei ole päästy tai menty koronan aiheuttamien jonojen vuoksi, Gissler kuvailee.
+
+27.10.2022 [STM:n ja THL:n korontatilannekatsaus](https://www.is.fi/kotimaa/art-2000009162542.html)
+* Puumalainen sanoo, että tämän hetken tiedon mukaan noin joka kahdeksas koronapotilas kärsii pidempiaikaisista oireista.
+* Onko korona edelleen yleisvaarallinen tartuntatauti? - Olemme tätä seuranneet hyvin tarkkaan. WHO antoi lausunnon, että pandemia jatkuu edelleen. Nyt kun tautitapausten määrä näyttää olevan nousussa ja kuolleidenkin määrä huomattava, niin juuri nyt (yleisvaarallisuuden purkaminen) ei vaikuta ajankohtaiselta, Puumalainen sanoo.
+
+27.10.2022 [Suomessa saattaa olla jo yli 100 000 pitkäkestoiseen koronaan sairastunutta, tässä ovat yleisimmät oireet](https://www.aamulehti.fi/koronavirus/art-2000009139124.html)
+* Maailman terveysjärjestö WHO arvioi, että sars-CoV-2-viruksen aiheuttamaan covid-19-tautiin sairastuneista 10–20 prosenttia saa pitkäkestoisia oireita.

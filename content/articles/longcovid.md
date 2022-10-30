@@ -14,6 +14,7 @@ Uusintatartunnat kasvattavat huomattavasti sekä kuoleman että pitkäaikaisoire
 
 Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * [Kohonnut kuolemanriski ainakin 6kk:n ajaksi infektion jälkeen](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
+* [Heikentää immuniteettia](https://www.nature.com/articles/s41590-021-01113-x)
 * [Lisää sydänsairauksien riskiä vähintään vuoden ajaksi](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
 * Lisää maksavaurioiden riskiä
 * Lisää riskiä sairastua [diabetekseen](https://www.eurekalert.org/news-releases/965465)
@@ -36,10 +37,20 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 30.12.2021 [Tutkimus: Koronavirus voi pesiytyä aivoihin ja elimiin kuukausiksi akuutin taudin jälkeen](https://tekniikanmaailma.fi/tutkimus-korona-voi-pesiytya-aivoihin-ja-elimiin-kuukausiksi-akuutin-taudin-jalkeen/)
 
+12.1.2022 [Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection](https://www.nature.com/articles/s41590-021-01113-x)
+
+20.1.2022 [Nervous system consequences of COVID-19](https://www.science.org/doi/10.1126/science.abm2052)
+
 10.2.2022 [Heart-disease risk soars after COVID — even with a mild case](https://www.nature.com/articles/d41586-022-00403-0)
 * Massive study shows a long-term, substantial rise in risk of cardiovascular disease, including heart attack and stroke, after a SARS-CoV-2 infection.
 
 15.2.2022 [Tutkimus: Lieväkin koronatartunta lisää huomattavasti sydänsairauden riskiä vielä vuoden tartunnan jälkeen](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
+
+19.2.2022 [How Long Covid Exhausts the Body](https://www.nytimes.com/interactive/2022/02/19/science/long-covid-causes.html)
+* Studies estimate that perhaps 10 to 30 percent of people infected with the coronavirus may develop long-term symptom
+* Long Covid patients appear to have disrupted immune systems compared to post-Covid patients who fully recover
+* Researchers have also found evidence that Covid may trigger a lasting and damaging autoimmune response. Studies have found surprisingly high levels of autoantibodies, which mistakenly attack a patient’s own tissues, many months after an initial infection.
+* South African researchers found another circulation problem: Microscopic blood clots. Tiny clots that form during an initial Covid infection will typically break down naturally, but might persist in long Covid patients. These clots could block the tiny capillaries that carry oxygen to tissues throughout the body.
 
 8.3.2022 [Korona tuhoaa aivoja vuosilla, tutkijat havaitsivat – Tutkimuksessa verrattiin aivokuvia ennen ja jälkeen koronatartunnan](https://tekniikanmaailma.fi/korona-tuhoaa-aivoja-vuosilla-tutkijat-havaitsivat-tutkimuksessa-verrattiin-aivokuvia-ennen-ja-jalkeen-koronatartunnan/)
 
@@ -82,6 +93,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 31.7.2022 [Millions of Americans have long COVID. Many of them are no longer working](https://www.npr.org/2022/07/31/1114375163/long-covid-longhaulers-disability-labor-ada)
 
+4.8.2022 [Blood clots, heart problems, kidney failure: COVID creates a higher risk for rare pediatric health problems, new CDC study finds](https://fortune.com/2022/08/04/covid-creates-higher-risk-kids-children-pediatric-blood-clots-kidney-failure-heart-problems-type-1-diabetes/)
+
 8.8.2022 [Hollantilaistutkimus: Joka kahdeksas koronatautiin sairastunut kärsii pitkästä koronasta – Laaja tutkimus selvitti yleisimmät oireet](https://tekniikanmaailma.fi/hollantilaistutkimus-joka-kahdeksas-koronatautiin-sairastunut-karsii-pitkasta-koronasta-laaja-tutkimus-selvitti-yleisimmat-oireet/)
 
 11.8.2022 [Morphological, cellular, and molecular basis of brain infection in COVID-19 patients](https://www.pnas.org/doi/full/10.1073/pnas.2200960119)
@@ -110,6 +123,11 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 22.9.2022 [COVID-19 infections increase risk of long-term brain problems](https://medicine.wustl.edu/news/covid-19-infections-increase-risk-of-long-term-brain-problems/)
 * Strokes, seizures, memory and movement disorders among problems that develop in first year after infection
+
+29.9.2022 [Unlike flu, COVID-19 attacks DNA in the heart: new research](https://www.brisbanetimes.com.au/national/queensland/unlike-flu-covid-19-attacks-dna-in-the-heart-new-research-20220929-p5bm10.html)
+* Direct research on the hearts of COVID-19 patients who have died from the disease has revealed they sustained DNA damage in a way completely unlike how influenza affects the body.
+
+6.10.2022 [The neurobiology of long COVID](cell.com/neuron/fulltext/S0896-6273(22)00910-2)
 
 6.10.2022 [Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?](https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/)
 

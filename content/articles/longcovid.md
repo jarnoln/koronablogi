@@ -70,7 +70,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 25.5.2022 [Vaccines may not prevent many symptoms of long covid, study suggests](https://www.washingtonpost.com/health/2022/05/25/long-covid-vaccines-slight-protection/)
 * Six months after their initial diagnosis of covid, people in the study who were vaccinated had only a slightly reduced risk of getting long covid — 15 percent overall.
 
-[Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0)
+25.5.2022 [Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0)
 
 1.6.2022 [Two million people in UK living with long Covid, find studies](https://www.theguardian.com/world/2022/jun/01/two-million-people-in-uk-living-with-long-covid-say-studies?fs=e&s=cl)
 * ONS figures show that one in five people with long Covid had the infection two years ago
@@ -130,6 +130,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 6.10.2022 [The neurobiology of long COVID](cell.com/neuron/fulltext/S0896-6273(22)00910-2)
 
 6.10.2022 [Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?](https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/)
+* Researchers believe that COVID-19 infection induces a prothrombotic and proinflammatory state, which may increase the risk of blood clots. In a cohort study of 48 million adults in England and Wales just published, COVID-19 was linked with dramatic increases in both arterial clots (these cause strokes and heart attacks) and venous thromboembolism (these are blood clots in the lungs and legs, among other places). 
 
 8.10.2022 [How Many Times Will You Get COVID?](https://www.newyorker.com/science/annals-of-medicine/how-many-times-will-you-get-covid)
 

@@ -8,7 +8,7 @@ Koronan pitkäaikaisvaikutukset
 
 Vaikka koronaan kuolleita on valtava määrä ja akuutti infektio vaatii monilla sairaalahoitoa ja joillain myös tehohoitoa, saattaa suurin koronan aiheuttama vahinko yhteiskunnille ja kansanterveydelle liittyä sen lukuisiin pitkäaikaisvaikutuksiin, jotka saataavat ilmetä vasta kuukausia infektion jälkeen ja jotka saattavat myös kestää kuukausia tai mahdollisesti koko loppuelämämän. Ne saattavat aiheuttaa myös kuoleman, jota ei kuitenkaan tilastoida koronasta johtuvaksi, koska silloin saatta infektiosta olla jo kuukausia.
 
-Joidenkin tutkimusten mukaan jopa 20% tartunnan saaneista saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
+Tutkimusten mukaan n. 13% tartunnan saaneista (Suomessa arviolta [joka kahdeksas](https://www.is.fi/kotimaa/art-2000009162542.html) saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
 
 Uusintatartunnat kasvattavat huomattavasti sekä kuoleman että pitkäaikaisoireiden riskiä.
 
@@ -16,10 +16,9 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * [Kohonnut kuolemanriski ainakin 6kk:n ajaksi infektion jälkeen](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
 * [Heikentää immuniteettia](https://www.nature.com/articles/s41590-021-01113-x)
 * [Lisää sydänsairauksien riskiä vähintään vuoden ajaksi](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
-* Lisää maksavaurioiden riskiä
 * Lisää riskiä sairastua [diabetekseen](https://www.eurekalert.org/news-releases/965465)
 * Saattaa [vaurioittaa hampaita ja aiheuttaa hampaiden irtoamista](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
-* Vaurioittaa hermosota ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykooseilla ja [Alzheimerin taudille](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
+* [Vaurioittaa hermostoa ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykiatrisille psykooseille] ja [Alzheimerin taudille](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
 #### Tutkimuksia:
 
@@ -28,10 +27,18 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 29.11.2020 [New York Times: Koronatauti saattaa saada joiltakin hampaat putoamaan suusta, ja lääkärit ovat hämillään](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
 
 9.4.2021 [Covid-19 on myös merkittävä aivosairaus](https://www.utu.fi/fi/ajankohtaista/uutinen/covid-19-on-myos-merkittava-aivosairaus)
+* Covid-19:n sairastaneilla lähes kaikki neurologiset ja psykiatriset diagnoosit olivat huomattavasti tavallisempia – myös dementia. Joka neljäs covidin sairastanut sai depressio- tai ahdistuneisuusdiagnoosin, Roine summaa tutkimuksen tuloksia.
+* Näin suuri hermostollisten oireiden yleisyys on virusinfektiolle poikkeuksellista. 
+* Myös covidin myötä heikentyvä kognitiivinen kyvykkyys on huolestuttava oire. Vielä ei tiedetä, kuinka pitkästä oirehdinnasta on kyse. 
 
 26.4.2021 [”Pitkittynyt koronatauti on USA:n seuraava suuri terveyskriisi” – Sairastettu koronatauti yhdistettiin huomattavasti kohonneeseen kuolemanriskiin](https://tekniikanmaailma.fi/pitkittynyt-koronatauti-on-usan-seuraava-suuri-terveyskriisi-sairastettu-koronatauti-yhdistettiin-huomattavasti-kohonneeseen-kuolemanriskiin/)
 * Koronatautiin sairastuneilla oli kontrolliryhmään verrattuna 60 prosenttia kohonnut riski kuolla kuuden kuukauden tarkastelujaksolla.
 * ”Tutkimuksemme, että kuuden kuukauden jälkeen diagnoosista kuolemanriski edes lievän koronataudin sairastaneille ei ole triviaali, ja riski kasvaa koronataudin vakavuuden mukaan”, toteaa tutkimuksen pääkirjoittaja, apulaisprofessori Ziyad Al-Aly tutkimustiedotteessa.
+
+17.10.2021 [Pitkäkestoisesta koronataudista paljastuu nyt täysin uutta tietoa – Kaikki nämä kymmenet erilaiset oireet ovat mahdollisia ja voivat aiheuttaa pitkän piinan: ”Armoton uupumistila”](https://www.aamulehti.fi/koronavirus/art-2000008326715.html)
+
+25.5.2022 [Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0)
+* Vaccination against SARS-CoV-2 lowers the risk of long COVID after infection by only about 15%, according to a study of more than 13 million people
 
 11.10.2021 [Koronatauti voi johtaa diabeteksen laukeamiseen, ja nyt tutkijat saivat selville, miten virus vaikuttaa haiman toimintaan](https://tekniikanmaailma.fi/koronatauti-voi-johtaa-diabeteksen-laukeamiseen-ja-nyt-tutkijat-saivat-selville-miten-virus-vaikuttaa-haiman-toimintaan/)
 
@@ -71,6 +78,10 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Six months after their initial diagnosis of covid, people in the study who were vaccinated had only a slightly reduced risk of getting long covid — 15 percent overall.
 
 25.5.2022 [Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0)
+
+25.5.2022 [Covid and the brain: A neurological health crisis](https://knowablemagazine.org/article/health-disease/2022/covid-and-brain-neurological-health-crisis)
+* “I think the rates of persistent cognitive symptoms in people who have recovered from Covid is, frankly, alarming,” Monje says.
+* Inflammation in the brain can cause dysregulation of a number of different cell types and have lasting consequences to cognitive function.
 
 1.6.2022 [Two million people in UK living with long Covid, find studies](https://www.theguardian.com/world/2022/jun/01/two-million-people-in-uk-living-with-long-covid-say-studies?fs=e&s=cl)
 * ONS figures show that one in five people with long Covid had the infection two years ago
@@ -113,10 +124,16 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 18.9.2022 [COVID-19 increases risk of developing Alzheimer's by 50-80% in older adults](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
+18.9.2022 [I've had COVID and am constantly getting colds. Did COVID harm my immune system? Am I now at risk of other infectious diseases?](https://www.abc.net.au/news/2022-09-19/covid-constant-colds-immune-system-risk-infectious-diseases/101449778)
+
 19.9.2022 [Long COVID Experts and Advocates Say the Government Is Ignoring 'the Greatest Mass-Disabling Event in Human History'](https://time.com/6213103/us-government-long-covid-response/)
 
 22.9.2022 [Yhä melkoinen mysteeri](https://suomenkuvalehti.fi/tiede-ja-teknologia/koronan-loytymisesta-on-pian-kolme-vuotta-silti-pitka-korona-hammentaa-yha-tutkijoita/)
 * Pitkän koronan syntymekanismia ei vieläkään tunneta. Siihen ei ole myöskään parantavaa hoitoa. Suomessa tutkimusta ja hoitoa ovat hidastaneet rahapula ja sairauden vähättely.
+* Suomessa oli elokuun alkuun mennessä tehty noin 15 000 pitkän koronan diagnoosia. Määrä on kuusinkertaistunut viime vuodesta. 
+* Varsinaisia pitkään koronaan erikoistuneita klinikoita on Suomessa vain yksi, HUS:n koronavirusinfektion pitkäaikaisoireiden poliklinikka.  
+* Klinikan on resurssien puutteen vuoksi täytynyt rajata palvelunsa vain niille potilaille, jotka ovat saaneet koronatestistä positiivisen tuloksen. Heistäkään kaikki eivät mahdu klinikalle.
+* Potilaat kuitenkin puhuvat erilaisissa sosiaalisen median ryhmissä hoidon saamisen vaikeudesta julkisessa terveydenhuollossa. Heidän mukaansa oireita vähätellään eikä oteta todesta.
 
 22.9.2022 [COVID-19 infection may increase risk of type 1 diabetes, suggests nationwide study of 1.2 million children](https://www.eurekalert.org/news-releases/965465)
 * Nationwide study spanning first 2 years of the pandemic finds 0.13% of children and adolescents who contracted COVID-19 were diagnosed with type 1 diabetes a month or more after infection compared to 0.08% in children without a registered infection
@@ -142,6 +159,9 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 27.10.2022 [Suomessa saattaa olla jo yli 100 000 pitkäkestoiseen koronaan sairastunutta, tässä ovat yleisimmät oireet](https://www.aamulehti.fi/koronavirus/art-2000009139124.html)
 * Maailman terveysjärjestö WHO arvioi, että sars-CoV-2-viruksen aiheuttamaan covid-19-tautiin sairastuneista 10–20 prosenttia saa pitkäkestoisia oireita.
+* Suomessa on tällä hetkellä noin 17 000 pitkäkestoista koronaa sairastavaa ihmistä, jotka ovat saaneet tautiin virallisen diagnoosin. Pitkittyneistä oireista kärsivien todellista määrää ei kukaan tiedä. Varmaa on, että heitä on paljon enemmän.
+* Arvovaltaisessa The Lancet -lehdessä äskettäin julkaistun Hollannissa tehdyn tutkimuksen mukaan lähes 13 prosenttia koronatautiin sairastaneista sai pitkäkestoisia oireita.
+* Terveyden ja hyvinvoinnin laitoksen (THL) tilastojen mukaan Suomessa on todettu runsaat 1,3 miljoonaa varmistettua koronatartuntaa. Jos 13 prosenttia varmistetuista tapauksista saisi pitkäkestoisen taudin, tarkoittaisi se lähes 170 000:ta sairastunutta. 
 
 27.10.2022 [STM:n ja THL:n korontatilannekatsaus](https://www.is.fi/kotimaa/art-2000009162542.html)
 * Puumalainen sanoo, että tämän hetken tiedon mukaan noin joka kahdeksas koronapotilas kärsii pidempiaikaisista oireista.

@@ -49,7 +49,7 @@ title: 2020 Aikajana
   * Huhtikuun puolenvälin lopulla voi olla epidemian huippu ja epidemia voi jatkua kesään asti, Jussi Sane arvioi.
   * Sane kertoo, että koronavirus tarttuu pisaratartuntana.
 
-19.3.2020 [WHO:n suosittelee, että koronavirustestejä tehtäisiin niin monta kuin mahdollista](https://www.hs.fi/kotimaa/art-2000006446009.html)
+19.3.2020 [Suomi lisää korona­viruksen testaus­kapasiteettia, mutta ei ota testeihin lievä­oireisia: ”Emme totta puhuen ymmärrä WHO:n linjausta”, sanoo THL:n Mika Salminen](https://www.hs.fi/kotimaa/art-2000006446009.html)
 * ”Emme totta puhuen ymmärrä WHO:n linjausta testaamisessa. Emme saa sitä tautia enää kokonaan maailmasta pois. Jos joku näin väittää, ei ymmärrä pandemioita.”
 * ”Testi ei ole hoitokeino”, sanoo THL:n terveysturvallisuusjohtaja Mika Salminen.
 * ”Testejä ei tehdä päivässä niin montaa kuin mahdollista, vaan tarpeen mukaan”, Salminen sanoi.

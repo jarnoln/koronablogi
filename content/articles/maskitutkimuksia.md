@@ -48,3 +48,5 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 
 > "Conclusions: Masking is a relatively low-cost but effective intervention that can protect students and staff from substantial illness and loss of in-person days in school."
 
+9.11.2022 [Universal Masking in School Works. New Data Shows How Well](https://time.com/6231516/universal-masking-in-school-works-new-data-shows-how-well/)
+> Approximately 12,000 cases, or 30% of all cases during the study period, were attributable to rescinding the mask requirement. The resulting illnesses led to substantial loss of in-person school days— an estimated minimum of 17,500 days of school absence in students and 6,500 days of staff absence—arguing for masks as a critical component of optimizing learning.

@@ -79,3 +79,15 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Nyt sosiaali- ja terveyspalvelut ovat niin lähellä romahtamista, etten enää tiedä mihin luottaa.
 
 2022-10-02 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)
+
+[Helsingin historian kalleinta sairaalaa ei saada täysin auki hoitaja­pulan vuoksi](https://www.hs.fi/kaupunki/art-2000009125264.html)
+* Töölön sairaalan ortopediassa on keväästä asti pidetty kaksi tai kolme salia viikoittain suljettuna. Sama pula uhkaa uutta Siltasairaalaa.
+* Yksi leikkaussaleista on ollut enimmäkseen kiinni vuodesta 2021. Kahden muun piti olla pois käytössä kesän ajan, mutta tilanne ei syksyllä helpottanutkaan.
+* HS:n lähde laskee, miten tämä vaikuttaa hoitojonoihin: tekemättä jää nelisenkymmentä leikkausta viikossa. Siis pelkästään näissä seitsemässä leikkaussalissa.
+*  ”Husissa henkilöstöpulaa pyritään ratkaisemaan työviihtyvyyttä parantamalla, uusien työntekijöiden perehdytystä kehittämällä ja tehostamalla rekrytointia.”
+
+31.10.2022 [Sairaanhoitaja Kimmo Repo näkee työssään hoitajapulan seuraukset: ”Pyristellään pärjäämään sillä henkilökunnalla, mikä meillä on”](https://yle.fi/uutiset/74-20002747)
+* Hoitojonot kasvavat samaan aikaan, kun leikkaussaleja jää avaamatta.
+* Leikkausjonot ovat pidentyneet lyhyessä ajassa. Kirurgista toimenpidettä odottavia ihmisiä oli THL:n elokuun lopun tilaston mukaan noin 63 000. Vuotta aiemmin heitä oli kymmenen tuhatta vähemmän. Vuonna 2019 kirurgista toimenpidettä odottavia oli 48 000.
+* Koko maassa odottajista neljäsosa on ollut jonossa yli lain salliman kuusi kuukautta
+* HUSin sairaaloissa on yhteensä 155 leikkaussalia. Tänä syksynä niistä on saatu avattua keskimäärin vain 80 prosenttia.

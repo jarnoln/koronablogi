@@ -332,3 +332,46 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 27.10.2022 [Suomessa saattaa olla jo yli 100 000 pitkäkestoiseen koronaan sairastunutta, tässä ovat yleisimmät oireet](https://www.aamulehti.fi/koronavirus/art-2000009139124.html)
 * Maailman terveysjärjestö WHO arvioi, että sars-CoV-2-viruksen aiheuttamaan covid-19-tautiin sairastuneista 10–20 prosenttia saa pitkäkestoisia oireita.
+
+1.11.2022 [THL: Koronarokotusten ja sairastetun taudin tuottama suoja vakavaa koronaa vastaan on erinomainen pitkään, myös pelkät rokotukset suojaavat hyvin](https://thl.fi/fi/-/koronarokotusten-ja-sairastetun-taudin-tuottama-suoja-vakavaa-koronaa-vastaa-on-erinomainen-pitkaan-myos-pelkat-rokotukset-suojaavat-hyvin)
+
+1.11.2022 [Kodeissa ja sairaalassa tehty tutkimus osoittaa: ilmahygieniasta huolehtiminen kannattaa koronatartuntojen ehkäisemiseksi](https://www.hus.fi/ajankohtaista/kodeissa-ja-sairaalassa-tehty-tutkimus-osoittaa-ilmahygieniasta-huolehtiminen)
+
+3.11.2022 [Terveydenhuollon ammattilaisilta hurja epäilys: Haluaako THL sairastuttaa suomalaiset koronaan?](https://www.is.fi/kotimaa/art-2000009176414.html)[(twiitti)[(https://twitter.com/iltasanomat/status/1588130653589147648)]
+* Suomi on tällä hetkellä ainoa EU-maa, joka ei rokota sote-henkilöstöä tehosteannoksin eli neljännellä rokotteella.
+* Toisekseen missään muualla maailmassa sairastettua infektiota ei lasketa yhdeksi tehosterokoteannokseksi.
+* Erityistä pohdintaa aiheuttaa se, että samat henkilöt sekä antavat rokotussuosituksia että tekevät hybridi-immuniteettitutkimusta. Esiin on noussut mm. ylilääkäri Hanna Nohynekin nimi.
+* Huoli on, että tutkimus ajaa kansanterveyden edelle, vaikka kansanterveyden ylläpito on THL:n oleellinen viranomaistehtävä.
+* Tervahauta kuitenkin ilmoitti viestintäosaston välityksellä, että THL ei kommentoi asiaa tässä vaiheessa.
+* Ihmetystä herättää myös se, että suuret asiantuntijaorganisaatiot maailmanlaajuisesti – Maailman terveysjärjestö WHO, Euroopan tartuntatautivirasto ECDC ja Euroopan lääkevirasto Ema – sekä isot kansalliset terveysviranomaiset USA:ssa (CDC) ja Britanniassa (NHS) ovat suositelleet sote-henkilöstön tehosterokotuksia.
+* Esimerkiksi Yhdysvalloissa ja Kanadassa neljättä rokoteannosta tarjotaan jo kaikille yli 12-vuotiaille.
+* Toisekseen missään muualla maailmassa sairastettua infektiota ei lasketa yhdeksi tehosterokoteannokseksi.
+* – Onko maailmalla vähemmän asiantuntemusta kuin Suomessa, kun täällä ei toimita kansainvälisen asiantuntijatiedon pohjalta? infektioasiantuntija kysyy.
+* Juttua muokattu klo 14.51: Korjattu jutussa oleva kartta. Ruotsin terveysviranomainen on 5.10. päättänyt, että kaikilla 18–64-vuotiailla on halutessaan mahdollisuus saada tehosterokote. Tämän perusteella Suomi on ainoa EU-maa, jossa sote-henkilöstön tai alle 60-vuotiaan väestön ei ole mahdollista saada neljättä rokoteannosta.
+* 3.11.2022 Kiuru: [Olen pyytänyt Thl:ltä selvityksen koskien tätä uutista.](https://twitter.com/KristaKiuru/status/1588188202090782720)
+* [Kiuru pyytänyt THL:lta selvityksen korona­rokotuksia koskevasta IS:n uutisesta](https://www.is.fi/politiikka/art-2000009179037.html)
+
+4.11.2022 [THL tyrmää väitteet, että sen tekemä koronatutkimus rajoittaisi rokottamista, Tervahauta: Salaliittoteorian omaista](https://yle.fi/uutiset/3-12672836)
+
+4.11.2022 [Suomessa todettu jo 20 000 long covid -tapausta – asiantuntija: "Myöhässä olemme"](https://www.mtvuutiset.fi/artikkeli/asiantuntija-pitkakestoisen-koronan-diagnosoinnissa-ollaaan-suomessa-jaljessa/8563028)
+* Long covidin eli pitkäkestoisen koronan vaikutus kansanterveyteen on osoittautunut suuremmaksi kuin vielä vuosi sitten ajateltiin, arvioi neurologian professori Risto O. Roine. 
+* Sosiaali- ja terveysministeriön (STM) long covid -asiantuntijaryhmän puheenjohtajana toimivan Roineen mukaan Suomi on long covidin diagnosoinnissa, hoidossa ja potilaiden kuntoutuksessa jäljessä moniin muihin maihin verrattuna.
+* WHO:n taudinmääritelmässä ei Roineen mukaan kuitenkaan oteta sitä huomioon, että koronavirustartunta itsessään vahingoittaa useita elimiä, mikä vaikuttaa ihmisen terveyteen. Lisäksi tartunta lisää muiden sairauksien esiintyvyyttä.
+
+7.11.2022 [Kommentti: THL, nyt sala­liitto­höpinät sikseen ja perusteellisia vastauksia esiin](https://www.is.fi/kotimaa/art-2000009183393.html)
+* Suomessa ei saa tehosteannosta edes halutessaan, täällä kuollaan koronaan enemmän kuin muualla maailmassa ja samat henkilöt sekä antavat rokotussuosituksia että tekevät hybridi-immuniteettitutkimusta.
+* THL lähti vastauksessaan täysin sivuraiteelle kertomalla, ettei kenelläkään rokotehankintojen, -tutkimuksen tai -suositusten vastuuhenkilöistä ole rokotteita valmistavien tahojen kanssa kaupallista yhteistyötä tai sidonnaisuuksia niihin.
+
+7.11.2022 [What If COVID Reinfections Wear Down Our Immunity?](https://thetyee.ca/Analysis/2022/11/07/COVID-Reinfections-And-Immunity/)
+
+
+9.11.2022 [Universal Masking in School Works. New Data Shows How Well](https://time.com/6231516/universal-masking-in-school-works-new-data-shows-how-well/)
+* Approximately 12,000 cases, or 30% of all cases during the study period, were attributable to rescinding the mask requirement. The resulting illnesses led to substantial loss of in-person school days— an estimated minimum of 17,500 days of school absence in students and 6,500 days of staff absence—arguing for masks as a critical component of optimizing learning.
+* Right now, pediatric practices and hospitals are overrun with COVID-19, RSV, flu, and many other respiratory viruses, and the winter and holiday season (when things typically get much worse) is just around the corner.
+* Student and staff absenteeism are on the rise early in this school year, the fourth academic year impacted by COVID, but the first one with no protective measures employed on a consistent basis.
+
+
+12.11.2022 [Korona leviää edelleen vanhusten osastoilla: "Jostain se pääsisi livahtamaan, vaikka he olisivat lukkojen takana", sanoo johtajalääkäri](https://yle.fi/a/3-12673129)
+* HUSin diagnostiikkajohtaja, terveysoikeuden professori Lasse Lehtonen on säännöllisesti nostanut esiin koronaan liitettyjen kuolemien määrää Suomessa. – Muut maat ovat oppineet torjumaan koronaa, Suomi taas ei, hän sanoo
+* – Valitettavasti tiedossani on keissejä, joissa ihminen on ollut HUSissa hoidossa lonkkamurtuman tai sydänasian takia, mennyt terveyskeskussairaalaan jatkohoitoon, saanut siellä koronan ja kuollut, Lehtonen sanoo.
+* – Käytämme merkittävästi resursseja vanhojen ihmisten muiden sairauksien hoitoon, mutta sitten koronaan sairastuminen ja kuoleminen vie hoitotuloksen ja syö sen kaiken hyvän, mitä on saatu aikaiseksi.

@@ -18,7 +18,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * [Lisää sydänsairauksien riskiä vähintään vuoden ajaksi](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
 * Lisää riskiä sairastua [diabetekseen](https://www.eurekalert.org/news-releases/965465)
 * Saattaa [vaurioittaa hampaita ja aiheuttaa hampaiden irtoamista](https://tekniikanmaailma.fi/new-york-times-koronatauti-saa-joiltakin-hampaat-putoamaan-suusta-ja-laakarit-ovat-hamillaan/)
-* [Vaurioittaa hermostoa ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykiatrisille psykooseille] ja [Alzheimerin taudille](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
+* [Vaurioittaa hermostoa ja aivoja, heikentää kognitiivisia kykyjä ja altistaa dementialle, psykiatrisille psykooseille](https://www.politico.eu/article/covid-impair-brain-function-dementia-psychosis-anxiety-depression-large-study/) ja [Alzheimerin taudille](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
 #### Tutkimuksia:
 
@@ -108,6 +108,10 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 8.8.2022 [Hollantilaistutkimus: Joka kahdeksas koronatautiin sairastunut kärsii pitkästä koronasta – Laaja tutkimus selvitti yleisimmät oireet](https://tekniikanmaailma.fi/hollantilaistutkimus-joka-kahdeksas-koronatautiin-sairastunut-karsii-pitkasta-koronasta-laaja-tutkimus-selvitti-yleisimmat-oireet/)
 
+9.8.2022 [Loss Of Smell Linked To Long Term Covid Cognitive Impairment](https://www.forbes.com/sites/williamhaseltine/2022/08/09/loss-of-smell-linked-to-long-term-covid-cognitive-impairment/)
+* In this study, the degree of anosmia—rather than the severity of Covid-19—significantly predicted cognitive impairment.
+* This is of particular importance to this study group, as cognitive impairment and loss of smell can be persistent for those over 60 years of age.
+
 11.8.2022 [Morphological, cellular, and molecular basis of brain infection in COVID-19 patients](https://www.pnas.org/doi/full/10.1073/pnas.2200960119)
 
 18.8.2022 [COVID can impair brain function, large study suggests](https://www.politico.eu/article/covid-impair-brain-function-dementia-psychosis-anxiety-depression-large-study/)
@@ -144,7 +148,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 29.9.2022 [Unlike flu, COVID-19 attacks DNA in the heart: new research](https://www.brisbanetimes.com.au/national/queensland/unlike-flu-covid-19-attacks-dna-in-the-heart-new-research-20220929-p5bm10.html)
 * Direct research on the hearts of COVID-19 patients who have died from the disease has revealed they sustained DNA damage in a way completely unlike how influenza affects the body.
 
-6.10.2022 [The neurobiology of long COVID](cell.com/neuron/fulltext/S0896-6273(22)00910-2)
+6.10.2022 [The neurobiology of long COVID](https://cell.com/neuron/fulltext/S0896-6273(22)00910-2)
 
 6.10.2022 [Strokes, heart attacks, sudden deaths: Does America understand the long-term risks of catching COVID?](https://fortune.com/2022/10/06/strokes-heart-attacks-sudden-death-america-long-term-risks-catching-covid-carolyn-barber/)
 * Researchers believe that COVID-19 infection induces a prothrombotic and proinflammatory state, which may increase the risk of blood clots. In a cohort study of 48 million adults in England and Wales just published, COVID-19 was linked with dramatic increases in both arterial clots (these cause strokes and heart attacks) and venous thromboembolism (these are blood clots in the lungs and legs, among other places). 
@@ -167,3 +171,22 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Puumalainen sanoo, että tämän hetken tiedon mukaan noin joka kahdeksas koronapotilas kärsii pidempiaikaisista oireista.
 
 28.10.2022 [Koronatartunta voi tuhota aivosolujen välisiä yhteyksiä](https://www.verkkouutiset.fi/a/koronatartunta-voi-tuhota-aivosolujen-valisia-yhteyksia/)
+
+15.11.2022 [You May Be Early, but You're Not Wrong: A Covid Reading List](https://jessicawildfire.substack.com/p/you-may-be-early-but-youre-not-wrong)
+* List of research links and summaries. Some key points:
+  * Anyone can get Long Covid.
+  * Vaccines help, but not as much as everyone thinks
+  * Covid can kill healthy young people. It’s giving them heart attacks.
+  * Covid attacks your immune system. You don’t develop immunity. You lose it.
+  * Covid kills T Cells. It makes you more vulnerable to other diseases.
+  * Covid can reactivate old viral infections
+  * Children aren’t safe from Covid
+  * Masks work
+
+30.11.2022 [Long Covid may be ‘the next public health disaster’ — with a $3.7 trillion economic impact rivaling the Great Recession](https://www.cnbc.com/2022/11/30/why-long-covid-could-be-the-next-public-health-disaster.html)
+* All told, long Covid is a $3.7 trillion drag on the U.S. economy — about 17% of our nation’s pre-pandemic economic output, said David Cutler, an economist at Harvard University. The aggregate cost rivals that of the Great Recession, Cutler wrote in a July report.
+* Higher medical spending accounts for $528 billion of the total. But lost earnings and reduced quality of life are other sinister trickle-down effects, which respectively cost Americans $997 billion and $2.2 trillion.
+* “Long Covid will be around long after the pandemic subsides, impacting our communities, our health care system, our economy and the well-being of future generations,” the HHS report said.
+
+30.11.2022 [Taloustieteen professori Antti Ripatti: Pitkittyneen koronan kustannukset nousevat miljardeihin euroihin](https://www.mediuutiset.fi/uutiset/mu/9919a3ea-2cac-4438-99d9-566c90b5cf3e)
+

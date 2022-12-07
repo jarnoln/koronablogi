@@ -375,3 +375,30 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 * HUSin diagnostiikkajohtaja, terveysoikeuden professori Lasse Lehtonen on säännöllisesti nostanut esiin koronaan liitettyjen kuolemien määrää Suomessa. – Muut maat ovat oppineet torjumaan koronaa, Suomi taas ei, hän sanoo
 * – Valitettavasti tiedossani on keissejä, joissa ihminen on ollut HUSissa hoidossa lonkkamurtuman tai sydänasian takia, mennyt terveyskeskussairaalaan jatkohoitoon, saanut siellä koronan ja kuollut, Lehtonen sanoo.
 * – Käytämme merkittävästi resursseja vanhojen ihmisten muiden sairauksien hoitoon, mutta sitten koronaan sairastuminen ja kuoleminen vie hoitotuloksen ja syö sen kaiken hyvän, mitä on saatu aikaiseksi.
+
+15.11.2022 [Keväällä 2021 teholle joutunut Eija kertoo, millaista on elämä pitkittyneiden koronaoireiden kanssa – "Viime keväänä en aina muistanut, minne olin menossa"](https://www.mtvuutiset.fi/artikkeli/millaista-on-elama-koronan-pitkittyneiden-oireiden-kanssa-kevaalla-2021-teho-osastolle-joutunut-eija-kertoo-taudistaan/8570630)
+* Pitkittyneistä koronan oireista kärsii ainakin 20 000 suomalaista.
+
+23.11.2022 Terho Koulumies tekee kirjallisen kysymyksen koronakuolemista
+
+27.11.2022 [THL:n Mika Salminen: Tilastot antavat väärän kuvan korona­kuolleisuudesta](https://www.is.fi/politiikka/art-2000009229475.html)
+* THL:n hyvinvointivaikuttajat-osaston johtaja Mika Salminen sanoo IS:lle, että tilastot antavat virheellisen kuvan Suomen koronakuolleisuudesta.
+* – Se on kaikki harhaa. Siellä on puolet ihan muuta kuolemaa, systeemi ei vain pysty tuottamaan todellisia koronakuolleisuuslukuja, Salminen kommentoi asiaa Kuopiossa keskustan puoluevaltuuston kokouksessa.
+* Salminen kätteli keskustan kokouksessa ihmisiä eikä käyttänyt maskia. Salminen ei näe kättelyssä ongelmaa.
+* [Tuuli Lappalaisen kommentit](https://twitter.com/tuuliel/status/1597242598124814340)
+
+27.11.2022 [Lasse Lehtoselta täystyrmäys Mika Salmisen puheille: ”Suomessa on ollut tänä vuonna merkittävää yli­kuolleisuutta, ja toden­näköisin syy sille on korona”](https://www.is.fi/kotimaa/art-2000009229995.html)
+* – Suomi meni koronakuolemissa hyvin samaa tahtia Norjan kanssa tämän vuoden alkuun saakka, mutta sen jälkeen Suomessa on ollut koronakuolemia moninkertaisesti.
+* WHO:n tilastoista käy ilmi, että Suomessa tilastoitiin koronakuolemia syys-lokakuussa vajaa sadasta vähän yli kahteensataan tapaukseen viikossa. Tanskassa koronakuolemia taas on tilastoitu syksyn aikana tasaisesti alle 100 viikoittain. Norjassa viikkokohtainen luku on ollut syys-lokakuussa alle 50 tapausta.
+* – Tosiasia on, että Suomessa ylikuolleisuus on noussut juuri suurin piirtein saman verran kuin koronakuolleisuus on lisääntynyt. 
+* – Valitettavasti voidaan ihan varmasti todeta, että Suomessa on ollut tänä vuonna merkittävää ylikuolleisuutta, ja todennäköisin syy sille on korona.
+* – Ongelma on, että koronatestausta on vähennetty Suomessa niin paljon, että meillä ei ole enää mitään käsitystä siitä, mikä on kuolemien osuus koronatartunnan saaneista, hän sanoo.
+
+29.11.2022 [Moniko suomalainen on kuollut todellisuudessa koronaan? Asiantuntijat erimielisiä](https://www.is.fi/kotimaa/art-2000009230764.html)[twiitti](https://twitter.com/iltasanomat/status/1597440445948174336)
+* Mika Salminen sanoi IS:n jutussa sunnuntaina, että jopa kaksi kolmasosaa kuolemista voi olla jotain muuta kuin koronasta johtuvia. Salminen ei avannut, mihin tämä arvio perustuu. Salminen ohjasi IS:n haastattelupyynnön maanantaina THL:n terveysturvaajat-osaston nykyiselle johtajalle Otto Helveelle. IS ei tavoittanut maanantaina Helveä.
+* Oli miten oli, Suomen viralliset koronakuolemat ovat olleet syksystä alkaen isommat kuin verrokkimaissa.
+* Otetaan esimerkiksi Tanska, jossa koronakuolemien tilastointitapa on maan terveysviranomaisen mukaan sama kuin Suomessa. Tanskassa on kuoltu tänä syksynä koronaan WHO:n tilastojen mukaan selvästi vähemmän kuin Suomessa. Esimerkiksi 24. lokakuuta Tanska ilmoitti 74 koronaan kuolleesta viikossa. Suomessa vastaava luku oli 152.
+* – Valitettavasti voidaan ihan varmasti todeta, että Suomessa on ollut tänä vuonna merkittävää ylikuolleisuutta, ja todennäköisin syy sille on korona, Lehtonen kuitenkin totesi.
+* THL:n tutkimusprofessori Mika Gessler kertoo sunnuntaina Turun Sanomissa julkaistussa jutussa, että koko pandemian ajan trendi on ollut tietynlainen: mitä enemmän koronaa on ollut väestössä, sitä enemmän tilastoissa on näkynyt kuolemia. 
+
+30.11.2022  [Taloustieteen professori Antti Ripatti: Pitkittyneen koronan kustannukset nousevat miljardeihin euroihin](https://www.mediuutiset.fi/uutiset/mu/9919a3ea-2cac-4438-99d9-566c90b5cf3e)

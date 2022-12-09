@@ -8,7 +8,7 @@ Koronan pitkäaikaisvaikutukset
 
 Vaikka koronaan kuolleita on valtava määrä ja akuutti infektio vaatii monilla sairaalahoitoa ja joillain myös tehohoitoa, saattaa suurin koronan aiheuttama vahinko yhteiskunnille ja kansanterveydelle liittyä sen lukuisiin pitkäaikaisvaikutuksiin, jotka saataavat ilmetä vasta kuukausia infektion jälkeen ja jotka saattavat myös kestää kuukausia tai mahdollisesti koko loppuelämämän. Ne saattavat aiheuttaa myös kuoleman, jota ei kuitenkaan tilastoida koronasta johtuvaksi, koska silloin saatta infektiosta olla jo kuukausia.
 
-Tutkimusten mukaan n. 13% tartunnan saaneista (Suomessa arviolta [joka kahdeksas](https://www.is.fi/kotimaa/art-2000009162542.html) saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
+Tutkimusten mukaan n. 13% tartunnan saaneista (Suomessa arviolta [joka kahdeksas](https://www.is.fi/kotimaa/art-2000009162542.html)) saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
 
 Uusintatartunnat kasvattavat huomattavasti sekä kuoleman että pitkäaikaisoireiden riskiä.
 
@@ -190,3 +190,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 30.11.2022 [Taloustieteen professori Antti Ripatti: Pitkittyneen koronan kustannukset nousevat miljardeihin euroihin](https://www.mediuutiset.fi/uutiset/mu/9919a3ea-2cac-4438-99d9-566c90b5cf3e)
 
+3.12.2022 [The Tragedy of Avoidable Covid Deaths](https://www.bloomberg.com/opinion/articles/2022-12-03/low-us-covid-vaccine-rates-led-to-high-death-rates-during-delta-omicron)
+* That study tracked the period after June 2021, when vaccines were widely available in these countries. The US had the most excess deaths, at 145.5 excess deaths per 100,000 people. The next-worst country was Finland with 82.2. The best two were Sweden, with 32.4, and New Zealand, with only 5.1 excess deaths per 100,000.
+
+08.12.2022 [Korona voi heikentää suojaa muita tauteja vastaan](https://www.verkkouutiset.fi/a/korona-voi-heikentaa-suojaa-muita-tauteja-vastaan/#33ce4a4e)
+* Immuunijärjestelmä on infektion jälkeen heikentyneessä tilassa 3–6 kuukautta. 

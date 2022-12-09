@@ -335,9 +335,9 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 1.11.2022 [THL: Koronarokotusten ja sairastetun taudin tuottama suoja vakavaa koronaa vastaan on erinomainen pitkään, myös pelkät rokotukset suojaavat hyvin](https://thl.fi/fi/-/koronarokotusten-ja-sairastetun-taudin-tuottama-suoja-vakavaa-koronaa-vastaa-on-erinomainen-pitkaan-myos-pelkat-rokotukset-suojaavat-hyvin)
 
-1.11.2022 [Kodeissa ja sairaalassa tehty tutkimus osoittaa: ilmahygieniasta huolehtiminen kannattaa koronatartuntojen ehkäisemiseksi](https://www.hus.fi/ajankohtaista/kodeissa-ja-sairaalassa-tehty-tutkimus-osoittaa-ilmahygieniasta-huolehtiminen)
+01.11.2022 [Kodeissa ja sairaalassa tehty tutkimus osoittaa: ilmahygieniasta huolehtiminen kannattaa koronatartuntojen ehkäisemiseksi](https://www.hus.fi/ajankohtaista/kodeissa-ja-sairaalassa-tehty-tutkimus-osoittaa-ilmahygieniasta-huolehtiminen)
 
-3.11.2022 [Terveydenhuollon ammattilaisilta hurja epäilys: Haluaako THL sairastuttaa suomalaiset koronaan?](https://www.is.fi/kotimaa/art-2000009176414.html)[(twiitti)[(https://twitter.com/iltasanomat/status/1588130653589147648)]
+03.11.2022 [Terveydenhuollon ammattilaisilta hurja epäilys: Haluaako THL sairastuttaa suomalaiset koronaan?](https://www.is.fi/kotimaa/art-2000009176414.html)[(twiitti)[(https://twitter.com/iltasanomat/status/1588130653589147648)]
 * Suomi on tällä hetkellä ainoa EU-maa, joka ei rokota sote-henkilöstöä tehosteannoksin eli neljännellä rokotteella.
 * Toisekseen missään muualla maailmassa sairastettua infektiota ei lasketa yhdeksi tehosterokoteannokseksi.
 * Erityistä pohdintaa aiheuttaa se, että samat henkilöt sekä antavat rokotussuosituksia että tekevät hybridi-immuniteettitutkimusta. Esiin on noussut mm. ylilääkäri Hanna Nohynekin nimi.
@@ -351,21 +351,21 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 * 3.11.2022 Kiuru: [Olen pyytänyt Thl:ltä selvityksen koskien tätä uutista.](https://twitter.com/KristaKiuru/status/1588188202090782720)
 * [Kiuru pyytänyt THL:lta selvityksen korona­rokotuksia koskevasta IS:n uutisesta](https://www.is.fi/politiikka/art-2000009179037.html)
 
-4.11.2022 [THL tyrmää väitteet, että sen tekemä koronatutkimus rajoittaisi rokottamista, Tervahauta: Salaliittoteorian omaista](https://yle.fi/uutiset/3-12672836)
+04.11.2022 [THL tyrmää väitteet, että sen tekemä koronatutkimus rajoittaisi rokottamista, Tervahauta: Salaliittoteorian omaista](https://yle.fi/uutiset/3-12672836)
 
-4.11.2022 [Suomessa todettu jo 20 000 long covid -tapausta – asiantuntija: "Myöhässä olemme"](https://www.mtvuutiset.fi/artikkeli/asiantuntija-pitkakestoisen-koronan-diagnosoinnissa-ollaaan-suomessa-jaljessa/8563028)
+04.11.2022 [Suomessa todettu jo 20 000 long covid -tapausta – asiantuntija: "Myöhässä olemme"](https://www.mtvuutiset.fi/artikkeli/asiantuntija-pitkakestoisen-koronan-diagnosoinnissa-ollaaan-suomessa-jaljessa/8563028)
 * Long covidin eli pitkäkestoisen koronan vaikutus kansanterveyteen on osoittautunut suuremmaksi kuin vielä vuosi sitten ajateltiin, arvioi neurologian professori Risto O. Roine. 
 * Sosiaali- ja terveysministeriön (STM) long covid -asiantuntijaryhmän puheenjohtajana toimivan Roineen mukaan Suomi on long covidin diagnosoinnissa, hoidossa ja potilaiden kuntoutuksessa jäljessä moniin muihin maihin verrattuna.
 * WHO:n taudinmääritelmässä ei Roineen mukaan kuitenkaan oteta sitä huomioon, että koronavirustartunta itsessään vahingoittaa useita elimiä, mikä vaikuttaa ihmisen terveyteen. Lisäksi tartunta lisää muiden sairauksien esiintyvyyttä.
 
-7.11.2022 [Kommentti: THL, nyt sala­liitto­höpinät sikseen ja perusteellisia vastauksia esiin](https://www.is.fi/kotimaa/art-2000009183393.html)
+07.11.2022 [Kommentti: THL, nyt sala­liitto­höpinät sikseen ja perusteellisia vastauksia esiin](https://www.is.fi/kotimaa/art-2000009183393.html)
 * Suomessa ei saa tehosteannosta edes halutessaan, täällä kuollaan koronaan enemmän kuin muualla maailmassa ja samat henkilöt sekä antavat rokotussuosituksia että tekevät hybridi-immuniteettitutkimusta.
 * THL lähti vastauksessaan täysin sivuraiteelle kertomalla, ettei kenelläkään rokotehankintojen, -tutkimuksen tai -suositusten vastuuhenkilöistä ole rokotteita valmistavien tahojen kanssa kaupallista yhteistyötä tai sidonnaisuuksia niihin.
 
-7.11.2022 [What If COVID Reinfections Wear Down Our Immunity?](https://thetyee.ca/Analysis/2022/11/07/COVID-Reinfections-And-Immunity/)
+07.11.2022 [What If COVID Reinfections Wear Down Our Immunity?](https://thetyee.ca/Analysis/2022/11/07/COVID-Reinfections-And-Immunity/)
 
 
-9.11.2022 [Universal Masking in School Works. New Data Shows How Well](https://time.com/6231516/universal-masking-in-school-works-new-data-shows-how-well/)
+09.11.2022 [Universal Masking in School Works. New Data Shows How Well](https://time.com/6231516/universal-masking-in-school-works-new-data-shows-how-well/)
 * Approximately 12,000 cases, or 30% of all cases during the study period, were attributable to rescinding the mask requirement. The resulting illnesses led to substantial loss of in-person school days— an estimated minimum of 17,500 days of school absence in students and 6,500 days of staff absence—arguing for masks as a critical component of optimizing learning.
 * Right now, pediatric practices and hospitals are overrun with COVID-19, RSV, flu, and many other respiratory viruses, and the winter and holiday season (when things typically get much worse) is just around the corner.
 * Student and staff absenteeism are on the rise early in this school year, the fourth academic year impacted by COVID, but the first one with no protective measures employed on a consistent basis.
@@ -402,3 +402,18 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 * THL:n tutkimusprofessori Mika Gessler kertoo sunnuntaina Turun Sanomissa julkaistussa jutussa, että koko pandemian ajan trendi on ollut tietynlainen: mitä enemmän koronaa on ollut väestössä, sitä enemmän tilastoissa on näkynyt kuolemia. 
 
 30.11.2022  [Taloustieteen professori Antti Ripatti: Pitkittyneen koronan kustannukset nousevat miljardeihin euroihin](https://www.mediuutiset.fi/uutiset/mu/9919a3ea-2cac-4438-99d9-566c90b5cf3e)
+
+05.12.2022 [Pitkästä koronasta on turha mennä paniikkiin](https://www.hs.fi/paakirjoitukset/art-2000009239191.html)
+* Epävarmuus on suurta, mutta näyttää siltä, että pitkästä koronasta kärsiviä on Suomessa ainakin satoja ja luultavasti tuhansia, mutta tuskin kymmeniätuhansia, eikä missään tapauksessa satojatuhansia.
+
+05.12.2022 [Diagnoosi: Long covid](https://areena.yle.fi/1-50979215)
+
+07.12.2022 [Helsingin Sanomat lopettaa automaattisten koronagrafiikoiden julkaisemisen](https://twitter.com/EsaMakinen/status/1600494017699012613)
+
+08.12.2022 [Korona voi heikentää suojaa muita tauteja vastaan](https://www.verkkouutiset.fi/a/korona-voi-heikentaa-suojaa-muita-tauteja-vastaan/#33ce4a4e)
+* Immuunijärjestelmä on infektion jälkeen heikentyneessä tilassa 3–6 kuukautta. 
+
+09.12.2022 [Pitkäkestoinen koronavirustauti on merkittävä kansanterveysongelma](https://www.hs.fi/mielipide/art-2000009251065.html)
+
+09.12.2022 [HUSin diagnostiikkajohtaja Lasse Lehtonen asettuu kokoomuksen eduskuntavaaliehdokkaaksi](https://yle.fi/a/74-20007909)
+

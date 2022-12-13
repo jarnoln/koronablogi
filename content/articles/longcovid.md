@@ -126,6 +126,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 5.9.2022 [Long-term cardiac pathology in individuals with mild initial COVID-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
 
+14.9.2022 [Pitkittyneet hermosto-oireet joskus hankalia: Korona heikentää tutkitusti aivoterveyttä](https://www.aivoliitto.fi/aivoterveys/artikkelit/pitkittyneet-hermosto-oireet-joskus-hankalia-korona-heikentaa-tutkitusti-aivoterveytta/#a26a596a)
+
 18.9.2022 [COVID-19 increases risk of developing Alzheimer's by 50-80% in older adults](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
 
 18.9.2022 [I've had COVID and am constantly getting colds. Did COVID harm my immune system? Am I now at risk of other infectious diseases?](https://www.abc.net.au/news/2022-09-19/covid-constant-colds-immune-system-risk-infectious-diseases/101449778)

@@ -43,6 +43,8 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 
 4.8.2022 [Hoitajat karsivat tarkasti potilaita, jotka pääsevät ruuhkaantuneisiin päivystyksiin sisälle: ”Toivomme ihmisten ymmärtävän, että se ei ole ilkeilyä eikä kiusantekoa”](https://www.hs.fi/kotimaa/turku/art-2000008980868.html?share=68f3b784423a620ab7c3884db91e4154)
 
+4.8.2022 [Hoitaja paljastaa – näin kammottava on tilanne Husin päivystyksen hirmuruuhkissa: ”Toivon, etten itse sairastu”](https://www.iltalehti.fi/kotimaa/a/85c44448-bea2-4b29-815e-271f88ae1ffb?_ga=2.250712966.1033383693.1670855852-1977631061.1631184890)
+
 7.8.2022 [Päivystykset ovat tukossa koko Suomessa, selvisi Ylen kyselyssä – Joensuussa potilas odotti jopa 65 tuntia jatkohoitoa](https://yle.fi/uutiset/3-12566516)
 
 8.8.2022 [Työntekijät kertovat, mistä Husin katastrofaaliset ruuhkat johtuvat –”Ei ole vapaata sänkyä”](https://www.hs.fi/kaupunki/art-2000008990790.html?share=cfcf2666c8c4f9dad85312924ceeef03)
@@ -97,3 +99,13 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 28.11.2022 [Jo kokonainen osastollinen potilaita jumissa Jorvin päivystyksessä – jono jatkohoitoon jopa 70 tuntia](https://www.lansivayla.fi/paikalliset/5558747)
 * Päivystyksen sänkypaikat eivät tahdo enää riittää, eikä henkilökuntaakaan ole mitoitettu huolehtimaan useaksi vuorokaudeksi päivystykseen jäävistä potilaista.
 * Jorvin päivystys on ollut tänä syksynä muutamaan otteeseen niin ruuhkainen, että ambulanssit on jouduttu ohjaamaan Jorvin sijasta Meilahden päivystykseen. Viimeksi näin jouduttiin toimimaan viime viikolla, Vahanne kertoo.
+
+13.12.2022 [Ambulanssit eivät ole päässeet Jorvin sairaalan päivystykseen 10 päivään – toimialajohtajan mukaan HUS-alueen päivystykset ovat pysähtymässä](https://yle.fi/a/74-20008425) [twiitti](https://twitter.com/yleuutiset/status/1602633431195783173)
+* Castrén kutsuu päivystyksiä tällä hetkellä ”toivottomiksi paikoiksi”.
+* Tilanne on erityisen paha Jorvin sairaalassa Espoossa: Castrénin mukaan sen yhteispäivystykseen ei ole voitu kymmeneen päivään tuoda yhtäkään potilasta ambulanssilla, sillä päivystys on ollut liian täynnä.
+* Ensihoidossa on hänen mukaansa ollut pahimmillaan 16 kiireellistä potilasta odottamassa ambulanssia, jotta heidät voitaisiin kuljettaa hoitoon muille osastoille.
+* Luovutusajan pitäisi olla 15 minuuttia, mutta nyt se on ollut jopa puolitoista tuntia, Castrén sanoo.
+* Potilaat voivat joutua odottamaan Kela-kuljetusta neljästä kuuteen tuntia, jonka ajan he ovat niin sanotusti hyväkuntoisina meillä ja sen aikaa tarvitsevat potilaspaikan.
+* Kriisistä kertoo paljon, että päivystyksestä on jouduttu lähettämään kotiin potilaita, joista hoitajat tietävät jo ennalta, että he suurella todennäköisyydellä tulevat pian takaisin.
+* Castrénin mukaan hoitotarpeiden selvittäminen kestää noin neljästä viiteen tuntia, jonka jälkeen potilas vain odottaa. Pahimmillaan odotus on kestänyt 110 tuntia.
+* Kukaan ei tiedä, miten kriisi ratkaistaan

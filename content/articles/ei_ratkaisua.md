@@ -6,21 +6,28 @@ date: 2022-12-14
 Suomen terveydehoito on ollut [vaikeuksissa jo pitkään](/articles/sairaalakuormitus.html), mutta nyt tilanne on pahempi kuin koskaan. 
 13.12. HUS Akuutin toimialajohtaja Maaret Castrén kertoi, että [HUSin päivystykset ovat askeleen päässä täydellisestä pysähdyksestä](https://yle.fi/a/74-20008425).
 Seuraavana päivänä Tampereella Acutan vastuualuejohtaja, ylilääkäri Mikko Franssila sanoi, että [tilanne on varmaan pahin sairaalan historiassa](https://yle.fi/a/74-20008626).
-Castrén sano myös, että "päivystyksen johtavat henkilöt ovat todella epätoivoisia tällä hetkellä, kun mitään ratkaisua ei näytä kukaan keksivän".
+Castrén kertoo tilanteen olevan nyt [pahempi kuin koronakriisin huippuaikoina](https://www.iltalehti.fi/kotimaa/a/33ed4eff-12f0-4cfb-b6ad-bef2e59e1fca). Liikkeellä on nyt koronan lisäksi runsaasti myös muita tulehdustauteja, jotka kuormittavat sairaanhoitoa ja syövät myös henkilöstöä sairauspoissaolojen muodossa.
+
+Castrén sano myös, että päivystyksen johtavat henkilöt ovat todella epätoivoisia tällä hetkellä, kun mitään ratkaisua ei näytä kukaan keksivän. "Mehän ollaan kokoustettu vuositolkulla, mutta mitään järkeviä ratkaisuja ei ole esitetty. Toivotaan, että jos nyt kuitenkin vihdoin joku sen keksisi."
 
 Ihan oikeastiko kukaan johtajista ei keksi, miten tilannetta voisi helpottaa? Koska luulen, että aika moni muu kyllä keksisi useampiakin keinoja. Tässä alkajaisiksi pari helppoa:
 
 * Antakaa vähintään henkilökunnalle 4. rokoteannos [kuten muutkin EU-maat tekevät](https://www.is.fi/kotimaa/art-2000009176414.html). Se vähentäisi koronan aiheuttamia sairauspoissaoloja. Toki mieluiten niitä tulisi jakaa kaikille halukkaille, jolloin myös potilasmäärät vähenisivät.[^1]
 * Hankkikaa henkilökunnalle kunnolliset, vähintään FFP2-tasoiset hengityssuojaimet nykyisten kirurginmaskien sijaan. Suojelkaa edes heitä.
 * Huolehtikaa, että vähintään sairaaloissa ja terveyskeskuksissa kaikki käyttävät hengityssuojainta. Seinillä kyllä näkee ohjeita, että niitä pitäisi käyttää, mutta käytännössä harva näyttää niin tekevän.
-* Ajakaa yleisen maskisuosituksen palauttamista. Hengityssuojainten käyttö estää tutkitusti tehokkaasti koronan ja myös muiden hengitysteitse tarttuvien tautien leviämistä. Tämä vähentäisi potilasmääriä ja henkilökunnan sairastelua.
-* Jos nämä eivät riitä, ehkä voisi harkita myös ainakin isoimpien massatapahtumien lykkäämistä siihen saakka, että pahin kriisi on selätetty. Kansalaisten hengen ja terveyden turvaaminen sekä vielä jäljellä olevan henkilöstön jaksaminen lienee tässä tilanteessa kuitenkin hiemat tärkeämpää kuin oikeus pilettää isolla joukolla, jtaudit leviävät tehokkaasti.
+* Ajakaa yleisen maskisuosituksen palauttamista.
+[Hengityssuojainten käyttö estää tutkitusti koronan ja myös muiden hengitysteitse tarttuvien tautien leviämistä](https://www.sttinfo.fi/tiedote/kasvosuojukset-voivat-auttaa-ehkaisemaan-ilmavalitteisten-infektioiden-leviamista?publisherId=3747&releaseId=69959243).
+Tämä vähentäisi potilasmääriä ja henkilökunnan sairastelua.
+* Jos nämä eivät riitä, ehkä voisi harkita myös ainakin isoimpien massatapahtumien lykkäämistä siihen saakka, että pahin kriisi on selätetty. Kansalaisten hengen ja terveyden turvaaminen sekä vielä jäljellä olevan henkilöstön jaksaminen lienee tässä tilanteessa kuitenkin hieman tärkeämpää kuin oikeus pilettää isolla joukolla, jossa taudit leviävät tehokkaasti.
 
-Vaikea kuitenkin uskoa, etteivät nämä olisi tulleet johtajille mieleen. Lähinnä kyse taitaa olla siitä, että näiden toteuttaminen olisi vaikeaa. Ei niinkään käytännössä, vaan poliittisesti.
+Vaikea kuitenkin uskoa, etteivät nämä olisi tulleet johtajille mieleen. Lähinnä kyse taitaa olla siitä, että näiden toteuttaminen olisi vaikeaa. Ei tosin niinkään käytännössä, vaan poliittisesti.
 
 Vaikka kaikki muut EU-maat jakavat 4. rokotteita laajemmin, meillä THL päätyi jostain syystä vastakkaiselle kannalle ja on pysynyt siinä jääräpäisesti STM:n patistelusta huolimatta. Myös moni sairaanhoitopiiri on julkisesti tukenut THL:ää, joten kynnys kannan muuttamiseen on suuri. Varsinkin, kun sen myöntäminen tarkoittaisi sitä, että rokotteiden panttaaminen on yksi syy tilanteen kriisiytymiseen.
 
-Maskisuosituksen palauttamisessa on sama ongelma: vaikka tieteellinen konsensus onkin, että [maskit ovat tehokkaita ehkäisemään koronaa ja muita ilmavälitteisiä tauteja](https://www.sttinfo.fi/tiedote/), maskisuosituksen poistamisen yhteydessä [THL väitti päinvastaista](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371).
+Maskisuosituksen palauttamisessa on sama ongelma: vaikka tieteellinen konsensus onkin, että
+[maskit ovat tehokkaita ehkäisemään koronaa ja muita ilmavälitteisiä tauteja](https://www.sttinfo.fi/tiedote/kasvosuojukset-voivat-auttaa-ehkaisemaan-ilmavalitteisten-infektioiden-leviamista?publisherId=3747&releaseId=69959243),
+maskisuosituksen poistamisen yhteydessä
+[THL väitti päinvastaista](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371).
 Eräässä toisessa tutkimuksessa havaittiin, että [maskia käyttäneissä maissa koronakuolleisuus oli alle 20% siitä, mitä maskia käyttämättömissä maissa](https://tekniikanmaailma.fi/tutkimus-laajamittainen-maskien-kaytto-vahentaa-koronakuolemia-merkittavasti/).
 
 14.04.2022, jolloin maskisuositus poistui, koronaan oli noin 2 vuoden aikana kuollut 3500 suomalaista. Tänään 14.12.2022 kuolleita on yli 7500. Eli maskisuosituksen poistamisen jälkeen koronaan on kuollut noin 3000 suomalaista 8 kuukauden aikana. Jos maskien käyttöä olisi jatkettu, määrä olisi kenties vain 600. Maskisuosituksen palauttaminen tarkoittaisi sen myöntämistä, että sen poistaminen oli alunperinkin virhe, jonka seurauksena yli 2000 on menettänyt henkensä. Joku voisi jopa vaatia asiasta päättäneitä vastuuseen.

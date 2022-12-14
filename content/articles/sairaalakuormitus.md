@@ -109,6 +109,11 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Kriisistä kertoo paljon, että päivystyksestä on jouduttu lähettämään kotiin potilaita, joista hoitajat tietävät jo ennalta, että he suurella todennäköisyydellä tulevat pian takaisin.
 * Castrénin mukaan hoitotarpeiden selvittäminen kestää noin neljästä viiteen tuntia, jonka jälkeen potilas vain odottaa. Pahimmillaan odotus on kestänyt 110 tuntia.
 * Kukaan ei tiedä, miten kriisi ratkaistaan
+* Muut:
+  * Iltalehti: [Hus karmeassa kriisissä: Päivystykset täynnä, leikkauksia perutaan](https://www.iltalehti.fi/kotimaa/a/33ed4eff-12f0-4cfb-b6ad-bef2e59e1fca)
+  * [Castrén] kertoo tilanteen olevan nyt pahempi kuin koronakriisin huippuaikoina.
+  * Liikkeellä on nyt koronan lisäksi runsaasti myös muita tulehdustauteja, jotka kuormittavat sairaanhoitoa ja syövät myös henkilöstöä sairauspoissaolojen muodossa.
+  * – Mehän ollaan kokoustettu vuositolkulla, mutta mitään järkeviä ratkaisuja ei ole esitetty. Toivotaan, että jos nyt kuitenkin vihdoin joku sen keksisi.
 
 13.12.2022 Yle:[Töölön sairaalan leikkaukset peruttiin loppuviikoksi ja niitä perutaan vielä lisää – ”Olemme kuin suuronnettomuustilanteessa”, sanoo HUS-johtaja](https://yle.fi/a/74-20008549)
 * Sosiaali- ja terveysministeriöstä arvioidaan, että ongelma ei koske vain päivystyksiä vaan se ulottuu koko palvelujärjestelmään.

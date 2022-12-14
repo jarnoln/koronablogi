@@ -1,17 +1,16 @@
 {{ define "content" }}
 <section id="content">
-    <div style="margin:auto; border: 0px solid black; width: 350px;">
-        <h1>Kirjoituksia koronasta</h1>
+    <div style="margin:auto; border: 0px solid black; width: 500px;">
+        <h1 style="text-align: center;">Kirjoituksia koronasta</h1>
         <ul>
         {{ range where site.RegularPages "Type" "articles" }}
             <li>
                 <a href="{{ .Permalink }}">
-                    {{ .Title }}
+                    {{ .PublishDate.Format "2006-01-02" }} {{ .Title }}
                 </a>
             </li>
         {{ end }}
         </ul>
     </div>
 </section><!-- /#content -->
-
 {{ end }}

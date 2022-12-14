@@ -337,7 +337,7 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 01.11.2022 [Kodeissa ja sairaalassa tehty tutkimus osoittaa: ilmahygieniasta huolehtiminen kannattaa koronatartuntojen ehkäisemiseksi](https://www.hus.fi/ajankohtaista/kodeissa-ja-sairaalassa-tehty-tutkimus-osoittaa-ilmahygieniasta-huolehtiminen)
 
-03.11.2022 [Terveydenhuollon ammattilaisilta hurja epäilys: Haluaako THL sairastuttaa suomalaiset koronaan?](https://www.is.fi/kotimaa/art-2000009176414.html)[(twiitti)[(https://twitter.com/iltasanomat/status/1588130653589147648)]
+03.11.2022 [Terveydenhuollon ammattilaisilta hurja epäilys: Haluaako THL sairastuttaa suomalaiset koronaan?](https://www.is.fi/kotimaa/art-2000009176414.html) ([twiitti](https://twitter.com/iltasanomat/status/1588130653589147648))
 * Suomi on tällä hetkellä ainoa EU-maa, joka ei rokota sote-henkilöstöä tehosteannoksin eli neljännellä rokotteella.
 * Toisekseen missään muualla maailmassa sairastettua infektiota ei lasketa yhdeksi tehosterokoteannokseksi.
 * Erityistä pohdintaa aiheuttaa se, että samat henkilöt sekä antavat rokotussuosituksia että tekevät hybridi-immuniteettitutkimusta. Esiin on noussut mm. ylilääkäri Hanna Nohynekin nimi.

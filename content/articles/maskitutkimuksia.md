@@ -44,11 +44,14 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 5.6.2022 [Scientific evidence shows that mask-wearing is effective at limiting community transmission; claims that face masks increase mortality are based on flawed correlation studies](https://healthfeedback.org/claimreview/scientific-evidence-shows-mask-wearing-effective-at-limiting-community-transmission-claims-face-masks-increase-mortality-based-on-flawed-correlation-studies/?fbclid=IwAR1bkwuTnhiConyPO0gK415havKqqiTD4gqe36lXp9mMWCiqy602mndhu74)
 
 9.8.2022 [Kouluissa, joissa maskien käytöstä luovuttiin, todettiin huomattavasti enemmän koronatartuntoja kuin kouluissa, joissa maskien käyttöä jatkettiin](https://www.medrxiv.org/content/10.1101/2022.08.09.22278385v1)
-> "We estimate that lifting of school masking requirements was associated with an additional 44.9 (95% CI: 32.6, 57.1) COVID-19 cases per 1,000 students and staff over the 15 weeks since the lifting of the statewide school masking requirement, representing nearly 30% of all cases observed in schools during that time."
-
-> "Conclusions: Masking is a relatively low-cost but effective intervention that can protect students and staff from substantial illness and loss of in-person days in school."
+* "We estimate that lifting of school masking requirements was associated with an additional 44.9 (95% CI: 32.6, 57.1) COVID-19 cases per 1,000 students and staff over the 15 weeks since the lifting of the statewide school masking requirement, representing nearly 30% of all cases observed in schools during that time."
+* "Conclusions: Masking is a relatively low-cost but effective intervention that can protect students and staff from substantial illness and loss of in-person days in school."
 
 9.11.2022 [Universal Masking in School Works. New Data Shows How Well](https://time.com/6231516/universal-masking-in-school-works-new-data-shows-how-well/)
-> Approximately 12,000 cases, or 30% of all cases during the study period, were attributable to rescinding the mask requirement. The resulting illnesses led to substantial loss of in-person school days— an estimated minimum of 17,500 days of school absence in students and 6,500 days of staff absence—arguing for masks as a critical component of optimizing learning.
+* Approximately 12,000 cases, or 30% of all cases during the study period, were attributable to rescinding the mask requirement. The resulting illnesses led to substantial loss of in-person school days— an estimated minimum of 17,500 days of school absence in students and 6,500 days of staff absence—arguing for masks as a critical component of optimizing learning.
 
 2.12.2022 [Kasvosuojukset voivat auttaa ehkäisemään ilmavälitteisten infektioiden leviämistä](https://www.sttinfo.fi/tiedote/kasvosuojukset-voivat-auttaa-ehkaisemaan-ilmavalitteisten-infektioiden-leviamista?publisherId=3747&releaseId=69959243)
+* Kasvosuojusten vaikutuksesta ilmavälitteisten hengitystieinfektioiden ehkäisemisessä on valmistunut toistaiseksi laajin aiheesta tehty satunnaistettuja kokeita koskeva tutkimus.
+* Sen mukaan kasvosuojussuosituksesta yhdessä muiden suojatoimien kanssa on hyötyä niin koronavirus- kuin muiden hengitystieinfektioiden leviämisen ehkäisyssä väestössä.
+* Muut uutiset:
+  * HS:[Lähes 400 000 ihmisen tutkimus: Kasvomaskit voivat auttaa ehkäisemään ilma­välitteisten infektioiden leviämistä](https://www.hs.fi/tiede/art-2000009243109.html)

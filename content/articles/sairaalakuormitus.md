@@ -73,34 +73,34 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Espoossa Jorvin sairaalassa päivystys oli niin pahasti ruuhkautunut tiistaina, että ambulanssilla saapuvatkin joutuivat jonottamaan tai käännytetyksi muihin sairaaloihin.
 * ”Tämä on vielä onneksi Suomessa ollut pienimuotoista, mutta pitäisin tätä hätähuutona järjestelmän luhistumisesta”, Castrén sanoo.
 
-22.9.2022 [Leikkausompeleet pettivät, mutta potilas odotti leikkausta tunteja – Husin hoitajat kertovat jopa päivittäisistä vaaratilanteista](https://www.hs.fi/kaupunki/art-2000009075848.html)
+22.09.2022 [Leikkausompeleet pettivät, mutta potilas odotti leikkausta tunteja – Husin hoitajat kertovat jopa päivittäisistä vaaratilanteista](https://www.hs.fi/kaupunki/art-2000009075848.html)
 
-26.9.2022 [Kardiologian ylilääkärin Tuomas Rissasen mielipidekirjoitus: Erikoissairaanhoito on romahtamassa – tilanteen korjaaminen vaikeaa, muttei mahdotonta](https://www.karjalainen.fi/mielipide/kardiologian-ylil%C3%A4%C3%A4k%C3%A4rin-tuomas-rissasen-mielipidekirjoitus-erikoissairaanhoito-on-romahtamassa-tilanteen-korjaaminen-vaikeaa-muttei-mahdotonta)
+26.09.2022 [Kardiologian ylilääkärin Tuomas Rissasen mielipidekirjoitus: Erikoissairaanhoito on romahtamassa – tilanteen korjaaminen vaikeaa, muttei mahdotonta](https://www.karjalainen.fi/mielipide/kardiologian-ylil%C3%A4%C3%A4k%C3%A4rin-tuomas-rissasen-mielipidekirjoitus-erikoissairaanhoito-on-romahtamassa-tilanteen-korjaaminen-vaikeaa-muttei-mahdotonta)
 
-26.9.2022 [Toimiiko enää yhtään mikään?](https://www.hs.fi/kaupunki/art-2000009074025.html)
+26.09.2022 [Toimiiko enää yhtään mikään?](https://www.hs.fi/kaupunki/art-2000009074025.html)
 * Nyt sosiaali- ja terveyspalvelut ovat niin lähellä romahtamista, etten enää tiedä mihin luottaa.
 
-2.10.20222 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)
+02.10.2022 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)
 
-[Helsingin historian kalleinta sairaalaa ei saada täysin auki hoitaja­pulan vuoksi](https://www.hs.fi/kaupunki/art-2000009125264.html)
+15.10.2022 [Helsingin historian kalleinta sairaalaa ei saada täysin auki hoitaja­pulan vuoksi](https://www.hs.fi/kaupunki/art-2000009125264.html)
 * Töölön sairaalan ortopediassa on keväästä asti pidetty kaksi tai kolme salia viikoittain suljettuna. Sama pula uhkaa uutta Siltasairaalaa.
 * Yksi leikkaussaleista on ollut enimmäkseen kiinni vuodesta 2021. Kahden muun piti olla pois käytössä kesän ajan, mutta tilanne ei syksyllä helpottanutkaan.
 * HS:n lähde laskee, miten tämä vaikuttaa hoitojonoihin: tekemättä jää nelisenkymmentä leikkausta viikossa. Siis pelkästään näissä seitsemässä leikkaussalissa.
 *  ”Husissa henkilöstöpulaa pyritään ratkaisemaan työviihtyvyyttä parantamalla, uusien työntekijöiden perehdytystä kehittämällä ja tehostamalla rekrytointia.”
 
-11.10.2022 [Jorvin päivystys jälleen pahasti tukossa – ambulansseja on ohjattu Meilahteen](https://www.lansivayla.fi/paikalliset/5408871)
+11.10.2022 Länsiväylä:[Jorvin päivystys jälleen pahasti tukossa – ambulansseja on ohjattu Meilahteen](https://www.lansivayla.fi/paikalliset/5408871)
 
-31.10.2022 [Sairaanhoitaja Kimmo Repo näkee työssään hoitajapulan seuraukset: ”Pyristellään pärjäämään sillä henkilökunnalla, mikä meillä on”](https://yle.fi/uutiset/74-20002747)
+31.10.2022 Yle:[Sairaanhoitaja Kimmo Repo näkee työssään hoitajapulan seuraukset: ”Pyristellään pärjäämään sillä henkilökunnalla, mikä meillä on”](https://yle.fi/uutiset/74-20002747)
 * Hoitojonot kasvavat samaan aikaan, kun leikkaussaleja jää avaamatta.
 * Leikkausjonot ovat pidentyneet lyhyessä ajassa. Kirurgista toimenpidettä odottavia ihmisiä oli THL:n elokuun lopun tilaston mukaan noin 63 000. Vuotta aiemmin heitä oli kymmenen tuhatta vähemmän. Vuonna 2019 kirurgista toimenpidettä odottavia oli 48 000.
 * Koko maassa odottajista neljäsosa on ollut jonossa yli lain salliman kuusi kuukautta
 * HUSin sairaaloissa on yhteensä 155 leikkaussalia. Tänä syksynä niistä on saatu avattua keskimäärin vain 80 prosenttia.
 
-28.11.2022 [Jo kokonainen osastollinen potilaita jumissa Jorvin päivystyksessä – jono jatkohoitoon jopa 70 tuntia](https://www.lansivayla.fi/paikalliset/5558747)
+28.11.2022 Länsiväylä:[Jo kokonainen osastollinen potilaita jumissa Jorvin päivystyksessä – jono jatkohoitoon jopa 70 tuntia](https://www.lansivayla.fi/paikalliset/5558747)
 * Päivystyksen sänkypaikat eivät tahdo enää riittää, eikä henkilökuntaakaan ole mitoitettu huolehtimaan useaksi vuorokaudeksi päivystykseen jäävistä potilaista.
 * Jorvin päivystys on ollut tänä syksynä muutamaan otteeseen niin ruuhkainen, että ambulanssit on jouduttu ohjaamaan Jorvin sijasta Meilahden päivystykseen. Viimeksi näin jouduttiin toimimaan viime viikolla, Vahanne kertoo.
 
-13.12.2022 [Ambulanssit eivät ole päässeet Jorvin sairaalan päivystykseen 10 päivään – toimialajohtajan mukaan HUS-alueen päivystykset ovat pysähtymässä](https://yle.fi/a/74-20008425) [twiitti](https://twitter.com/yleuutiset/status/1602633431195783173)
+13.12.2022 Yle:[Ambulanssit eivät ole päässeet Jorvin sairaalan päivystykseen 10 päivään – toimialajohtajan mukaan HUS-alueen päivystykset ovat pysähtymässä](https://yle.fi/a/74-20008425) ([twiitti](https://twitter.com/yleuutiset/status/1602633431195783173))
 * Castrén kutsuu päivystyksiä tällä hetkellä ”toivottomiksi paikoiksi”.
 * Tilanne on erityisen paha Jorvin sairaalassa Espoossa: Castrénin mukaan sen yhteispäivystykseen ei ole voitu kymmeneen päivään tuoda yhtäkään potilasta ambulanssilla, sillä päivystys on ollut liian täynnä.
 * Ensihoidossa on hänen mukaansa ollut pahimmillaan 16 kiireellistä potilasta odottamassa ambulanssia, jotta heidät voitaisiin kuljettaa hoitoon muille osastoille.
@@ -109,3 +109,20 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Kriisistä kertoo paljon, että päivystyksestä on jouduttu lähettämään kotiin potilaita, joista hoitajat tietävät jo ennalta, että he suurella todennäköisyydellä tulevat pian takaisin.
 * Castrénin mukaan hoitotarpeiden selvittäminen kestää noin neljästä viiteen tuntia, jonka jälkeen potilas vain odottaa. Pahimmillaan odotus on kestänyt 110 tuntia.
 * Kukaan ei tiedä, miten kriisi ratkaistaan
+
+13.12.2022 Yle:[Töölön sairaalan leikkaukset peruttiin loppuviikoksi ja niitä perutaan vielä lisää – ”Olemme kuin suuronnettomuustilanteessa”, sanoo HUS-johtaja](https://yle.fi/a/74-20008549)
+* Sosiaali- ja terveysministeriöstä arvioidaan, että ongelma ei koske vain päivystyksiä vaan se ulottuu koko palvelujärjestelmään.
+* Valviran mukaan ruuhkat vaarantavat potilasturvallisuuden.
+* Päivystyspaikat ovat täynnä Jorvin, Peijaksen, Hyvinkään ja Töölön sairaaloissa.
+* Töölön sairaalan kiireettömät leikkaukset on peruttu loppuviikolta, ja leikkauksia tullaan perumaan lisää.
+* HUS:[HUSin yhteispäivystykset ovat pahoin ruuhkautuneet](https://www.hus.fi/ajankohtaista/husin-yhteispaivystykset-ovat-pahoin-ruuhkautuneet) ([twiitti](https://twitter.com/HUS_fi/status/1602678301771849728))
+
+14.12.2022 Yle:[Päivystyksessä oli hetken nolla sänkyä vapaana, toinen potilas odotti petiä ambulanssissa: ylilääkärin mukaan TAYSin tilanne pahempi kuin koskaan](https://yle.fi/a/74-20008626)
+* Hoitajapula sulkee Pirkanmaalla vuodeosastoja, mikä voi pahentaa päivystyksen tilannetta entisestään. 
+* Tiistaina Tampereen yliopistollisen sairaalan TAYSin päivystyksessä Acutassa oli hetken aikaa nolla sänkyä vapaana.
+* Yhtenä toisena päivänä yksi potilas joutui odottamaan ambulanssissa sisällä, että hänelle saatiin monitoripaikka.
+* Tilanne on varmaan pahin sairaalan historiassa. 
+* Muut uutiset aiheesta:
+  * TAYS: [Tays on ruuhkautunut jatkohoitoon jonottavista potilaista - kiireettömiä toimenpiteitä perutaan, kiireellinen hoito turvataan](https://www.tays.fi/fi-FI/Tays_on_ruuhkautunut_jatkohoitoon_jonott) ([twiitti](https://twitter.com/Tays_sairaala/status/1602954513832460294))
+  * Lääkärilehti: [Taysin päivystys Acutan tilanne on kriittinen](https://www.laakarilehti.fi/terveydenhuolto/taysin-paivystys-acutan-tilanne-on-kriittinen/)
+    * – Tilanne on kriittinen. Vaikeaa ruuhkaa on ollut kuukausia, ja syksy lokakuusta alkaen on ollut erittäin haastava. Kapasiteettimme on ollut äärirajoilla jatkuvasti, kertoo vastuualuejohtaja, ylilääkäri Mikko Franssila.

@@ -22,7 +22,7 @@ Tämä vähentäisi potilasmääriä ja henkilökunnan sairastelua.
 
 Vaikea kuitenkin uskoa, etteivät nämä olisi tulleet johtajille mieleen. Lähinnä kyse taitaa olla siitä, että näiden toteuttaminen olisi vaikeaa. Ei tosin niinkään käytännössä, vaan poliittisesti.
 
-Vaikka kaikki muut EU-maat jakavat 4. rokotteita laajemmin, meillä THL päätyi jostain syystä vastakkaiselle kannalle ja on pysynyt siinä jääräpäisesti STM:n patistelusta huolimatta. Myös moni sairaanhoitopiiri on julkisesti tukenut THL:ää, joten kynnys kannan muuttamiseen on suuri. Varsinkin, kun sen myöntäminen tarkoittaisi sitä, että rokotteiden panttaaminen on yksi syy tilanteen kriisiytymiseen.
+Vaikka kaikki muut EU-maat päättivät jakaa 4. rokotteita muillekin kuin riskiryhmille, meillä THL päätyi jostain syystä vastakkaiselle kannalle ja on pantannut rokotteita jääräpäisesti STM:n patistelusta huolimatta. Moni sairaanhoitopiiri on myös julkisesti tukenut THL:ää, joten kynnys kannan muuttamiseen on suuri. Varsinkin, kun kannan muuttaminen tarkoittaisi käytännössä myös myöntämistä, että rokotteiden panttaaminen on yksi syy tilanteen kriisiytymiseen.
 
 Maskisuosituksen palauttamisessa on sama ongelma: vaikka tieteellinen konsensus onkin, että
 [maskit ovat tehokkaita ehkäisemään koronaa ja muita ilmavälitteisiä tauteja](https://www.sttinfo.fi/tiedote/kasvosuojukset-voivat-auttaa-ehkaisemaan-ilmavalitteisten-infektioiden-leviamista?publisherId=3747&releaseId=69959243),

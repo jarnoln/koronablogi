@@ -8,7 +8,7 @@ Suomen terveydehoito on ollut [vaikeuksissa jo pitkään](/articles/sairaalakuor
 Seuraavana päivänä Tampereella Acutan vastuualuejohtaja, ylilääkäri Mikko Franssila sanoi, että [tilanne on varmaan pahin sairaalan historiassa](https://yle.fi/a/74-20008626).
 Castrén kertoo tilanteen olevan nyt [pahempi kuin koronakriisin huippuaikoina](https://www.iltalehti.fi/kotimaa/a/33ed4eff-12f0-4cfb-b6ad-bef2e59e1fca). Liikkeellä on nyt koronan lisäksi runsaasti myös muita tulehdustauteja, jotka kuormittavat sairaanhoitoa ja syövät myös henkilöstöä sairauspoissaolojen muodossa.
 
-Castrén sano myös, että päivystyksen johtavat henkilöt ovat todella epätoivoisia tällä hetkellä, kun mitään ratkaisua ei näytä kukaan keksivän. "Mehän ollaan kokoustettu vuositolkulla, mutta mitään järkeviä ratkaisuja ei ole esitetty. Toivotaan, että jos nyt kuitenkin vihdoin joku sen keksisi."
+Castrén sanoi myös, että päivystyksen johtavat henkilöt ovat todella epätoivoisia tällä hetkellä, kun mitään ratkaisua ei näytä kukaan keksivän. "Mehän ollaan kokoustettu vuositolkulla, mutta mitään järkeviä ratkaisuja ei ole esitetty. Toivotaan, että jos nyt kuitenkin vihdoin joku sen keksisi."
 
 Ihan oikeastiko kukaan johtajista ei keksi, miten tilannetta voisi helpottaa? Koska luulen, että aika moni muu kyllä keksisi useampiakin keinoja. Tässä alkajaisiksi pari helppoa:
 

@@ -394,7 +394,7 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 * – Valitettavasti voidaan ihan varmasti todeta, että Suomessa on ollut tänä vuonna merkittävää ylikuolleisuutta, ja todennäköisin syy sille on korona.
 * – Ongelma on, että koronatestausta on vähennetty Suomessa niin paljon, että meillä ei ole enää mitään käsitystä siitä, mikä on kuolemien osuus koronatartunnan saaneista, hän sanoo.
 
-29.11.2022 [Moniko suomalainen on kuollut todellisuudessa koronaan? Asiantuntijat erimielisiä](https://www.is.fi/kotimaa/art-2000009230764.html)[twiitti](https://twitter.com/iltasanomat/status/1597440445948174336)
+29.11.2022 [Moniko suomalainen on kuollut todellisuudessa koronaan? Asiantuntijat erimielisiä](https://www.is.fi/kotimaa/art-2000009230764.html) ([twiitti](https://twitter.com/iltasanomat/status/1597440445948174336))
 * Mika Salminen sanoi IS:n jutussa sunnuntaina, että jopa kaksi kolmasosaa kuolemista voi olla jotain muuta kuin koronasta johtuvia. Salminen ei avannut, mihin tämä arvio perustuu. Salminen ohjasi IS:n haastattelupyynnön maanantaina THL:n terveysturvaajat-osaston nykyiselle johtajalle Otto Helveelle. IS ei tavoittanut maanantaina Helveä.
 * Oli miten oli, Suomen viralliset koronakuolemat ovat olleet syksystä alkaen isommat kuin verrokkimaissa.
 * Otetaan esimerkiksi Tanska, jossa koronakuolemien tilastointitapa on maan terveysviranomaisen mukaan sama kuin Suomessa. Tanskassa on kuoltu tänä syksynä koronaan WHO:n tilastojen mukaan selvästi vähemmän kuin Suomessa. Esimerkiksi 24. lokakuuta Tanska ilmoitti 74 koronaan kuolleesta viikossa. Suomessa vastaava luku oli 152.

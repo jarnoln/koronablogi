@@ -317,6 +317,8 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 22.10.2022 [Kiurun paluu sytytti taas koronariidat](https://www.hs.fi/paakirjoitukset/art-2000009150304.html)
 
+24.10.2022 [Suomen koronakuolleisuus nelinkertainen EU:n keskiarvoon nähden](https://www.verkkouutiset.fi/a/suomen-koronakuolleisuus-nelinkertainen-eun-keskiarvoon-nahden/#0ddaa39f)
+
 25.10.2022 [A-studio: Koronapotilaiden määrä kasvaa taas](https://areena.yle.fi/1-50949303)
 * Eeva Ruotsalainen vs. Otto Helve
 

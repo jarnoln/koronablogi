@@ -3,7 +3,7 @@ title: Sairaalakuormitus
 date: 2022-09-04
 ---
 
-Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitteeksi olisi asetettu turvata kansalaisten henkeä ja terveyttä, päämääräksi otettiin terveydenhuollon kantokyvyn turvaaminen. Eli vaikka suomalaisia sairastuisi ja kuolisi kuinka monta, niin kunhan terveydenhuollon kantokyky ei vaarannu, voidaan toimia pitää onnistuneena. Ja niinhän niitä pidettiinkin, ainakin THL:n omasta mielestä. Sinänsä sekin on vaatinut jonkinmoista mentaaliakrobatiaa, koska sen lisäksi, että tuhansia suomalaisia on kuollut ja sairastunut, ei terveydenhuollonkaan tilanne vaikuta järin hyvältä:
+Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitteeksi olisi asetettu turvata kansalaisten henkeä ja terveyttä, päämääräksi otettiin terveydenhoidon kantokyvyn turvaaminen. Eli vaikka suomalaisia sairastuisi ja kuolisi kuinka monta, niin kunhan terveydenhuollon kantokyky ei vaarannu, voidaan toimia pitää onnistuneena. Ja niinhän niitä pidettiinkin, ainakin THL:n omasta mielestä. Sinänsä sekin on vaatinut jonkinmoista mentaaliakrobatiaa, koska sen lisäksi, että tuhansia suomalaisia on kuollut ja sairastunut, ei terveydenhuollonkaan tilanne vaikuta järin hyvältä:
 
 17.10.2021  [Nyt puhuu teho­hoito­lääkäri: ”Emme jaksa enää”](https://www.iltalehti.fi/koronavirus/a/35a746af-e1df-4212-8680-2a26e4636375)
 * Tehohoitolääkärin mukaan hoitohenkilökunta on aivan loppu.
@@ -81,6 +81,8 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Nyt sosiaali- ja terveyspalvelut ovat niin lähellä romahtamista, etten enää tiedä mihin luottaa.
 
 02.10.2022 [MTV Uutiset selvitti: Laittoman pitkiä potilasjonoja joka puolella Suomea](https://www.mtvuutiset.fi/artikkeli/mtv-n-selvitys-hoitotakuulakia-rikotaan-jatkuvasti-hoitoon-paasyssa-valtavia-eroja-sairaanhoitopiireissa/8527238#gs.ed1dex)
+* Esimerkiksi HUSissa liki kymmenen tuhatta potilasta odottaa parhaillaan hoidon arvioon tai tutkimukseen pidempään kuin laki sallii. Hoitotakuulakia rikotaan joka puolella Suomea.
+* "Tilanne on kyllä hankalin, mitä HUSin historiassa koskaan, toteaa Markku Mäkijärvi, HUS:n johtajaylilääkäri."
 
 15.10.2022 [Helsingin historian kalleinta sairaalaa ei saada täysin auki hoitaja­pulan vuoksi](https://www.hs.fi/kaupunki/art-2000009125264.html)
 * Töölön sairaalan ortopediassa on keväästä asti pidetty kaksi tai kolme salia viikoittain suljettuna. Sama pula uhkaa uutta Siltasairaalaa.
@@ -131,3 +133,23 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
   * TAYS: [Tays on ruuhkautunut jatkohoitoon jonottavista potilaista - kiireettömiä toimenpiteitä perutaan, kiireellinen hoito turvataan](https://www.tays.fi/fi-FI/Tays_on_ruuhkautunut_jatkohoitoon_jonott) ([twiitti](https://twitter.com/Tays_sairaala/status/1602954513832460294))
   * Lääkärilehti: [Taysin päivystys Acutan tilanne on kriittinen](https://www.laakarilehti.fi/terveydenhuolto/taysin-paivystys-acutan-tilanne-on-kriittinen/)
     * – Tilanne on kriittinen. Vaikeaa ruuhkaa on ollut kuukausia, ja syksy lokakuusta alkaen on ollut erittäin haastava. Kapasiteettimme on ollut äärirajoilla jatkuvasti, kertoo vastuualuejohtaja, ylilääkäri Mikko Franssila.
+
+14.12.2022 [Jorvin päivystys on käytännössä vuode­osasto](https://www.hs.fi/kaupunki/art-2000009265548.html)
+* Jorvin päivystys on muuttunut vuodeosastoksi, jossa hoitajat joutuvat kantamaan potilaille ruokia ja iltalääkkeitä.
+* Keskiviikkona pisimpään vuodepaikkajonossa ollut potilas oli odottanut jo 64 tuntia. 
+
+14.12.2022 [Selvitimme faktat: Päivystyksissä ympäri Suomen on jopa kaoottisen vaikeaa](https://yle.fi/a/74-20008682)
+
+15.12.2022 [HUSin päivystyksessä pahimmillaan 110 tunnin odotus, ongelma valtakunnallinen – "Perusterveydenhuollon vuodeosastopaikkojen purkaminen iso virhe"](https://www.mtvuutiset.fi/artikkeli/husin-paivystyksessa-pahimmillaan-110-tunnin-odotus-ongelma-valtakunnallinen-perusterveydenhuollon-vuodeosastopaikkojen-purkaminen-iso-virhe/8592978)
+* Joulunpyhät lähestyvät tilanteessa, jossa HUS-päivystysten odotusajat näyttävät jyrkkää nousua. Keskimääräinen päivystyksessä vietetty aika on jo 8 tuntia. Osastolle päätyvien potilaiden odotusaika on jo yli 20 tuntia.
+
+
+20.12.2022 [Sairaalapäivystysten ruuhkat sotivat hyvinvointivaltion keskeisintä lupausta vastaan, sanoo professori Heikki Hiilamo: "Megaluokan epäonnistuminen"](https://www.mtvuutiset.fi/artikkeli/sairaalapaivystysten-ruuhkat-sotivat-hyvinvointivaltion-keskeisinta-lupausta-vastaan-sanoo-professori-heikki-hiilamo-megaluokan-epaonnistuminen/8596176)
+
+23.12.2022 [Kokonaisia osastoja suljettu, 40 lääkäriä puuttuu, potilasturvallisuus vaarantuu – Taysin vastuualuejohtajat kertovat nyt vakavista ongelmista sairaalassa](https://www.aamulehti.fi/pirkanmaa/art-2000009285720.html) ([twiitti](https://twitter.com/aamulehti/status/1606142655120887808))
+
+02.01.2023 [Aluehallintovirasto antoi huomautuksen TAYSin ensiavusta](https://yle.fi/a/74-20011084)
+* Huomautus koskee henkilöstön määrää ja asianmukaisia toimitiloja. Molempien pitää avin mukaan riittää myös toiminnan ruuhkautuessa niin, että potilaiden hoito tai yksityisyys eivät vaarannu.
+
+03.01.2023 [Mehiläisen data paljastaa: Sairauspoissaolot ennätyskorkealla – myös sote-kriisi kuormittaa työterveyttä](https://www.mtvuutiset.fi/artikkeli/mehilaisen-data-paljastaa-sairauspoissaolot-ennatyskorkealla-myos-sote-kriisi-kuormittaa-tyoterveytta/8603724)
+* . Terveysjätti Mehiläisen mukaan sairauspoissaoloista kertyi päättyneenä vuonna jopa 10,5 prosenttia enemmän poissaolopäiviä työntekijää kohden kuin edellisvuonna.

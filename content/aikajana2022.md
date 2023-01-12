@@ -73,6 +73,10 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 2022-05-07 [Tutkijat havaitsivat yhteyden erektiohäiriön ja sairastetun koronavirustaudin välillä – Ongelmat jatkuneet puoli vuottakin sairastamisen jälkeen](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-erektiohairion-ja-sairastetun-koronavirustaudin-valilla-ongelmat-jatkuneet-puoli-vuottakin-sairastamisen-jalkeen/)
 * Muun muassa yhdysvaltalaisen Miamin yliopiston urologit kertoivat helmikuisessa tutkimusraportissaan, että he ovat havainneet erektiohäiriöriskin nousevan 20 prosentilla koronavirustaudin nujertamisen jälkeen. Tutkimusta johtaneen urologin, tohtori Ranjith Ramasamyn mukaan he havaitsivat selkeän kaavan erektiohäiriön puhkeamisen ja sairastetun koronavirustaudin välillä.
 
+2022-05-23 [COVID lessons from Japan: the right messaging empowers citizens](https://www.nature.com/articles/d41586-022-01385-9)
+* Through six waves of COVID-19 in Japan, the number of cases and deaths per capita has been significantly lower than in other G7 countries. This is despite having the world’s oldest population, and being densely packed.
+* Often, phrases such as ‘exit strategy’ or ‘back to normal’ are used by people longing for the days when we lived without the threat of this virus. But we are nowhere near back to normal.
+
 2022-06-02 [”Nyt on aika kiittää” – Yli kahden vuoden ajan jatkuneet koronakatsaukset päättyivät viestiin, joka herkisti jopa THL:n Mika Salmisen](https://www.hs.fi/kotimaa/art-2000008859436.html)
 * THL ja STM on järjestänyt suoria tilannekatsauksia koronaepidemiasta liki viikoittain yli kahden vuoden ajan. Torstain tilaisuus oli sarjassaan 90:s ja tältä erää viimeinen.
 * "Kiitollinen fiilis – yhdessä koronan selkä taitettiin, kaikkien suomalaisten voimin."
@@ -410,6 +414,8 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 07.12.2022 [Helsingin Sanomat lopettaa automaattisten koronagrafiikoiden julkaisemisen](https://twitter.com/EsaMakinen/status/1600494017699012613)
 
+07.12.2022 [Kiinassa kevennetään koronarajoituksia](https://yle.fi/a/74-20007510)
+
 08.12.2022 [Korona voi heikentää suojaa muita tauteja vastaan](https://www.verkkouutiset.fi/a/korona-voi-heikentaa-suojaa-muita-tauteja-vastaan/#33ce4a4e)
 * Immuunijärjestelmä on infektion jälkeen heikentyneessä tilassa 3–6 kuukautta. 
 
@@ -417,3 +423,28 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 09.12.2022 [HUSin diagnostiikkajohtaja Lasse Lehtonen asettuu kokoomuksen eduskuntavaaliehdokkaaksi](https://yle.fi/a/74-20007909)
 
+15.12.2022 [Rising Risks with COVID Reinfection](https://www.harvardmagazine.com/2022/12/covid-reinfection)
+
+16.12.2022 [Onko koronakuolemia paljon, vai mihin täällä kuollaan?](https://www.laakarilehti.fi/terveydenhuolto/onko-koronakuolemia-paljon-vai-mihin-taalla-kuollaan/)
+* Suomen ylikuolleisuus on huikeaa, ja syyt ovat selvittämättä.
+
+20.12.2022 [THL päivitti ohjeistustaan: Koronaan voi suhtautua kuten muihin hengitystieinfektioihin, ei enää syytä erityisille koronaohjeille](https://yle.fi/a/74-20009649)
+
+20.12.2022 [Kiuru: Kaikille yli 18-vuotiaille koronarokotus yksityiseltä tammikuussa ](https://www.iltalehti.fi/politiikka/a/c0ede9df-f43a-480e-9b93-7f9a2bea17fb)
+* STM:n tilamaan selvityksen mukaan valtaosa EU-maista suosittaa koronarokotteita yli 18-vuotiaille. Myös kaikki muut EU-maat paitsi Suomi suosittavat koronarokotuksia sosiaali- ja terveydenhoidon henkilökunnalle.
+* STM:n osastopäällikkö Taneli Puumalaisen mukaan korona ei ole mikään tavallinen flunssatauti.
+* Puumainen viittasi tuoreisiin tutkimuksiin, joiden mukaan joka kymmenellä koronainfektioon sairastuneilla on pidempiaikaista oireilua, ja noin joka viides kärsii oireista vielä vuoden jälkeen.
+
+21.12.2022 [“Valtava määrä kiinalaisia kuolee muutaman kuukauden sisällä” – Kiinan koronaepidemia räjähti, asiantuntijalta karu ennuste](https://yle.fi/a/74-20009826)
+
+22.12.2022 [Waltterin koululla on sairaana yli 500 oppilasta – hyvinvointikeskuksen puhelinpalvelu on edelleen ruuhkautunut](https://www.warkaudenlehti.fi/paikalliset/5610845)
+* Waltterin koululta oli jouluviikon keskiviikkona poissa yli 70 prosenttia oppilaista, mikä tarkoittaa noin 800 oppilaan porukassta reilusti yli 500 lasta.
+
+23.12.2022 [Kokonaisia osastoja suljettu, 40 lääkäriä puuttuu, potilasturvallisuus vaarantuu – Taysin vastuualuejohtajat kertovat nyt vakavista ongelmista sairaalassa](https://www.aamulehti.fi/pirkanmaa/art-2000009285720.html)
+
+23.12.2022 [‘We have no beds, we have no oxygen’: Covid overwhelms Beijing’s hospitals](https://www.ft.com/content/18f5d2f4-8695-499c-be37-1d5eb8f81329)
+
+30.12.2022 [Suomessa on kuollut tänä vuonna niin paljon ihmisiä, että pahempaa on nähty viimeksi sotavuosina – Professori löytää kaksi syytä](https://www.aamulehti.fi/kotimaa/art-2000009299156.html)
+* Suomessa kuoli vuoden 2022 tammi-marraskuun aikana 4 685 ihmistä enemmän kuin edellisenä vuonna vastaavana aikana.
+* Korkeaa kuolleisuutta selittää Terveyden ja hyvinvoinnin laitoksen (THL) tutkimusprofessori Mika Gisslerin mukaan kaksi asiaa, korona ja väestön ikääntyminen.
+* Ikääntyminen selittää hänen mukaansa ylikuolleisuudesta hieman yli kolmanneksen, loput kaksi kolmasosaa johtuu joko suoraan tai välillisesti koronasta.

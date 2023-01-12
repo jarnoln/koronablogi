@@ -5,7 +5,7 @@ date: 2022-09-24
 
 THL on Suomen johtava terveysviranomainen ja Suomen koronapolitiikka on pitkälti pohjautunut THL:n tilannekuvaan ja ennusteisiin. Harmi vain, että ne ovat useimmiten osoittautuneet täysin virheellisiksi. Yleensä ne ovat olleet aivan liian optimistisia, minkä vuoksi suojatoimet on aloitettu aivan liian myöhään tai purettu liian aikaisin, jolloin korona on päässyt leviämään ja tuhansia suomalaisia on sairastunut ja kuollut.
 
-Eniten julkisuudessa ennusteita ovat esittäneet THL:n taistelupari Jussi Sane ja Mika Salminen. Yleisin ennuste on ollut, että pandemia on ihan kohta päättymässä tai että se on käytännössä jo ohi. Joka kerta ennuste on mennyt pieleen, mutta se ei ole heitä lannistanut, vaan sama ennuste on esitetty säännöllisin väliaijoin. Ehkä ajatuksena on, että joskus koittaa se päivä, jolloin pandemia oikeasti päättyy, ja silloin he voivat osoittaa ennustaneensa oikein ja toivoa, että kukaan ei muista aiempia pieleen menneitä ennusteita.
+Eniten julkisuudessa ennusteita ovat esittäneet THL:n taistelupari Jussi Sane ja Mika Salminen. Yleisin ennuste on ollut, että pandemia on ihan kohta päättymässä tai että se on käytännössä jo ohi. Joka kerta ennuste on mennyt pieleen, mutta se ei ole heitä lannistanut, vaan sama ennuste on esitetty säännöllisin väliajoin. Ehkä ajatuksena on, että joskus koittaa se päivä, jolloin pandemia oikeasti päättyy, ja silloin he voivat osoittaa ennustaneensa oikein ja toivoa, että kukaan ei muista aiempia pieleen menneitä ennusteita.
 
 Tässä muutamia esimerkkejä:
 

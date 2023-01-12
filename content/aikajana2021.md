@@ -113,7 +113,10 @@ title: 2021 Aikajana
 * Provinssissa poistettiin suuri osa koronarajoituksista viime kesänä, vaikka tartuntojen määrä oli jo tuolloin kasvussa.
 * muun muassa vaaleilla valitut viranomaiset, palomiehet ja poliisit ovat vastustaneet rokotteita ja kasvomaskeja.
 
-24.9.2021 [Pääministeri Marin oli keväällä ”aika väsynyt”, mutta IS-haastattelussa hänellä on kansalle vapauden­viesti – korona on pian selätetty: ”Nyt saa mennä, kokea ja tehdä”](https://www.is.fi/politiikka/art-2000008285520.html)
+20.09.2021 [THL:n professori sanoo Eroon koronasta -ryhmää hörhöjen päiväkerhoksi](https://www.verkkouutiset.fi/a/thln-professori-sanoo-eroon-koronasta-ryhmaa-horhojen-paivakerhoksi/#33ce4a4e)
+* THL:n tutkimusprofessori ja epidemiologi Markku Peltonen käyttää kovaa kieltä koronan eliminoimisesta ja tukahduttamisesta huhtikuusta 2020 asti puhuneesta tutkijoiden Eroon koronasta -ryhmästä.
+
+24.09.2021 [Pääministeri Marin oli keväällä ”aika väsynyt”, mutta IS-haastattelussa hänellä on kansalle vapauden­viesti – korona on pian selätetty: ”Nyt saa mennä, kokea ja tehdä”](https://www.is.fi/politiikka/art-2000008285520.html)
 * Tässä haastattelussa hänen pääviestinsä on typistetysti: Nyt on oikea aika jokaisen suomalaisen elää normaalia elämää.
 * "Toivon, että kaikki suomalaiset nyt kokevat, että saavat mennä, tehdä, kokea ja viettää aikaa ystävien ja läheisten seurassa."
 * Marin kannustaa liikkeelle myös niitä, jotka pitkän kurimuksen jälkeen eivät vielä oikein ole uskaltautuneet rokotteista huolimatta.

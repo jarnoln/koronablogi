@@ -30,3 +30,20 @@ title: 2023 Aikajana
 11.01.2023 [Vainajille on liian vähän tilaa Pohjanmaalla, sanoo johtaja – omaisilta toivotaan ripeitä hautausjärjestelyjä](https://yle.fi/a/74-20012426)
 
 12.01.2023 [Saako työikäinen koronarokotteen? STM:n mielestä kyllä, THL:n mielestä ei – viranomaisten riidan joutuu ratkaisemaan lääkäri](https://yle.fi/a/74-20012409)
+
+13.01.2023 [Koronaviruksen omikron XBB.1.5 -alalinjaa havaittu myös Suomessa](https://thl.fi/fi/-/koronaviruksen-omikron-xbb.1.5-alalinjaa-havaittu-myos-suomessa)
+
+18.01.2023 [Ylikuolleisuus Suomessa EU:n toiseksi korkein](https://www.verkkouutiset.fi/a/ylikuolleisuus-suomessa-eun-toiseksi-korkein/#0ddaa39f)
+* Lukema on yli kolminkertainen jäsenmaiden keskiarvoon nähden.
+* Suomessa raportoitiin viime vuoden marraskuussa toiseksi eniten ylikuolemia koko Euroopan unionin alueella, Eurostat kertoo.
+
+21.01.2023 [Studies give cause for concern: Lauterbach warns of incurable immune deficiency caused by Corone](https://www.archyde.com/studies-give-cause-for-concern-lauterbach-warns-of-incurable-immune-deficiency-caused-by-corona/)
+* According to Federal Minister of Health Karl Lauterbach, several corona infections in one person can have serious consequences for the immune system.
+* "Studies now show very clearly that those affected are often dealing with an immune deficiency that can no longer be cured"
+
+21.01.2023 [Suomalaisten kuolemissa uusi synkkä ennätys – tästä ylikuolleisuus johtuu](https://www.is.fi/kotimaa/art-2000009330947.html)
+* Vuonna 2022 kuoli enemmän suomalaisia kuin koskaan aiemmin mittaushistorian aikana. Suomalaisten kuolemien määrää on tilastoitu vuodesta 1945 lähtien.
+* THL:n alustavan tiedon mukaan suomalaisia kuoli koronan aiheuttamaan tautiin vuonna 2022 yhteensä 4 793. Myötävaikuttavana tekijänä koronan katsotaan olleen 2 298 suomalaisen kuolemassa. Yhteensä koronavirus voi löytyä siis yli 7 000 suomalaisen kuoleman taustalta.
+
+24.01.2023 [Turha taistelu](https://suomenkuvalehti.fi/uutisviikko/thl-tuhlasi-resursseja-twitteriin-jalkiviisaana-mietin-etta-paatoksen-lahtea-sielta-olisi-voinut-tehda-jo-aiemmin/)
+* THL on kertonut jättävänsä Twitterin, koska tiliä käytettiin disinformaation levittämiseen.

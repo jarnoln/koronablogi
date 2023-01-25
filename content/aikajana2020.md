@@ -63,7 +63,12 @@ title: 2020 Aikajana
 * THL:n ylilääkäri Leino sanoo, että Imperial Collegen arvio perustuu ajatusvirheelle.
 * Leinon ja Aurasen mukaan brittiyliopiston tutkijat ovat olettaneet, että Kiinassa on ollut verrattain vähän tartuntoja, joita ei ole havaittu testeissä. Havaitsematta olisi jäänyt vain noin puolet kaikista tartunnoista. ”Se tarkoittaisi, että vain yhdellä prosentilla Wuhanin asukkaista olisi ollut tartunta. Tämä ei voi pitää paikkaansa”, Leino sanoo.
 
-20.3.2020 [Ensimmäinen suomalainen kuolee koronaan](https://yle.fi/uutiset/3-11269508)
+20.03.2020 [Ensimmäinen suomalainen kuolee koronaan](https://yle.fi/uutiset/3-11269508)
+
+20.03.2020 [Finnish health boss questions WHO coronavirus testing advice](https://www.reuters.com/article/us-health-coronavirus-finland-who-idUSKBN2170ZB)
+* Finland’s national health authority questioned on Friday the World Health Organization’s call on countries to test as many patients as possible for coronavirus, after the country ran out of testing capacity this week.
+* “We don’t understand the WHO’s instructions for testing. We can’t fully remove the disease from the world anymore. If someone claims that, they don’t understand pandemics,” Finland’s head of health security Mika Salminen of the Finnish Institute of Health and Welfare told the Helsingin Sanomat newspaper.
+* The WHO’s director general Tedros Adhanom Ghebreyesus said on Wednesday the test and trace strategy “must be the backbone of the response in every country”.
 
 21.3.2020 [Miksi WHO:n ja THL:n arviot koronakuolleisuudesta vaihtelevat yli kymmenkertaisesti?](https://yle.fi/uutiset/3-11265797)
 * Terveyden ja hyvinvoinnin laitoksen (THL) arvio kuolleisuudesta vaihteli 0,05–0,1 prosentin välillä.

@@ -2,9 +2,6 @@
 title: 2023 Aikajana
 ---
 
-2023 aikajana
--------------
-
 03.01.2023 [Mehiläisen data paljastaa: Sairauspoissaolot ennätyskorkealla – myös sote-kriisi kuormittaa työterveyttä](https://www.mtvuutiset.fi/artikkeli/mehilaisen-data-paljastaa-sairauspoissaolot-ennatyskorkealla-myos-sote-kriisi-kuormittaa-tyoterveytta/8603724)
 * Terveysjätti Mehiläisen mukaan sairauspoissaoloista kertyi päättyneenä vuonna jopa 10,5 prosenttia enemmän poissaolopäiviä työntekijää kohden kuin edellisvuonna.
 

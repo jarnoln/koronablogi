@@ -2,9 +2,6 @@
 title: 2022 Aikajana
 ---
 
-2022 aikajana
--------------
-
 2022-01-01 [USA lyhensi koronataudin karanteenisuositusta 5 päivään – Epidemiologit arvostelevat päätöstä voimakkaasti](https://tekniikanmaailma.fi/usa-lyhensi-koronataudin-karanteenisuositusta-5-paivaan-epidemiologit-arvostelevat-paatosta-voimakkaasti/)
 * ”CDC:n päätös lyhentää karanteeniaikaa viiteen päivään ja töihin paluun mahdollistaminen ilman negatiivisen koronatestin tekemistä on vastuuton ja vaarallinen”, Feldman sanoo Gizmodo-verkkosivustolle.
 

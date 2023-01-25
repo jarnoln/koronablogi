@@ -2,10 +2,6 @@
 title: 2020 Aikajana
 ---
 
-
-2020 aikajana
--------------
-
 11.1.2020 [Kiina vahvistaa ensimmäisen koronakuoleman](https://yle.fi/uutiset/3-11153391)
 
 16.1.2020 [THL:n asiantuntija Aasiassa leviävästä uudesta virustaudista: ”Ei tästä tarvitse Suomessa yöunia menettää”](https://yle.fi/uutiset/3-11160631)

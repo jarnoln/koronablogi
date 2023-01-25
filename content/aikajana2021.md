@@ -2,9 +2,6 @@
 title: 2021 Aikajana
 ---
 
-2021 aikajana
--------------
-
 18.1.2021 [Kylmäävät kuvat saksalaisesta krematoriosta julki: Arkkuja pullistelee kolmessa kerroksessa – ”Tämä on katastrofi”](https://www.is.fi/ulkomaat/art-2000007746272.html)
 : Saksan huono koronatilanne konkretisoituu Meissenin krematoriossa: ylitöitä paiskitaan viikon jokaisena päivänä, koska vainajat eivät enää mahdu kylmätiloihin.
 

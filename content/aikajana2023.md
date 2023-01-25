@@ -37,7 +37,7 @@ title: 2023 Aikajana
 * Lukema on yli kolminkertainen jäsenmaiden keskiarvoon nähden.
 * Suomessa raportoitiin viime vuoden marraskuussa toiseksi eniten ylikuolemia koko Euroopan unionin alueella, Eurostat kertoo.
 
-21.01.2023 [Studies give cause for concern: Lauterbach warns of incurable immune deficiency caused by Corone](https://www.archyde.com/studies-give-cause-for-concern-lauterbach-warns-of-incurable-immune-deficiency-caused-by-corona/)
+21.01.2023 [Studies give cause for concern: Lauterbach warns of incurable immune deficiency caused by Corona](https://www.archyde.com/studies-give-cause-for-concern-lauterbach-warns-of-incurable-immune-deficiency-caused-by-corona/)
 * According to Federal Minister of Health Karl Lauterbach, several corona infections in one person can have serious consequences for the immune system.
 * "Studies now show very clearly that those affected are often dealing with an immune deficiency that can no longer be cured"
 

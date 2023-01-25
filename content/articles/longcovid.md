@@ -3,10 +3,7 @@ title: Koronan pitkäaikaisvaikutukset
 date: 2022-09-28
 ---
 
-Koronan pitkäaikaisvaikutukset
-------------------------------
-
-Vaikka koronaan kuolleita on valtava määrä ja akuutti infektio vaatii monilla sairaalahoitoa ja joillain myös tehohoitoa, saattaa suurin koronan aiheuttama vahinko yhteiskunnille ja kansanterveydelle liittyä sen lukuisiin pitkäaikaisvaikutuksiin, jotka saataavat ilmetä vasta kuukausia infektion jälkeen ja jotka saattavat myös kestää kuukausia tai mahdollisesti koko loppuelämämän. Ne saattavat aiheuttaa myös kuoleman, jota ei kuitenkaan tilastoida koronasta johtuvaksi, koska silloin saatta infektiosta olla jo kuukausia.
+Vaikka koronaan kuolleita on valtava määrä ja akuutti infektio vaatii monilla sairaalahoitoa ja joillain myös tehohoitoa, saattaa suurin koronan aiheuttama vahinko yhteiskunnille ja kansanterveydelle liittyä sen lukuisiin pitkäaikaisvaikutuksiin, jotka saattavat ilmetä vasta kuukausia infektion jälkeen ja jotka saattavat myös kestää kuukausia tai mahdollisesti koko loppuelämämän. Ne saattavat aiheuttaa myös kuoleman, jota ei kuitenkaan tilastoida koronasta johtuvaksi, koska silloin saatta infektiosta olla jo kuukausia.
 
 Tutkimusten mukaan n. 13% tartunnan saaneista (Suomessa arviolta [joka kahdeksas](https://www.is.fi/kotimaa/art-2000009162542.html)) saa pitkäkestoisia oireita. Vaikka rokotteet suojaavat kohtalaisen hyvin vakavalta akuutilta vaiheelta (kunhan rokotteesta ei ole kovin kauaa, eikä saa tartunta rokotesuojaa kiertävältä variantilta), ne antavat ainoastaan 15% suojan pitkäkestoisia oireita vastaan.
 
@@ -66,6 +63,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 16.04.2022 [Vaccines are no match for long Covid. Treating it is science’s next great challenge](https://www.theguardian.com/commentisfree/2022/apr/16/vaccines-long-covid-science)
 
 04.05.2022 [The Children Left Behind by Long Covid](https://www.bloomberg.com/news/features/2022-05-04/long-covid-in-kids-has-effects-that-last-beyond-hospital)
+* As the world pretends the pandemic is over, at least a half-million children in the U.S. are struggling with the mysterious disease.
 
 04.05.2022 [Koronatauti vanhensi kuin seitsemänkymppiseksi – jälki eroaa muista sairauksista](https://www.iltalehti.fi/terveysuutiset/a/0a79d271-a3a2-46e1-a0c2-a04ad5d2e761)
 * Vakava koronatauti voi heikentää esimerkiksi muistia ja kielellisiä kykyjä. Älyllisten kykyjen palautuminen voi kestää kuukausia ja joillakin jälkitila voi olla pysyvä.
@@ -207,3 +205,7 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 15.12.2022 [Rising Risks with COVID Reinfection](https://www.harvardmagazine.com/2022/12/covid-reinfection)
 * The risk of hospitalization, organ damage, and death rises markedly with repeat COVID-19 infection.
 * The data show a consistent pattern of increased likelihood of hospitalization, cardiovascular effects, clotting and other blood disorders, diabetes, fatigue, gastrointestinal distress, kidney damage, mental health effects such as depression, musculoskeletal damage, neurological deficits, and pulmonary damage with each episode.
+
+21.01.2023 [Studies give cause for concern: Lauterbach warns of incurable immune deficiency caused by Corona](https://www.archyde.com/studies-give-cause-for-concern-lauterbach-warns-of-incurable-immune-deficiency-caused-by-corona/)
+* According to Federal Minister of Health Karl Lauterbach, several corona infections in one person can have serious consequences for the immune system.
+* "Studies now show very clearly that those affected are often dealing with an immune deficiency that can no longer be cured"

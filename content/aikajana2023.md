@@ -44,3 +44,15 @@ title: 2023 Aikajana
 
 24.01.2023 [Turha taistelu](https://suomenkuvalehti.fi/uutisviikko/thl-tuhlasi-resursseja-twitteriin-jalkiviisaana-mietin-etta-paatoksen-lahtea-sielta-olisi-voinut-tehda-jo-aiemmin/)
 * THL on kertonut jättävänsä Twitterin, koska tiliä käytettiin disinformaation levittämiseen.
+
+
+26.01.2024 [Kuolleisuuden nousu poikkeuksellista – elinajanodote laskee vuonna 2022 eniten 60 vuoteen]
+(https://tilastokeskus.fi/uutinen/kuolleisuuden-nousu-poikkeuksellista-elinajanodote-laskee-vuonna-2022-eniten-60-vuoteen)
+([twiitti](https://twitter.com/Tilastokeskus/status/1618495189471072256))
+* Ennakkotietojen mukaan kuolleita oli yli 5 200 enemmän kuin vuotta aiemmin. Kuolleiden ennakollinen kokonaismäärä oli 62 886 eli suurin vuoden 1944 jälkeen. 
+* ”Elinajanodotteen perusteella kuolleisuus lähti Suomessa nousuun syksyllä 2021. Viimeisen puolentoista vuoden aikana naisten elinajanodote on laskenut 0,9 vuotta ja miesten 0,6 vuotta”, Rapo kertoo.
+* Naisten elinajanodote laskee vuonna 2022 jo toista vuotta peräkkäin.  ”Näin ei ole tapahtunut kertaakaan aiemmin vuosien 1950 ja 2021 välisenä aikana.”
+
+27.01.2023 [THL: Korona oli pääasiallinen syy ylikuolleisuuteen, mutta kuolemien estäminen olisi ollut "hyvin vaikeaa": "Olemme parhaamme tehneet"](https://www.mtvuutiset.fi/artikkeli/thl-korona-oli-paaasiallinen-syy-ylikuolleisuuteen-mutta-kuolemien-estaminen-olisi-ollut-hyvin-vaikeaa-olemme-parhaamme-tehneet/8619940#gs.obfqs5)
+
+

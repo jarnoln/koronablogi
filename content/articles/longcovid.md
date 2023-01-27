@@ -209,3 +209,6 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 21.01.2023 [Studies give cause for concern: Lauterbach warns of incurable immune deficiency caused by Corona](https://www.archyde.com/studies-give-cause-for-concern-lauterbach-warns-of-incurable-immune-deficiency-caused-by-corona/)
 * According to Federal Minister of Health Karl Lauterbach, several corona infections in one person can have serious consequences for the immune system.
 * "Studies now show very clearly that those affected are often dealing with an immune deficiency that can no longer be cured"
+
+25.01.2023 [The covid-19 virus gets into the brain – what does it do there?](https://www.newscientist.com/article/2356287-the-covid-19-virus-gets-into-the-brain-what-does-it-do-there/)
+* While neurological conditions are most likely to arise soon after infection, people who have had covid-19 remain at and elevated risk of developing one for up to two years afterwards.

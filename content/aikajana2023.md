@@ -54,5 +54,6 @@ title: 2023 Aikajana
 * Naisten elinajanodote laskee vuonna 2022 jo toista vuotta peräkkäin.  ”Näin ei ole tapahtunut kertaakaan aiemmin vuosien 1950 ja 2021 välisenä aikana.”
 
 27.01.2023 [THL: Korona oli pääasiallinen syy ylikuolleisuuteen, mutta kuolemien estäminen olisi ollut "hyvin vaikeaa": "Olemme parhaamme tehneet"](https://www.mtvuutiset.fi/artikkeli/thl-korona-oli-paaasiallinen-syy-ylikuolleisuuteen-mutta-kuolemien-estaminen-olisi-ollut-hyvin-vaikeaa-olemme-parhaamme-tehneet/8619940#gs.obfqs5)
-
+* Kuolleita oli noin 63 000, mikä on eniten vuoden 1944 jälkeen, ja lähes 6 000 enemmän kuin vuonna 2021.
+* Korona on se pääsyy kuolemien määrän kasvuun. Noin 20 prosenttia selittyy ikääntyneellä väestöllä, ja loput selittyy joko suoraan tai epäsuoraan koronatartuntojen aiheuttamilla kuolemilla, THL:n tutkimusprofessori Mika Gissler sanoo.
 

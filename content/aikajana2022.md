@@ -386,6 +386,7 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 
 27.11.2022 [THL:n Mika Salminen: Tilastot antavat väärän kuvan korona­kuolleisuudesta](https://www.is.fi/politiikka/art-2000009229475.html)
 * THL:n hyvinvointivaikuttajat-osaston johtaja Mika Salminen sanoo IS:lle, että tilastot antavat virheellisen kuvan Suomen koronakuolleisuudesta.
+* Suomen koronakuolleisuus näyttää olleen kesällä ja etenkin syksyllä selvästi EU:n keskitason yläpuolella.
 * – Se on kaikki harhaa. Siellä on puolet ihan muuta kuolemaa, systeemi ei vain pysty tuottamaan todellisia koronakuolleisuuslukuja, Salminen kommentoi asiaa Kuopiossa keskustan puoluevaltuuston kokouksessa.
 * Salminen kätteli keskustan kokouksessa ihmisiä eikä käyttänyt maskia. Salminen ei näe kättelyssä ongelmaa.
 * [Tuuli Lappalaisen kommentit](https://twitter.com/tuuliel/status/1597242598124814340)

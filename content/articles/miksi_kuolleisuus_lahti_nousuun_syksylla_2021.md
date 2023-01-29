@@ -3,7 +3,7 @@ title: Miksi kuolleisuus lähti nousuun syksyllä 2021?
 date: 2023-01-27
 ---
 
-26.1 Tilastokeskus julkaisi uutisen: [Kuolleisuuden nousu poikkeuksellista – elinajanodote laskee vuonna 2022 eniten 60 vuoteen](https://tilastokeskus.fi/uutinen/kuolleisuuden-nousu-poikkeuksellista-elinajanodote-laskee-vuonna-2022-eniten-60-vuoteen). Uutisessa todetaan, että viime vuonna kuoli enemmän suomalaisia kuin koskaan vuoden 1944 jälkeen. Lisäksi elinajanodote laski jo toista vuotta peräkkäin, mitä ei ole tapahtunut kertaakaan aikaisemmin vuoden 1950 jälkeen.
+26.1.2023 Tilastokeskus julkaisi uutisen: [Kuolleisuuden nousu poikkeuksellista – elinajanodote laskee vuonna 2022 eniten 60 vuoteen](https://tilastokeskus.fi/uutinen/kuolleisuuden-nousu-poikkeuksellista-elinajanodote-laskee-vuonna-2022-eniten-60-vuoteen). Uutisessa todetaan, että viime vuonna kuoli enemmän suomalaisia kuin koskaan vuoden 1944 jälkeen. Lisäksi elinajanodote laski jo toista vuotta peräkkäin, mitä ei ole tapahtunut kertaakaan aikaisemmin vuoden 1950 jälkeen.
 
 Tässä kuitenkin ehkä mielenkiintoisin kohta: ”Elinajanodotteen perusteella kuolleisuus lähti Suomessa nousuun syksyllä 2021." Mitä ihmettä siis tapahtui syksyllä 2021, että juuri silloin kuolleisuus lähti ennenäkemättömään nousuun, joka jatkuu edelleen?
 
@@ -22,7 +22,7 @@ Jotta asia ei vain jäisi kenellekään kansalaiselle epäselväksi, 24.9. itse 
  
 Eli yhteenveto: 2021 syksyllä Suomi muutti koronastrategiaansa niin, että käytännössä kaikista suojatoimista luovuttiin. Samalla THL:n asiantuntijat, median edustajat ja itse pääministeri julistivat, että vaara on ohi: on aika luopua varovaisuudesta ja palata normaaliin elämään. Kun valtio luopui suojatoimista ja ihmiset varovaisuudesta uskoessaan vaaran olevan ohi, tartunnat levisivät kuin kulovalkea ja seurauksena suomalaisia alkoi kuolla ja sairastua enemmän kuin koskaan aiemmin ja [terveydenhoito ajautui kriisiin](/articles/sairaalakuormitus.html).
 
-THL:n arvion mukaan [2022 koronaan kuoli lähes 5000 suomalaista, minkä lisäksi yli 2000 kuolemassa korona oli myötävaikuttavana tekijänä](https://www.is.fi/kotimaa/art-2000009330947.html). Kuinkahan moni noista tuhansista kuolleista oli heitä, jotka olivat pandemian alkuajan toimineet vastuullisesti ja varoen, mutta uskoivat pääministeriä, kun tämä sanoi, että varovaisuudesta voi jo luopua ja sen seurauksena saivat tartunnan, joka osoittautui kohtalokkaaksi? Tai eivät itse päätyneet kuolintialastoon, mutta tartuttivat edelleen jonkin läheisensä, jolla ei käynyt yhtä hyvä onni? 
+THL:n arvion mukaan [2022 koronaan kuoli lähes 5000 suomalaista, minkä lisäksi yli 2000 kuolemassa korona oli myötävaikuttavana tekijänä](https://www.is.fi/kotimaa/art-2000009330947.html). Kuinkahan moni noista tuhansista kuolleista oli heitä, jotka olivat pandemian alkuajan toimineet vastuullisesti ja varoen, mutta uskoivat pääministeriä, kun tämä sanoi, että varovaisuudesta voi jo luopua ja sen seurauksena saivat tartunnan, joka osoittautui kohtalokkaaksi? Tai eivät itse päätyneet kuolintilastoon, mutta tartuttivat edelleen jonkin läheisensä, jolla ei käynyt yhtä hyvä onni? 
 
 Iso kysymys on, miksi suojatoimet purettiin niin aikaisin ja miksi kansalaisia ohjeistettiin luopumaan varovaisuudesta, vaikka epidemia oli vielä täydessä vauhdissa?
 
@@ -41,4 +41,4 @@ Nähtäväksi jää, joutuuko kukaan kantamaan näistä minkäänlaista vastuuta
 
 ---
 
-Epilogi: Viimeistään lokakuun lopussa oli selvää, että suojatoimien poistaminen oli ollut virhe. Siitä seurasi uusi aalto ja koronapotilaiden määrä lisääntyi sairaaloissa niin paljon, että esimerkiksi [sydänleikkauksia jouduttiin siirtämään](https://yle.fi/a/3-12155829), koska teho-osastoilla ei ollut tilaa. Suojatoimia ei siitä huolimatta palautettu, koska se olisi ollut liian monelle poliitikolle ja asiantuntijalle valtava arvovaltatappio. Sama koski myös ainakin MTV:tä ja Helsingin Sanomia, jotka olivat myös asettaneet arvovaltansa epidemian pikaisen päättymisen taakse, joten niilläkään ollut juuri varaa haastaa poliitikkoja tai asiantuntijoita, kun niin ei käynytkään.
+Epilogi: Viimeistään lokakuun lopussa oli selvää, että suojatoimista luopuminen oli ollut valtava virhe. Siitä seurasi uusi aalto ja koronapotilaiden määrä lisääntyi sairaaloissa niin paljon, että esimerkiksi [sydänleikkauksia jouduttiin siirtämään](https://yle.fi/a/3-12155829), koska teho-osastoilla ei ollut tilaa. Suojatoimia ei siitä huolimatta palautettu, koska se olisi ollut liian monelle poliitikolle ja asiantuntijalle valtava arvovaltatappio. Sama koski myös ainakin MTV:tä ja Helsingin Sanomia, jotka olivat myös asettaneet arvovaltansa epidemian pikaisen päättymisen taakse, joten niilläkään ollut juuri varaa haastaa poliitikkoja tai asiantuntijoita, kun niin ei käynytkään.

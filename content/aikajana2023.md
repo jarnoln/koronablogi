@@ -46,8 +46,7 @@ title: 2023 Aikajana
 * THL on kertonut jättävänsä Twitterin, koska tiliä käytettiin disinformaation levittämiseen.
 
 
-26.01.2024 [Kuolleisuuden nousu poikkeuksellista – elinajanodote laskee vuonna 2022 eniten 60 vuoteen]
-(https://tilastokeskus.fi/uutinen/kuolleisuuden-nousu-poikkeuksellista-elinajanodote-laskee-vuonna-2022-eniten-60-vuoteen)
+26.01.2024 [Kuolleisuuden nousu poikkeuksellista – elinajanodote laskee vuonna 2022 eniten 60 vuoteen](https://tilastokeskus.fi/uutinen/kuolleisuuden-nousu-poikkeuksellista-elinajanodote-laskee-vuonna-2022-eniten-60-vuoteen)
 ([twiitti](https://twitter.com/Tilastokeskus/status/1618495189471072256))
 * Ennakkotietojen mukaan kuolleita oli yli 5 200 enemmän kuin vuotta aiemmin. Kuolleiden ennakollinen kokonaismäärä oli 62 886 eli suurin vuoden 1944 jälkeen. 
 * ”Elinajanodotteen perusteella kuolleisuus lähti Suomessa nousuun syksyllä 2021. Viimeisen puolentoista vuoden aikana naisten elinajanodote on laskenut 0,9 vuotta ja miesten 0,6 vuotta”, Rapo kertoo.

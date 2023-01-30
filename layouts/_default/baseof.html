@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-63Y24RXZE8"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-63Y24RXZE8');
-  </script>
   <title>{{ block "title" . }}{{ if .Title }}{{ .Title }}{{else}}{{site.Title}}{{ end }}{{ end }}</title>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,6 +10,10 @@
 body {
   margin: 0px;
   font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+quote {
+  font-style: italic;
 }
 
 .container {

@@ -1,7 +1,16 @@
 {{ define "content" }}
 <section id="content">
     <div style="margin:auto; border: 0px solid black; width: 500px;">
-        <h1 style="text-align: center;">Kirjoituksia koronasta</h1>
+        <h1 style="text-align: center;">Koronablogi</h1>
+        <p>
+            <quote>
+                So while we cannot be certain that some new Ebola outbreak or an unknown flu strain won’t sweep across the globe and
+                kill millions, we will not regard it as an inevitable natural calamity. Rather, we will see it as an inexcusable human
+                failure and demand the heads of those responsible.
+            </quote>
+        </p>
+        <div style="font-style: italic">- Harari, Yuval Noah: Homo Deus (2015)</div>
+        <h3>Kirjoituksia</h3>
         <ul>
         {{ range where site.RegularPages "Type" "articles" }}
             <li>

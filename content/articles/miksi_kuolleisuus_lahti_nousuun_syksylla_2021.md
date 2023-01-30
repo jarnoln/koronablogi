@@ -20,23 +20,30 @@ Toimituspäällikkö Esa Mäkinen heitti surullisenkuuluisan  "Korona loppuu sii
 
 Jotta asia ei vain jäisi kenellekään kansalaiselle epäselväksi, 24.9. itse pääministeri Sanna Marin tuli julkisuuteen kertomaan, kuinka "korona on pian selätetty" ja että "nyt on oikea aika jokaisen suomalaisen elää normaalia elämää". ["Nyt saa mennä, kokea ja tehdä"](https://www.is.fi/politiikka/art-2000008285520.html). Hän vielä erikseen kannusti liikkeelle "myös niitä, jotka pitkän kurimuksen jälkeen eivät vielä oikein ole uskaltautuneet rokotteista huolimatta". **Eli juuri heitä, jotka olivat tähän saakka toimineet vastuullisesti ja varovaisesti suojatakseen itseään ja lähimmäisiään, itse pääministeri kehotti arvovallallaan luopumaan varoavaisuudestaan.** Pääministeri painotti myös, että suojatoimia puretaan jo ennen 80 % rokotekattavuuden saavuttamista, vastoin STM:n kantaa. Pääministeri kertoi myös odottavansa kovasti THL:ltä uutta maskisuositusta (eli käytännössä maskisuosituksen poistamista).
  
-Yhteenveto: ***2021 syksyllä Suomi muutti koronastrategiaansa niin, että käytännössä kaikista suojatoimista luovuttiin. Samalla THL:n asiantuntijat, median edustajat ja itse pääministeri julistivat, että vaara on ohi: on aika luopua varovaisuudesta ja palata normaaliin elämään. Kun valtio luopui suojatoimista ja ihmiset varovaisuudesta uskoessaan vaaran olevan ohi, tartunnat levisivät kuin kulovalkea ja seurauksena suomalaisia alkoi kuolla ja sairastua enemmän kuin koskaan aiemmin ja [terveydenhoito ajautui kriisiin](/articles/sairaalakuormitus.html). ***
+Yhteenveto: **2021 syksyllä Suomi muutti koronastrategiaansa niin, että käytännössä kaikista suojatoimista luovuttiin. Samalla THL:n asiantuntijat, median edustajat ja itse pääministeri julistivat, että vaara on ohi: on aika luopua varovaisuudesta ja palata normaaliin elämään.** Kun hallitus luopui suojatoimista ja ihmiset varovaisuudesta uskoessaan vaaran olevan ohi, tartunnat levisivät kuin kulovalkea.
 
-THL:n arvion mukaan [2022 koronaan kuoli lähes 5000 suomalaista, minkä lisäksi yli 2000 kuolemassa korona oli myötävaikuttavana tekijänä](https://www.is.fi/kotimaa/art-2000009330947.html). Kuinkahan moni noista tuhansista kuolleista oli heitä, jotka olivat pandemian alkuajan toimineet vastuullisesti ja varoen, mutta uskoivat pääministeriä, kun tämä sanoi, että varovaisuudesta voi jo luopua ja sen seurauksena saivat tartunnan, joka osoittautui kohtalokkaaksi? Tai eivät itse päätyneet kuolintilastoon, mutta tartuttivat edelleen jonkin läheisensä, jolla ei käynyt yhtä hyvä onni?
+Seuraukset näkyivät pian: sairastumiset ja kuolemat lähtivät nopeaan nousuun vuoden 2021 lopulla ja vuodesta 2022 tulikin sitten ylivoimasesti pandemian synkin vuosi. THL:n arvion mukaan [2022 koronaan kuoli lähes 5000 suomalaista, minkä lisäksi yli 2000 kuolemassa korona oli myötävaikuttavana tekijänä](https://www.is.fi/kotimaa/art-2000009330947.html).
+
+Kuinkahan moni noista tuhansista kuolleista oli heitä, jotka olivat pandemian alkuajan toimineet vastuullisesti ja varoen, mutta uskoivat pääministeriä, kun tämä sanoi, että varovaisuudesta voi jo luopua ja sen seurauksena saivat tartunnan, joka osoittautui kohtalokkaaksi? Tai eivät itse päätyneet kuolintilastoon, mutta tartuttivat edelleen jonkin läheisensä, jolla ei käynyt yhtä hyvä onni?
+
+Sairastumisten ja kuolemien lisäksi myös [terveydenhoito ajautui kriisiin](/articles/sairaalakuormitus.html), osin koronapotilaiden
+aiheuttaman kuorman vuoksi, osin henkilökunnan oman sairastelun vuoksi.
 
 Iso kysymys on, miksi suojatoimet purettiin niin aikaisin ja miksi kansalaisia ohjeistettiin luopumaan varovaisuudesta, vaikka epidemia oli vielä täydessä vauhdissa?
 
 On toki totta, että silloin moni (THL mukaan lukien) uskoi, että rokotteiden myötä koronasta päästäisiin eroon. Miksi ei kuitenkaan maltettu odottaa edes paria kuukautta, että rokotteiden teho olisi nähty käytännössä? Tai miksi suojatoimia ei poistettu varovasti vähän kerrallaan ja tilannetta seuraten niin, että tilanteen pahentuessa niitä voitaisiin taas palauttaa? Eikä niin, että mennään "all in" ja poistetaan käytännössä kaikki kerralla ja vielä pääministerin laittaa arvovaltansa peliin niin, että suojatoimien palauttaminen olisi sen jälkeen ollut poliittisesti hyvin vaikeaa, koska silloin pääministeri joutuisi myöntämään olleensa väärässä ja osaltaan vastuussa sen seurauksena lisääntyneistä kuolemista ja sairastumisista.
 
-Toive osoittautuikin turhaksi: Israel oli tuolloin maailman kärkiluokkaa rokotekattavuudessa ja siellä havaittiin jo elokuussa, että vaikka rokotteet toki vähentävät sekä tartuttavuutta että riskiä sairastua vakavasti,
+Ja niinhän siinä kävi, että oletus pandemian päättymisestä rokotteiden myötä osoittautui ylioptimistiseksi:
+Israel oli tuolloin maailman kärkiluokkaa rokotekattavuudessa ja siellä havaittiin jo elokuussa, että vaikka rokotteet toki vähensivät sekä tartuttavuutta että riskiä sairastua vakavasti,
 [ne eivät kuitenkaan yksin riitä pysäyttämään pandemiaa](https://www.newsweek.com/israel-covid-case-breakthrough-data-shows-vaccines-not-pandemic-silver-bullet-1622465).
 Myös sosiaali- ja terveysministeri Krista Kiuru varoitti asiasta 21.8.2021:
 ["Jos nykyinen koronatilanne jatkuu, 80 prosentin rokotuskattavuus tulee suojaamaan ihmisiä kyllä tehohoidon tarpeelta, mutta se ei tule riittämään siihen, että yhteiskunta olisi kaikin puolin auki."](https://www.hs.fi/politiikka/art-2000008195325.html).
-Jopa [THL:n omat mallinnukset varoittivat sairaalahoidon kuormituksen kasvusta, jos suojatoimet puretaan.](https://yle.fi/a/3-12155829). THL:n johtajat jättivät kuitenkin omat mallinnuksensa huomioimatta.
+Jopa [THL:n omat mallinnukset](https://yle.fi/a/3-12155829) varoittivat sairaalahoidon kuormituksen kasvusta, jos suojatoimet puretaan. THL:n johtajat jättivät kuitenkin omat mallinnuksensa huomioimatta.
 
-Kiuru ja STM vastustivat suojatoimien purkamista näin nopeasti, mutta valitettavasti joutuivat pääministerin ja muiden ministereiden jyräämäksi. (["Useat hallituksen ministerit ovat olleet kulisseissa tuskastuneita Kiurun ja STM:n hitauteen Suomen avaamisessa. Marinin kerrotaan joutuneen laittamaan Kiurua kovastikin kulisseissa järjestykseen."](https://www.is.fi/kotimaa/art-2000009330947.html))
+Kiuru ja STM vastustivat suojatoimien purkamista, mutta valitettavasti joutuivat pääministerin ja muiden ministereiden jyräämäksi. (["Useat hallituksen ministerit ovat olleet kulisseissa tuskastuneita Kiurun ja STM:n hitauteen Suomen avaamisessa. Marinin kerrotaan joutuneen laittamaan Kiurua kovastikin kulisseissa järjestykseen."](https://www.is.fi/kotimaa/art-2000009330947.html))
 
 Niinpä hallitus jätti varoitukset ja varovaisuusperiaatteen ylipäätään huomiotta ja poisti suojatoimet. Ihmisiä kannustettiin "elämän normaalisti" ja luopumaan varovaisuudesta. Tämän seurauksena tuhansia suomalaisia kuoli ja sairastui. Ja kuolee ja sairastuu edelleen niin kauan, kuin suojatoimia ei oteta käyttöön. 
+
 Nähtäväksi jää, joutuuko kukaan kantamaan näistä minkäänlaista vastuuta.
 
 ---

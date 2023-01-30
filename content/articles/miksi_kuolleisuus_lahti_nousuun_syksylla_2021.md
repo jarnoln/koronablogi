@@ -20,7 +20,7 @@ Toimituspäällikkö Esa Mäkinen heitti surullisenkuuluisan  "Korona loppuu sii
 
 Jotta asia ei vain jäisi kenellekään kansalaiselle epäselväksi, 24.9. itse pääministeri Sanna Marin tuli julkisuuteen kertomaan, kuinka "korona on pian selätetty" ja että "nyt on oikea aika jokaisen suomalaisen elää normaalia elämää". ["Nyt saa mennä, kokea ja tehdä"](https://www.is.fi/politiikka/art-2000008285520.html). Hän vielä erikseen kannusti liikkeelle "myös niitä, jotka pitkän kurimuksen jälkeen eivät vielä oikein ole uskaltautuneet rokotteista huolimatta". **Eli juuri heitä, jotka olivat tähän saakka toimineet vastuullisesti ja varovaisesti suojatakseen itseään ja lähimmäisiään, itse pääministeri kehotti arvovallallaan luopumaan varoavaisuudestaan.** Pääministeri painotti myös, että suojatoimia puretaan jo ennen 80 % rokotekattavuuden saavuttamista, vastoin STM:n kantaa. Pääministeri kertoi myös odottavansa kovasti THL:ltä uutta maskisuositusta (eli käytännössä maskisuosituksen poistamista).
  
-Yhteenveto: **2021 syksyllä Suomi muutti koronastrategiaansa niin, että käytännössä kaikista suojatoimista luovuttiin. Samalla THL:n asiantuntijat, median edustajat ja itse pääministeri julistivat, että vaara on ohi: on aika luopua varovaisuudesta ja palata normaaliin elämään.** Kun hallitus luopui suojatoimista ja ihmiset varovaisuudesta uskoessaan vaaran olevan ohi, tartunnat levisivät kuin kulovalkea.
+Yhteenveto: **2021 syksyllä Suomi muutti koronastrategiaansa niin, että käytännössä kaikista suojatoimista luovuttiin. Samalla THL:n asiantuntijat, median edustajat ja itse pääministeri julistivat, että vaara on ohi: on aika luopua varovaisuudesta ja palata normaaliin elämään.** Kun hallitus luopui suojatoimista ja kansalaiset varovaisuudesta uskoessaan vaaran olevan ohi, tartunnat lähtivät leviämään kulovalkean tavoin.
 
 Seuraukset näkyivät pian: sairastumiset ja kuolemat lähtivät nopeaan nousuun vuoden 2021 lopulla ja vuodesta 2022 tulikin sitten ylivoimasesti pandemian synkin vuosi. THL:n arvion mukaan [2022 koronaan kuoli lähes 5000 suomalaista, minkä lisäksi yli 2000 kuolemassa korona oli myötävaikuttavana tekijänä](https://www.is.fi/kotimaa/art-2000009330947.html).
 
@@ -42,7 +42,8 @@ Jopa [THL:n omat mallinnukset](https://yle.fi/a/3-12155829) varoittivat sairaala
 
 Kiuru ja STM vastustivat suojatoimien purkamista, mutta valitettavasti joutuivat pääministerin ja muiden ministereiden jyräämäksi. (["Useat hallituksen ministerit ovat olleet kulisseissa tuskastuneita Kiurun ja STM:n hitauteen Suomen avaamisessa. Marinin kerrotaan joutuneen laittamaan Kiurua kovastikin kulisseissa järjestykseen."](https://www.is.fi/kotimaa/art-2000009330947.html))
 
-Niinpä hallitus jätti varoitukset ja varovaisuusperiaatteen ylipäätään huomiotta ja poisti suojatoimet. Ihmisiä kannustettiin "elämän normaalisti" ja luopumaan varovaisuudesta. Tämän seurauksena tuhansia suomalaisia kuoli ja sairastui. Ja kuolee ja sairastuu edelleen niin kauan, kuin suojatoimia ei oteta käyttöön. 
+Hallitus jätti siis varoitukset ja varovaisuusperiaatteen ylipäätään huomiotta ja poisti suojatoimet nopeassa tahdissa.
+Sen lisäksi kansalaisille vakuutettiin pandemian olevan päättymässä ja heitä kannustettiin "elämään normaalisti" ja luopumaan varovaisuudesta. Seurauksena tuhansia suomalaisia kuoli ja sairastui. Ja kuolee ja sairastuu edelleen niin kauan, kuin suojatoimia ei oteta käyttöön. 
 
 Nähtäväksi jää, joutuuko kukaan kantamaan näistä minkäänlaista vastuuta.
 

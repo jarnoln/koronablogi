@@ -53,5 +53,6 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 2.12.2022 [Kasvosuojukset voivat auttaa ehkäisemään ilmavälitteisten infektioiden leviämistä](https://www.sttinfo.fi/tiedote/kasvosuojukset-voivat-auttaa-ehkaisemaan-ilmavalitteisten-infektioiden-leviamista?publisherId=3747&releaseId=69959243)
 * Kasvosuojusten vaikutuksesta ilmavälitteisten hengitystieinfektioiden ehkäisemisessä on valmistunut toistaiseksi laajin aiheesta tehty satunnaistettuja kokeita koskeva tutkimus.
 * Sen mukaan kasvosuojussuosituksesta yhdessä muiden suojatoimien kanssa on hyötyä niin koronavirus- kuin muiden hengitystieinfektioiden leviämisen ehkäisyssä väestössä.
+* –Tulokset tukevat kansainvälistä tieteellistä konsensusta kasvosuojusten hyödyistä koronaviruksen ja muiden ilmavälitteisten tautien ehkäisyssä, kertoo tutkija Hanna Ollila Helsingin yliopistolta.
 * Muut uutiset:
   * HS:[Lähes 400 000 ihmisen tutkimus: Kasvomaskit voivat auttaa ehkäisemään ilma­välitteisten infektioiden leviämistä](https://www.hs.fi/tiede/art-2000009243109.html)

@@ -33,8 +33,8 @@ Koronaan on kuollut Suomessa tällä hetkällä lähes 9000 ja koko maailmassa l
 
 <!-- 02.10.2022 [My across-the-hall neighbor died of a stroke last night. She’d had Covid three times; the third time was two weeks ago. She was 28.](https://twitter.com/FemiYahtzee/status/1576547039978348545) -->
 
-18.10.2022 [Satakunnan kasvatin unelmasiirto kariutui koronan jälkioireisiin – "Mitä jos en enää koskaan pysty urheilemaan?”](https://www.satakunnankansa.fi/urheilu/art-2000009143848.html?share=b279cc73bba497dc67694067cfecc689)
-* Lentopalloilija Iina Andrikopoulou oli jo sopinut siirron ulkomaille, mutta se kariutui terveysongelmien vuoksi.
+<!-- 18.10.2022 [Satakunnan kasvatin unelmasiirto kariutui koronan jälkioireisiin – "Mitä jos en enää koskaan pysty urheilemaan?”](https://www.satakunnankansa.fi/urheilu/art-2000009143848.html?share=b279cc73bba497dc67694067cfecc689)
+* Lentopalloilija Iina Andrikopoulou oli jo sopinut siirron ulkomaille, mutta se kariutui terveysongelmien vuoksi. -->
 
 25.10.2022 [Pitkäkestoinen covid vei perheenisän 93 päiväksi sairaalaan – Vaimo synnytti tällä välin, puoliso päätyi elinsiirtolistalle: ”Keuhkoni vaurioituivat”](https://seura.fi/terveys/terveystarinat/pitkakestoinen-covid-vei-perheenisan-93-paivaksi-sairaalaan-vaimo-synnytti-talla-valin-olen-elinsiirtopotilaslistalla-silla-tehohoidon-aikana-keuhkoni-vaurioituivat-pahasti/)
 

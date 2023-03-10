@@ -56,3 +56,5 @@ Edelleen törmää usein väitteeseen, että hengityssuojainten käytöstä ei o
 * –Tulokset tukevat kansainvälistä tieteellistä konsensusta kasvosuojusten hyödyistä koronaviruksen ja muiden ilmavälitteisten tautien ehkäisyssä, kertoo tutkija Hanna Ollila Helsingin yliopistolta.
 * Muut uutiset:
   * HS:[Lähes 400 000 ihmisen tutkimus: Kasvomaskit voivat auttaa ehkäisemään ilma­välitteisten infektioiden leviämistä](https://www.hs.fi/tiede/art-2000009243109.html)
+
+10.3.2023 [Here’s Why the Science Is Clear That Masks Work](https://www.nytimes.com/2023/03/10/opinion/masks-work-cochrane-study.html)

@@ -17,8 +17,8 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 * Pohjanmaalla sairauspoissaolot lähentelivät keväällä pahimmillaan kymmentä prosenttia.
 * Terveydenhuollon ja erikoissairaanhoidon henkilöstö on joutunut toimimaan lähes kaksi ja puoli vuotta jatkuneessa poikkeustilanteessa.
 
-13.7.2022 [Husin sairaaloissa eletään ennen­näkemätöntä kriisikesää – Sairaalan johto vahvistaa tilanteen erittäin vakavaksi
-* Husin työntekijöiden mukaan työntekijäpula vaikuttaa jo potilasturvallisuuteen. Husin johto vahvistaa erittäin vaikean tilanteen, mutta uskoo potilasturvallisuuden säilyvän.](https://www.hs.fi/kaupunki/art-2000008931042.html)
+13.7.2022 [Husin sairaaloissa eletään ennen­näkemätöntä kriisikesää – Sairaalan johto vahvistaa tilanteen erittäin vakavaksi]((https://www.hs.fi/kaupunki/art-2000008931042.html))
+* Husin työntekijöiden mukaan työntekijäpula vaikuttaa jo potilasturvallisuuteen. Husin johto vahvistaa erittäin vaikean tilanteen, mutta uskoo potilasturvallisuuden säilyvän.
 
 13.7.2022 [Potilaat odottavat jopa vuorokausia HUSin päivystyksessä pääsemättä eteenpäin – paha ruuhka syntynyt helteistä ja hoitajapulasta](https://yle.fi/uutiset/3-12019218)
 

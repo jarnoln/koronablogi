@@ -130,6 +130,11 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 05.09.2022 [Long-term cardiac pathology in individuals with mild initial COVID-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
 
+05.09.2022 [Koronaa ei kannata sairastaa uudestaan](https://www.laakarilehti.fi/terveydenhuolto/koronaa-ei-kannata-sairastaa-uudestaan/?public=0d65ca98a36bfcc7783d3f1ec1de0bce)
+* Uusintainfektiot lisäävät niin kuoleman kuin sairaalahoitoon joutumisen riskiä pitkään akuutin taudin jälkeen, kertoo vertaisarvioimaton amerikkalaistutkimus.
+* Tutkimuksessa havaittiin, että vähintään kahdesti koronan sairastaneilla oli kaksinkertainen yleinen kuolemanriski verrattuna niihin, jotka eivät olleet sairastaneet koronaa. Lisäksi havaittiin, että heillä oli kolminkertainen riski joutua sairaalahoitoon kuuden kuukauden sisällä koronan sairastamisesta.
+* Uusintainfektiot näyttivät lisäävän myös esimerkiksi sydän- ja keuhko-ongelmia, munuaisten toimintahäiriön riskiä, tyypin 2 diabetesta ja neurologisia ongelmia
+
 14.09.2022 [Pitkittyneet hermosto-oireet joskus hankalia: Korona heikentää tutkitusti aivoterveyttä](https://www.aivoliitto.fi/aivoterveys/artikkelit/pitkittyneet-hermosto-oireet-joskus-hankalia-korona-heikentaa-tutkitusti-aivoterveytta/#a26a596a)
 
 18.09.2022 [COVID-19 increases risk of developing Alzheimer's by 50-80% in older adults](https://www.news-medical.net/news/20220918/COVID-19-increases-risk-of-developing-Alzheimers-by-50-8025-in-older-adults.aspx)
@@ -178,6 +183,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 28.10.2022 [Koronatartunta voi tuhota aivosolujen välisiä yhteyksiä](https://www.verkkouutiset.fi/a/koronatartunta-voi-tuhota-aivosolujen-valisia-yhteyksia/)
 
+10.11.2022 [Repeat COVID is riskier than first infection, study finds](https://www.reuters.com/business/healthcare-pharmaceuticals/repeat-covid-is-riskier-than-first-infection-study-finds-2022-11-10/)
+
 15.11.2022 [You May Be Early, but You're Not Wrong: A Covid Reading List](https://jessicawildfire.substack.com/p/you-may-be-early-but-youre-not-wrong)
 * List of research links and summaries. Some key points:
   * Anyone can get Long Covid.
@@ -212,3 +219,8 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 25.01.2023 [The covid-19 virus gets into the brain – what does it do there?](https://www.newscientist.com/article/2356287-the-covid-19-virus-gets-into-the-brain-what-does-it-do-there/)
 * While neurological conditions are most likely to arise soon after infection, people who have had covid-19 remain at and elevated risk of developing one for up to two years afterwards.
+
+03.03.2023 [One-Year Adverse Outcomes Among US Adults With Post–COVID-19 Condition vs Those Without COVID-19 in a Large Commercial Insurance Database](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2802095)
+* During follow-up, the PCC cohort experienced increased health care utilization for a wide range of adverse outcomes: cardiac arrhythmias (relative risk [RR], 2.35; 95% CI, 2.26-2.45), pulmonary embolism (RR, 3.64; 95% CI, 3.23-3.92), ischemic stroke (RR, 2.17; 95% CI, 1.98-2.52), coronary artery disease (RR, 1.78; 95% CI, 1.70-1.88), heart failure (RR, 1.97; 95% CI, 1.84-2.10), chronic obstructive pulmonary disease (RR, 1.94; 95% CI, 1.88-2.00), and asthma (RR, 1.95; 95% CI, 1.86-2.03).
+* The PCC cohort also experienced increased mortality, as 2.8% of individuals with PCC vs 1.2% of controls died, implying an excess death rate of 16.4 per 1000 individuals.
+* In this case-control study of 13 435 US adults with PCC and 26 870 matched adults without COVID-19, individuals with PCC experienced elevated rates of adverse health events and mortality over the 12-month follow-up period, after accounting for risk factors present pre–COVID-19. To our knowledge, this analysis is the largest national study of commercially insured individuals with PCC including a full year of follow-up.

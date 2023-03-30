@@ -8,6 +8,10 @@ Koronaan on kuollut Suomessa tällä hetkällä lähes 9000 ja koko maailmassa l
 04.04.2021 [Virve Rissanen, 33, sairasti vuosi sitten melko lievän koronan, mutta sitten alkoivat todella erikoiset oireet, joille ei näy loppua](https://www.aamulehti.fi/koronavirus/art-2000007897527.html)
 * Virve Rissanen sairastui koronaan noin vuosi sitten. Erikoiset oireet ovat vaivanneet häntä siitä asti. Esimerkiksi liikunta aiheuttaa tunteen, että tauti alkaa alusta.
 
+27.11.2021 [Korona tuhosi munuaiset – nyt pararatsastaja Suvi Javanainen, 41, on elinsiirtojonossa: ”On vaikea ymmärtää, miksi minulle kävi näin”](https://anna.fi/hyvinvointi/terveys/korona-tuhosi-munuaiset-nyt-pararatsastaja-suvi-javanainen-41-on-elinsiirtojonossa-on-vaikea-ymmartaa-miksi-minulle-kavi-nain)
+* Korona vei neljä ammattia hankkineen Suvi Javanaisen työkyvyttömyyseläkkeelle ja elinsiirtojonoon.
+* Suvi soitti koronapuhelimeen ja pyysi riskiryhmäläisenä pääsyä testeihin, mutta viesti oli selvä: jos pystyt hengittämään, pysy kotona. Vaikka olo heikkeni, ohje oli sama. Hänet otettiin tosissaan vasta kahdeksan viikon kuluttua, kun kunto oli täysin romahtanut.
+
 30.12.2021 [Koronarokotuksia vastustanut vantaalaismies taisteli hengestään – "Turpaan tuli, sain elämän ja kuoleman opetuksen"](https://www.vantaansanomat.fi/paikalliset/4420557)
 * Vantaalainen Jeppe Isberg, 55, kuului vielä lokakuussa koronarokotuksiin kriittisesti suhtautuvien joukkoon. Ei kuulu enää.
 * "Pitäisi tehdä selväksi, että teholla perusterveet ihmiset tekevät kuolemaa."

@@ -153,3 +153,6 @@ Yksi Suomen koronastrategian erikoisuuksista oli, että se sijaan, että tavoitt
 
 03.01.2023 [Mehiläisen data paljastaa: Sairauspoissaolot ennätyskorkealla – myös sote-kriisi kuormittaa työterveyttä](https://www.mtvuutiset.fi/artikkeli/mehilaisen-data-paljastaa-sairauspoissaolot-ennatyskorkealla-myos-sote-kriisi-kuormittaa-tyoterveytta/8603724)
 * . Terveysjätti Mehiläisen mukaan sairauspoissaoloista kertyi päättyneenä vuonna jopa 10,5 prosenttia enemmän poissaolopäiviä työntekijää kohden kuin edellisvuonna.
+
+26.03.2023 [HUS alkaa ohjata lapsipotilaita Tanskaan sydänleikkausjonojen purkamiseksi jo ensi viikolla: "Olen tilanteesta hyvin pahoillani"](https://www.mtvuutiset.fi/artikkeli/hus-alkaa-ohjata-lapsipotilaita-tanskaan-sydanleikkausjonojen-purkamiseksi-jo-ensi-viikolla-olen-tilanteesta-hyvin-pahoillani/8662208?utm_source=dlvr.it&utm_medium=twitter#gs.tprxm5)
+- [twiitti](https://twitter.com/MTVUutiset/status/1639918509470920709)

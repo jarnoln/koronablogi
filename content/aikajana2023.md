@@ -56,3 +56,12 @@ title: 2023 Aikajana
 * Kuolleita oli noin 63 000, mikä on eniten vuoden 1944 jälkeen, ja lähes 6 000 enemmän kuin vuonna 2021.
 * Korona on se pääsyy kuolemien määrän kasvuun. Noin 20 prosenttia selittyy ikääntyneellä väestöllä, ja loput selittyy joko suoraan tai epäsuoraan koronatartuntojen aiheuttamilla kuolemilla, THL:n tutkimusprofessori Mika Gissler sanoo.
 
+15.03.2023 International Long Covid Awareness Day
+
+15.03.2023 ["Erittäin haitallinen potilaille": Husin long covid -linja mitätöi potilaita, kriitikot sanovat – Yhdestä asiasta on yksimielisyys](https://www.helsinginuutiset.fi/paikalliset/5790973)
+* Roineen mukaan näkökulma on toiminnallinen, mikä poikkeaa maailman johtavien terveysviranomaisten näkemyksestä.
+* Hiljattain julkaistussa metatutkimuksessa (tutkimuskatsauksessa) ei löydetty tukea käsitykselle, että long covid olisi toiminnallinen häiriö, vaikka se oli tutkijoiden hypoteesi eli ennakko-oletus.
+* – On useita syitä siihen, miksi toiminnallisen häiriön näkökulma on erittäin haitallinen potilaille, Roine sanoo.
+* Husin lähestymistapa on potilasjärjestön mukaan johtanut siihen, että sairautta pidetään Suomessa toiminnallisena häiriönä. Tämä vaikeuttaa hoitoon pääsyä.
+* Myös Risto O. Roine kuitenkin tietää tapauksia, joissa potilaat ovat jääneet vaille polikliinisiä sairaalatutkimuksia. – Sitä perustellaan sillä, että toiminnallinen häiriö ei tarvitse diagnostiikkaa eikä hoitoa. Olen itse nähnyt lähetteitä palautettavan keskussairaaloista paljon juuri tällä perusteella.
+* Tutkimusten lisäksi long covid -potilaat ovat pääsääntöisesti jääneet ilman sairauspäivärahoja ja kuntoutustukia.

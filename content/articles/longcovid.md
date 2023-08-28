@@ -224,3 +224,12 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * During follow-up, the PCC cohort experienced increased health care utilization for a wide range of adverse outcomes: cardiac arrhythmias (relative risk [RR], 2.35; 95% CI, 2.26-2.45), pulmonary embolism (RR, 3.64; 95% CI, 3.23-3.92), ischemic stroke (RR, 2.17; 95% CI, 1.98-2.52), coronary artery disease (RR, 1.78; 95% CI, 1.70-1.88), heart failure (RR, 1.97; 95% CI, 1.84-2.10), chronic obstructive pulmonary disease (RR, 1.94; 95% CI, 1.88-2.00), and asthma (RR, 1.95; 95% CI, 1.86-2.03).
 * The PCC cohort also experienced increased mortality, as 2.8% of individuals with PCC vs 1.2% of controls died, implying an excess death rate of 16.4 per 1000 individuals.
 * In this case-control study of 13 435 US adults with PCC and 26 870 matched adults without COVID-19, individuals with PCC experienced elevated rates of adverse health events and mortality over the 12-month follow-up period, after accounting for risk factors present pre–COVID-19. To our knowledge, this analysis is the largest national study of commercially insured individuals with PCC including a full year of follow-up.
+
+30.03.2023 [Ortostaattinen takykardia yleinen pitkäkestoisessa COVID-19-taudissa](https://www.laakarilehti.fi/tieteessa/laaketieteen-maailmasta/ortostaattinen-takykardia-yleinen-pitkakestoisessa-covid-19-taudissa/?public=9bce14acf571f59157cee5a17087e743)
+* Pitkäkestoiseen COVID-19-tautiin sairastuu arviolta 10–20 % koronainfektion saaneista.
+
+03.04.2023 [Danish study finds sharp rise in extended sick leave after COVID infection ](https://www.cidrap.umn.edu/covid-19/danish-study-finds-sharp-rise-extended-sick-leave-after-covid-infection)
+* Danish researchers today reported a threefold increase in extended sick leave, defined as lasting longer than 30 days, in people who had recovered from COVID, compared to workers who weren't infected.
+
+04.04.2023 [COVID-19 Infection Accelerates the Progression of Dementia](https://neurosciencenews.com/covid-19-dementia-22938/)
+* Summary: Following COVID-19 infection, all subtypes of dementia, irrespective of a person’s previous dementia type, behave like rapidly progressive dementia.

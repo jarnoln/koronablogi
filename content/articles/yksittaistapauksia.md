@@ -74,3 +74,16 @@ Koronaan on kuollut Suomessa tällä hetkällä lähes 9000 ja koko maailmassa l
 
 04.03.2023 [Helena Lindgrenin kunto romahti Farmin kuvauksissa – kertoo nyt luovuttamisensa dramaattiset taustat](https://www.is.fi/viihde/art-2000009425154.html)
 * Pitkään kestänyt korona verotti Helena Lindgrenin voimia fyysisessä tehtävässä.
+
+28.03.2023 [Silja, 22, sairastui koronaan ja oudot jalkakivut alkoivat – Pian lääkäri käski äidin kiireellä sairaalaan: ”Jos hän olisi minun lapseni”](https://www.iltalehti.fi/terveysuutiset/a/caa82902-f937-4d5e-ac16-d904710ee2b7)
+* Silja Lindberg, 22, sairastui vuoden 2022 helmikuussa lievään koronaan.
+* Tilanne alkoi heiketä toukokuussa, kun hän kävi saunassa.
+* – Minua elvytettiin kotona, ambulanssissa ja sairaalassa yhteensä 52 minuuttia.
+* Lindberg vietiin sairaalassa nopeasti avosydänleikkaukseen, jossa poistettiin isompia verihyytymiä.
+* Leikkauksen jälkeen Silja kytkettiin ECMO-koneeseen, jonka kautta verta hapetettiin koneellisesti.
+* Jalka amputoitiin polven kohdalta. 
+* Lindberg vietti sairaalassa kaikkiaan kolme kuukautta, joista seitsemän viikkoa teho-osastolla.
+* Lindberg on tehnyt alkuvaiheen tutkimuksista potilasvahinkoilmoituksen, sillä jalkaa ei tutkittu veritulpan osalta ultraäänellä eikä verikokeita otettu.
+
+06.04.2023 [Pekka Vennamo sairastui rajusti: menetti liikuntakykynsä ja laihtui 30 kiloa](https://www.is.fi/viihde/art-2000009500306.html)
+* Korona vei Pekka Vennamon viideksi kuukaudeksi hoitoon ja käveleminen piti opetella uudelleen.

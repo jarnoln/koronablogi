@@ -1,6 +1,7 @@
 ---
 title: Länsi ja itä
 date: 2022-10-01
+draft: true
 ---
 
 Monelle vaikuttaisi olevan yllätys, että länsimaat (kuten Euroopan Unioni, Yhdysvallat, Iso-Britannia ja Kanada)

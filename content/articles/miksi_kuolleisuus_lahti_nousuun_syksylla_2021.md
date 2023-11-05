@@ -53,4 +53,5 @@ Nähtäväksi jää, joutuuko kukaan kantamaan näistä minkäänlaista vastuuta
 
 Epilogi: Viimeistään lokakuun lopussa oli selvää, että suojatoimista luopuminen oli ollut valtava virhe. Siitä seurasi uusi aalto ja koronapotilaiden määrä lisääntyi sairaaloissa niin paljon, että esimerkiksi [sydänleikkauksia jouduttiin siirtämään](https://yle.fi/a/3-12155829), koska teho-osastoilla ei ollut tilaa. Suojatoimia ei siitä huolimatta palautettu, koska se olisi ollut liian monelle poliitikolle ja asiantuntijalle valtava arvovaltatappio. Sama koski myös ainakin MTV:tä ja Helsingin Sanomia, jotka olivat niinikään asettaneet arvovaltansa pandemian pikaisen päättymisen taakse, joten niilläkään ei ollut juuri varaa haastaa poliitikkoja tai asiantuntijoita, kun niin ei käynytkään.
 
-*Artikkeli on pohjautui alunperin [tähän Twitter-ketjuun](https://twitter.com/jarnoln/status/1618938565018398720).*
+*Artikkeli pohjautuu [tähän Twitter-ketjuun](https://twitter.com/jarnoln/status/1618938565018398720).*
+*Tästä on versio myös Uuden Suomen [Puheenvuoro-blogialustalla](https://puheenvuoro.uusisuomi.fi/jln/miksi-kuolleisuus-lahti-jyrkkaan-nousuun-syksylla-2021/)*

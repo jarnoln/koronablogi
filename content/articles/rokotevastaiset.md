@@ -1,5 +1,5 @@
 ---
-title: Rokotedenialistit
+title: Rokotevastaiset
 date: 2023-11-07
 ---
 

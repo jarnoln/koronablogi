@@ -3,6 +3,7 @@ title: Twiittejä
 ---
 
 
+
 [2023-03-27](https://twitter.com/jarnoln/status/1640311313132838913)
 Voiko Suomea enää kutsua hyvinvointivaltioksi?
 Päivystykset olleet tukossa jo pitkään ja nyt emme kykene hoitamaan edes omia sairaita lapsiamme. 
@@ -16,6 +17,10 @@ Jahas, eilisen #LongCovidAwarenessDay:n kunniaksi saikin lukea, miten HUS pitä�
 [2023-02-18](https://twitter.com/jarnoln/status/1626993238996316160)
 Vielä tässä vaiheessakin pandemiaa törmää toisinaan väitteisiin, että hengityssuojaimista ei olisi hyötyä koronatartuntojen ehkäisyssä. Tämä on selkeästi vastoin arkijärkeä, fysiikkaa, käytännön kokemuksia ja tieteellisiä tutkimuksia. Tässä läjä jälkimmäisiä: 🧵
 1/13
+
+[2023-02-03](https://twitter.com/jarnoln/status/1621552728081108992)
+4.9.2021 THL:n Salminen julisti, että pandemian loppusuora häämöttää. Vähän sen jälkeen koronakuolemat lähtivät jyrkkään nousuun, mikä jatkuu tänäkin päivänä. Tuli siis varsin pitkä loppusuora ja suunnan perusteella kyseessä on ennemminkin kiihdytyskaista.
+https://yle.fi/a/3-12085688
 
 [27.01.2023] (https://twitter.com/jarnoln/status/1618938565018398720)
 ”Elinajanodotteen perusteella kuolleisuus lähti Suomessa nousuun syksyllä 2021. Viimeisen puolentoista vuoden aikana naisten elinajanodote on laskenut 0,9 vuotta ja miesten 0,6 vuotta”
@@ -35,3 +40,6 @@ https://yle.fi/a/3-12085688
 * Kirsikkana kakun päällä Aamulehti moittii poliitikkoja siitä, että ovat kehdanneet ottaa kantaa asiaan. Juu, parempi jättää terveyspolitiikkakannanotot toimittajien tehtäväksi. 5/5
 
 [02.12.2022](https://twitter.com/jarnoln/status/1598643354752925696) "–Tulokset tukevat kansainvälistä tieteellistä konsensusta kasvosuojusten hyödyistä koronaviruksen ja muiden ilmavälitteisten tautien ehkäisyssä" Eli hyödyistä on tieteellinen konsensus. Maskien väittäminen hyödyttömiksi on siis tiedevastaista disinformaatiota. #koronaeioleohi https://twitter.com/AnnaRotkirch/status/1598601126026289153
+
+[03.09.2022](https://twitter.com/jarnoln/status/1575905486993440769)
+Otto Helve sujahti jatkamaan Mika Salmisen työtä niin sujuvasti, että nimeä ja naamaa lukuunottamatta eroa ei huomaa. Alati optimistinen Salminenkaan ei juuri koskaan ollut huolissaan, vaan ennusteli koko epidemian ajan, että epidemia on ihan kohta ohi. Esimerkkejä: 1/x🧵

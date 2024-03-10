@@ -233,3 +233,12 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 04.04.2023 [COVID-19 Infection Accelerates the Progression of Dementia](https://neurosciencenews.com/covid-19-dementia-22938/)
 * Summary: Following COVID-19 infection, all subtypes of dementia, irrespective of a person’s previous dementia type, behave like rapidly progressive dementia.
+
+27.12.2023 [Every COVID Infection Increases Your Risk of Long COVID, Study Warns](https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns)
+
+29.02.2024 [Cognition and Memory after Covid-19 in a Large Community Sample](https://www.nejm.org/doi/full/10.1056/NEJMoa2311330)
+
+07.03.2024 [Tutkimus: koronatartunta laskee älykkyysosamäärää](https://www.is.fi/kotimaa/art-2000010274606.html) ([twiitti](https://twitter.com/iltasanomat/status/1765668745702486131))
+* Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
+* Tehohoitoon joutuneilla älykkyysosamäärän lasku oli 9 pistettä, pitkittynyttä koronatautia sairastaville 6 pistettä ja lievänä sairastaneilla 3 pistettä
+

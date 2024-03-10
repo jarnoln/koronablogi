@@ -57,6 +57,8 @@ https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
 2022-03-08 [Korona tuhoaa aivoja vuosilla, tutkijat havaitsivat – Tutkimuksessa verrattiin aivokuvia ennen ja jälkeen koronatartunnan](https://tekniikanmaailma.fi/korona-tuhoaa-aivoja-vuosilla-tutkijat-havaitsivat-tutkimuksessa-verrattiin-aivokuvia-ennen-ja-jalkeen-koronatartunnan/)
 
+2022-03-17 [Koronapotilaiden määrä sairaalassa on noussut yhä – THL:n Salminen: Läpi Euroopan on tehty johtopäätös, että koronan kanssa on tultava toimeen](https://yle.fi/a/3-12363055)
+
 2022-04-14 [THL:n yleinen maskisuositus poistuu](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371)
 
 2022-04-27 [Päättäjät halusivat vähätellä koronapandemiaa ja pantata tietoa kansalaisilta, paljastaa uusi tutkimus](https://yle.fi/uutiset/3-12414931)
@@ -436,6 +438,9 @@ https://twitter.com/yleuutiset/status/1564822284052975616
 * Puumainen viittasi tuoreisiin tutkimuksiin, joiden mukaan joka kymmenellä koronainfektioon sairastuneilla on pidempiaikaista oireilua, ja noin joka viides kärsii oireista vielä vuoden jälkeen.
 
 21.12.2022 [“Valtava määrä kiinalaisia kuolee muutaman kuukauden sisällä” – Kiinan koronaepidemia räjähti, asiantuntijalta karu ennuste](https://yle.fi/a/74-20009826)
+
+21.12.2022 ["Jatkuvan korona-artikkelin päivittäminen päättyy tähän"](https://yle.fi/a/3-11942036)
+* Yle lopettaa tämän seurannan päivittämisen, koska koronatilanne ei edellytä enää jatkuvaa seuraamista. 
 
 22.12.2022 [Waltterin koululla on sairaana yli 500 oppilasta – hyvinvointikeskuksen puhelinpalvelu on edelleen ruuhkautunut](https://www.warkaudenlehti.fi/paikalliset/5610845)
 * Waltterin koululta oli jouluviikon keskiviikkona poissa yli 70 prosenttia oppilaista, mikä tarkoittaa noin 800 oppilaan porukassta reilusti yli 500 lasta.

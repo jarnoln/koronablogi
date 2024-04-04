@@ -71,7 +71,11 @@ title: 2023 Aikajana
 * Kuolleisuuden kasvuun vaikutti kuolleisuuden lisääntyminen erityisesti koronavirustautiin. 
 * Koronavirustautiin menehtyi 4 349 henkilöä eli liki 7 % kuolleista, mikä on liki 3 400 enemmän kuin edellisenä vuonna.
 * Lisäksi covid-19 oli mukana vaikuttamassa yli 2 800 henkilön kuolemaan myötävaikuttavana kuolemansyynä.
+* Koronavirustautiin kuoli kaksi alle 15-vuotiasta lasta.
 * Kuolleisuus kasvoi myös muistisairauksiin sekä sydän- ja verenkiertoelinten sairauksiin.
+
+5.12.2023 [Tilastokeskus: Koronavirustauti oli suurin syy kuolleisuuden kasvuun viime vuonna](https://www.aamulehti.fi/kotimaa/art-2000010036484.html)
+* Koronaan kuolleita oli moninkertaisesti enemmän kuin kahtena edellisenä vuonna yhteensä.
 
 27.12.2023 [Every COVID Infection Increases Your Risk of Long COVID, Study Warns](https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns)
 

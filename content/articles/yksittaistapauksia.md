@@ -3,7 +3,7 @@ title: Yksittäistapaukset
 date: 2023-03-10
 ---
 
-Koronaan on kuollut Suomessa tällä hetkällä lähes 9000 ja koko maailmassa lähes 7 miljoonaa. Pitkäaikaisia oireita sairastavien tarkkaa määrää ei tiedetä, mutta arvioden mukaan heitä on Suomessa jo yli 100 000. Luvut ovat järkyttävän suuria ja on vaikea kuvitella, että jokaisen takana on oikea ihmiskohtalo. Siksi tässä joitain uutisia ihmisistä, joiden kohtaaminen viruksen kanssa ei mennyt hyvin. Monen urheilijan hyvin alkanut ura on katkennut koronatartuntaan, mikä osoittaa selkeästi virheelliseksi käsityksen, ettei koronatartunta olisi vaarallinen terveille ja hyväkuntoisille.
+Koronaan on kuollut Suomessa tällä hetkellä lähes 9000 ja koko maailmassa lähes 7 miljoonaa. Pitkäaikaisista oireista kärsivien tarkkaa määrää ei tiedetä, mutta arvioiden mukaan heitä on Suomessa jo yli 100 000. Luvut ovat järkyttävän suuria ja on vaikea kuvitella, että jokaisen takana on oikea ihmiskohtalo. Siksi tässä joitain uutisia ihmisistä, joiden kohtaaminen viruksen kanssa ei mennyt hyvin. Monen urheilijan hyvin alkanut ura on katkennut koronatartuntaan, mikä osoittaa selkeästi virheelliseksi käsityksen, ettei koronatartunta olisi vaarallinen, jos on nuori, terve ja hyväkuntoinen.
 
 04.04.2021 [Virve Rissanen, 33, sairasti vuosi sitten melko lievän koronan, mutta sitten alkoivat todella erikoiset oireet, joille ei näy loppua](https://www.aamulehti.fi/koronavirus/art-2000007897527.html)
 * Virve Rissanen sairastui koronaan noin vuosi sitten. Erikoiset oireet ovat vaivanneet häntä siitä asti. Esimerkiksi liikunta aiheuttaa tunteen, että tauti alkaa alusta.
@@ -87,3 +87,10 @@ Koronaan on kuollut Suomessa tällä hetkällä lähes 9000 ja koko maailmassa l
 
 06.04.2023 [Pekka Vennamo sairastui rajusti: menetti liikuntakykynsä ja laihtui 30 kiloa](https://www.is.fi/viihde/art-2000009500306.html)
 * Korona vei Pekka Vennamon viideksi kuukaudeksi hoitoon ja käveleminen piti opetella uudelleen.
+
+22.04.2023 [Aviomies kuoli koronaan – Näin Sanna, 46, selvisi arjestaan lasten, firman ja lainojen kanssa, vaikka tuska oli musertaa hänet](https://seura.fi/ilmiot/tarinat/aviomies-kuoli-koronaan-sanna-selvisi-lasten-firman-ja-lainojen-kanssa-kuoleman-jalkeen/)
+* Elokuussa 2021 koronavirus saavutti Aholoiden perheen. Mika oli perusterve 47-vuotias mies, mutta hänen tautinsa istui sitkeässä.
+* Kun kuumetta oli jatkunut kolme päivää lisää, eikä Mika pysynyt enää oikein pystyssä, hän myöntyi vihdoin lähtemään päivystykseen.
+* Kuudentena sairaalapäivänä Sanna oli hevostalleilla seuratapaamisessa, kun hänen puhelimensa soi. Siellä oli anestesialääkäri, joka kertoi sen pahimman kaikista. Mika oli menehtynyt.
+* Mikalla ja perheellä ei ollut ollut koronarokotuksia. He eivät olleet rokotevastaisia, mutta he olivat olleet hieman epävarmoja rokotteen turvallisuuden suhteen.
+

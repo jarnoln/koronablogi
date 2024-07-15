@@ -35,6 +35,13 @@ title: 2024 Aikajana
 * Suomesta ei ole ajantasaista tietoa, mutta esimerkiksi Walesin data kertoo, että alkuvuonna 2024 jopa 71 prosenttia sairaalassa hoidettavista koronainfektioista oli saatu sairaalassa.
 * Ignaz Semmelweisin aikakaudella käsienpesu kohtasi suurta vastustusta, mutta osoittautui henkiä pelastavaksi. Nykypäivänäkin terveydenhuollon on uskallettava haastaa tiedon karttuessa vanhat totuudet.
 
+17.5.2024 [Sairaalan pitää olla turvallinen](https://www.laakarilehti.fi/mielipide/sairaalan-pitaa-olla-turvallinen/?public=3bcbb9c57f804585592e55de3ce56f08)
+* Marras-joulukuussa suomalaisia kuoli koronaan yhtä paljon kuin epidemian kahtena ensimmäisenä vuonna yhteensä.
+* Huolestuttavan suuri osa vakavista tartunnoista näyttää jäljittyvän sairaaloihin.
+* Terveydenhuolto on päästänyt riskin unohtumaan.
+* Potilaiden on voitava luottaa siihen, ettei saapuminen sairaalaan aiheuta lisää sairauksia.
+* Suojautumisen olisi hyvä olla arkipäivää leikkaussalien ulkopuolellakin.
+
 22.5.2024 [Masks and respirators for prevention of respiratory infections: a state of the science review](https://pubmed.ncbi.nlm.nih.gov/38775460/)
 * Our synthesis of evidence from over 100 published reviews and selected primary studies, including re-analyzing contested meta-analyses of key clinical trials, produced seven key findings. 
 * First, there is strong and consistent evidence for airborne transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and other respiratory pathogens.

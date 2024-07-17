@@ -72,3 +72,10 @@ title: 2024 Aikajana
 ([twiitti](https://x.com/NIH/status/1811785285786820722))
 
 13.7.2024 [Korona jyllää Suomessa](https://www.iltalehti.fi/terveysuutiset/a/6d0a11b3-9daf-4577-977a-24b26322b8ae) ([twiitti](https://x.com/iltalehti_fi/status/1811989144429584410))
+
+15.7.2024 [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
+* As no COVID-19 vaccines were available during the observational time period in 2020, all participants remained unvaccinated.
+* "Even after mild disease progression, we found a significant reduction of immune cells in the blood," says Winfried Pickl, providing details from the study.
+* For COVID-19 convalescent subjects, this means that their immune system may no longer be responding optimally to new challenges. This may provide an explanation for some of the observed sequelae of COVID-19, such as Long-COVID.
+* "Our results provide a possible explanation that certain long-term consequences of COVID-19 could be related to the damage to the cellular immune system caused by SARS-CoV-2 and the apparently reduced maturation and/or emigration of immune cells from the bone marrow," Winfried Pickl and Rudolf Valenta summarize the study results.
+

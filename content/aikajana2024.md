@@ -73,6 +73,8 @@ title: 2024 Aikajana
 
 13.7.2024 [Korona jyllää Suomessa](https://www.iltalehti.fi/terveysuutiset/a/6d0a11b3-9daf-4577-977a-24b26322b8ae) ([twiitti](https://x.com/iltalehti_fi/status/1811989144429584410))
 
+14.7.2024 [Tour de France reintroduces mask mandate amid COVID-19 concerns](https://www.cyclingnews.com/news/tour-de-france-reintroduces-mask-mandate-amid-covid-19-concerns/)
+
 15.7.2024 [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
 * As no COVID-19 vaccines were available during the observational time period in 2020, all participants remained unvaccinated.
 * "Even after mild disease progression, we found a significant reduction of immune cells in the blood," says Winfried Pickl, providing details from the study.

@@ -242,3 +242,25 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
 * Tehohoitoon joutuneilla älykkyysosamäärän lasku oli 9 pistettä, pitkittynyttä koronatautia sairastaville 6 pistettä ja lievänä sairastaneilla 3 pistettä
 
+13.03.2024 [COVID-19 Leaves Its Mark on the Brain. Significant Drops in IQ Scores Are Noted](https://www.scientificamerican.com/article/covid-19-leaves-its-mark-on-the-brain-significant-drops-in-iq-scores-are/)
+* Research shows that even mild COVID-19 can lead to the equivalent of seven years of brain aging
+* Severe COVID-19 that requires hospitalization or intensive care may result in cognitive deficits and other brain damage that are equivalent to 20 years of aging.
+* Studies show that even when the virus is mild and exclusively confined to the lungs, it can still provoke inflammation in the brain and impair brain cells’ ability to regenerate.
+* COVID-19 increased the risk of development of new-onset dementia in people older than 60 years of age
+* Autopsies have revealed devastating damage in the brains of people who died with COVID-19.
+* Those who had mild and resolved COVID-19 showed cognitive decline equivalent to a three-point loss of IQ
+* Those with unresolved persistent symptoms...had a six-point loss in IQ.
+* Those who had been admitted to the intensive care unit for COVID-19 had a nine-point loss in IQ.
+* Reinfection with the virus contributed an additional two-point loss in IQ, as compared with no reinfection.
+
+24.03.2024 [COVID Linked to Lower IQ, Poor Memory and Other Negative Impacts on Brain Health](https://people.com/covid-linked-lower-iq-poor-memory-other-negative-impacts-brain-health-8619254)
+
+18.07.2024 [Long COVID lung damage linked to immune system response](https://www.nature.com/articles/d41586-024-02352-2)
+
+25.07.2024 [Even mild COVID can cause prolonged cognitive impairment](https://www.earth.com/news/even-mild-covid-can-cause-prolonged-cognitive-impairment/)
+
+01.08.2024 [Long-term cognitive and psychiatric effects of COVID-19 revealed in new study](https://www.ox.ac.uk/news/2024-08-01-long-term-cognitive-and-psychiatric-effects-covid-19-revealed-new-study)
+* Many people who were hospitalised with COVID-19 continue to have cognitive and psychiatric problems even two to three years post-infection
+* Two to three years after being infected with COVID-19, participants scored on average significantly lower in cognitive tests (test of attention and memory) than expected. The average deficit was equivalent to 10 IQ points.
+* Additionally, a substantial proportion reported severe symptoms of depression (about 1 in 5 people), anxiety (1 in 8), fatigue (1 in 4), and subjective memory problems (1 in 4), with these symptoms worsening over time.
+* Although in many people these symptoms at 2-3 years were already present 6 months post-infection, some people also experienced new symptoms 2 to 3 years after their infection that they were not experiencing before.

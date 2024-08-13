@@ -4,7 +4,7 @@ title: 2024 Aikajana
 
 04.01.204 [Mask mandate resumes at all 11 New York City public hospitals amid rise in flu, COVID and RSV cases](https://abc7ny.com/nyc-hospitals-mask-mandates-covid-flu/14265768/)
 
-07.01.2024 [Eläkettä leikkaavassa elin­­aika­kertoimessa käänne, syynä korona­kuolleisuus](https://www.hs.fi/politiikka/art-2000010103585.html)
+07.01.2024 [Eläkettä leikkaavassa elinaikakertoimessa käänne, syynä koronakuolleisuus](https://www.hs.fi/politiikka/art-2000010103585.html)
 * Työeläkkeen määrään vaikuttavan elinaikakertoimen kehityksessä on tapahtunut ensimmäistä kertaa käänne. 
 * Eläketurvakeskuksen yksikön päällikkö Heikki Tikanmäki sanoo muutoksen johtuvan etenkin koronaan liittyvästä korkeasta kuolleisuudesta vuonna 2022.
 
@@ -60,7 +60,11 @@ title: 2024 Aikajana
 * os rokotteita annettaisiin isommalle osalle suomalaisia myös yksilöllisen harkinnan perusteella, vähenesivät myös esimerkiksi sairauspoissaolot.
 * Esimerkiksi sosiaali- ja terveysalan henkilöstö ei Suomessa saa koronarokotetta toisin kuin monissa muissa EU-maissa.Jos rokotteita annettaisiin isommalle osalle suomalaisia myös yksilöllisen harkinnan perusteella, vähenesivät myös esimerkiksi sairauspoissaolot.
 
-9.7.2024 [Sean Bergenheim kamppaili vuosia koronan kanssa – kertoo, mistä sai vihdoin avun](https://www.is.fi/menaiset/ihmiset-ja-suhteet/art-2000010549375.html)
+06.07.2024 [Maailmalla uutisoidaan taas uusista korona-aalloista – Täytyykö Suomessa olla huolissaan?](https://www.apu.fi/artikkelit/korona-leviaa-maailmalla-taytyyko-suomessa-huolestua)
+* Syksyn koronarokotukset aloitetaan aiemmin viime vuoden epäonnistumisen jälkeen, sanoo THL:n ylilääkäri Hanna Nohynek.
+* Viime syksynä koronarokotteita annettiin liian myöhään, minkä vuoksi korkeassa riskissä olevia ikäihmisiä menehtyi paljon.
+
+09.07.2024 [Sean Bergenheim kamppaili vuosia koronan kanssa – kertoo, mistä sai vihdoin avun](https://www.is.fi/menaiset/ihmiset-ja-suhteet/art-2000010549375.html)
 * "Apu, jota itse sain Suomessa, oli olematonta"
 
 10.7.2024 [Violet Affleck makes impassioned plea for masks after revealing she ‘contracted a post-viral condition in 2019’](https://edition.cnn.com/2024/07/10/entertainment/violet-affleck-masks-post-viral-condition/index.html)
@@ -81,3 +85,21 @@ title: 2024 Aikajana
 * For COVID-19 convalescent subjects, this means that their immune system may no longer be responding optimally to new challenges. This may provide an explanation for some of the observed sequelae of COVID-19, such as Long-COVID.
 * "Our results provide a possible explanation that certain long-term consequences of COVID-19 could be related to the damage to the cellular immune system caused by SARS-CoV-2 and the apparently reduced maturation and/or emigration of immune cells from the bone marrow," Winfried Pickl and Rudolf Valenta summarize the study results.
 
+24.07.2024 [Koronatartunnat ovat taas kasvussa Pirkanmaalla – Tampereen keskustassa jaettuja koronamuistoja leimaa ankeus](https://www.aamulehti.fi/pirkanmaa/art-2000010581303.html)
+
+29.7.2024 [Is there a COVID outbreak at the Olympics? At least 10 athletes test positive in one week](https://www.today.com/health/coronavirus/covid-olympics-2024-rcna164070)
+
+30.7.2024 [Grandiose narcissism, unfounded beliefs, and behavioral reactions during the COVID-19 pandemic](https://www.nature.com/articles/s41598-024-67954-2)
+
+31.7.2024 [Koronapaniikki Pariisissa – Suomen joukkueelta raju reaktio](https://www.is.fi/urheilu/art-2000010598947.html)
+* Suomen olympiajoukkueeseen tulee hetkellisesti maskipakko. Taustalla on tiistaina ilmi tulleet koronatartunnat.
+* Uimari Matti Mattsson sai positiivisen tuloksen koronatestissä alkueräuintinsa jälkeen. Myös Suomen joukkueen taustahenkilöllä on todettu koronatartunta.
+* Valtosen mukaan sitoutuminen maskin käyttöön on ollut tähän asti vaihtelevaa, mutta nyt linja tiukentuu toistaiseksi.
+
+01.08.2024 [Long-term cognitive and psychiatric effects of COVID-19 revealed in new study](https://www.ox.ac.uk/news/2024-08-01-long-term-cognitive-and-psychiatric-effects-covid-19-revealed-new-study)
+* Many people who were hospitalised with COVID-19 continue to have cognitive and psychiatric problems even two to three years post-infection
+* Two to three years after being infected with COVID-19, participants scored on average significantly lower in cognitive tests (test of attention and memory) than expected. The average deficit was equivalent to 10 IQ points.
+* Additionally, a substantial proportion reported severe symptoms of depression (about 1 in 5 people), anxiety (1 in 8), fatigue (1 in 4), and subjective memory problems (1 in 4), with these symptoms worsening over time.
+* Although in many people these symptoms at 2-3 years were already present 6 months post-infection, some people also experienced new symptoms 2 to 3 years after their infection that they were not experiencing before.
+
+03.08.2024 [Koronatartunnat ovat lähteneet kasvuun, tautihuippu vielä edessä](https://yle.fi/a/74-20102805)

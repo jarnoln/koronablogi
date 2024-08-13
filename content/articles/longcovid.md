@@ -242,3 +242,18 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
 * Tehohoitoon joutuneilla älykkyysosamäärän lasku oli 9 pistettä, pitkittynyttä koronatautia sairastaville 6 pistettä ja lievänä sairastaneilla 3 pistettä
 
+13.03.2024 [COVID-19 Leaves Its Mark on the Brain. Significant Drops in IQ Scores Are Noted](https://www.scientificamerican.com/article/covid-19-leaves-its-mark-on-the-brain-significant-drops-in-iq-scores-are/)
+* Research shows that even mild COVID-19 can lead to the equivalent of seven years of brain aging
+* In addition to brain fog, COVID-19 can lead to an array of problems, including headaches, seizure disorders, strokes, sleep problems, and tingling and paralysis of the nerves, as well as several mental health disorders.
+* Large epidemiological analyses showed that people who had COVID-19 were at an increased risk of cognitive deficits, such as memory problems.
+* Imaging studies done in people before and after their COVID-19 infections show shrinkage of brain volume and altered brain structure after infection.
+* A study of people with mild to moderate COVID-19 showed significant prolonged inflammation of the brain and changes that are commensurate with seven years of brain aging.
+* Severe COVID-19 that requires hospitalization or intensive care may result in cognitive deficits and other brain damage that are equivalent to 20 years of aging.
+* Studies show that even when the virus is mild and exclusively confined to the lungs, it can still provoke inflammation in the brain and impair brain cells’ ability to regenerate.
+* A large preliminary analysis pooling together data from 11 studies encompassing almost one million people with COVID-19 and more than 6 million uninfected individuals showed that COVID-19 increased the risk of development of new-onset dementia in people older than 60 years of age.
+* Autopsies have revealed devastating damage in the brains of people who died with COVID-19.
+* those who had mild and resolved COVID-19 showed cognitive decline equivalent to a three-point loss of IQ.
+* In comparison, those with unresolved persistent symptoms, such as people with persistent shortness of breath or fatigue, had a six-point loss in IQ.
+* Those who had been admitted to the intensive care unit for COVID-19 had a nine-point loss in IQ. 
+* Reinfection with the virus contributed an additional two-point loss in IQ, as compared with no reinfection.
+

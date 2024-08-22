@@ -50,6 +50,7 @@ Tässä joitaine esimerkkejä:
 7.10.2023 [Kaupassakäynti tuntuu ylivoimaiselta – Miska ja Iina kertovat, millaista elämä on pitkäaikaisen koronataudin kanssa](https://www.is.fi/urheilu/art-2000009897646.html)
 * Miska Ronkainen ja Iina Andrikopoulou kärsivät pitkään ja tuntuvasti koronan jälkioireista.
 * Ronkaisen uran viheliäinen tauti lopetti kokonaan, eikä normaali elämäkään suju vielä 1,5 vuoden jälkeenkään.
+* Sydänlihastulehdus on aika yleinen koronan jälkitauti.
 
 23.11.2023 [Sydänlihastulehduksen diagnoosi ei tullut helpolla – pikajuoksija Karoliina passitettiin ensin jopa fysioterapiaan: "Vasta neljäs lääkäri otti oireet tosissaan"](https://www.mtvuutiset.fi/artikkeli/sydanlihastulehduksen-diagnoosi-ei-tullut-helpolla-pikajuoksija-karoliina-passitettiin-ensin-jopa-fysioterapiaan-vasta-neljas-laakari-otti-oireet-tosissaan/8824984#gs.d3hq7z)
 * Kaikki alkoi lievästä koronaviruksesta, jonka jälkeen diagnosoitiin monen mutkan kautta sydänlihastulehdus.
@@ -69,3 +70,5 @@ Tässä joitaine esimerkkejä:
 
 17.03.2024 [Jari Litmanen kärsii yhä koronasta](https://www.hs.fi/urheilu/art-2000010299934.html)
 * Suomen kaikkien aikojen jalkapalloilija Jari Litmanen kertoo The Guardianin haastattelussa, että hän ei ole vieläkään täydessä kunnossa koronaviruksen aiheuttaman pitkäaikaisen taudin jäljiltä.
+
+09.07.2024 [Sean Bergenheim kamppaili vuosia koronan kanssa – kertoo, mistä sai vihdoin avun](https://www.is.fi/menaiset/ihmiset-ja-suhteet/art-2000010549375.html)

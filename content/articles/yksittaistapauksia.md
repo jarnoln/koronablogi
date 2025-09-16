@@ -94,3 +94,6 @@ Koronaan on kuollut Suomessa tällä hetkellä lähes 9000 ja koko maailmassa l�
 * Kuudentena sairaalapäivänä Sanna oli hevostalleilla seuratapaamisessa, kun hänen puhelimensa soi. Siellä oli anestesialääkäri, joka kertoi sen pahimman kaikista. Mika oli menehtynyt.
 * Mikalla ja perheellä ei ollut ollut koronarokotuksia. He eivät olleet rokotevastaisia, mutta he olivat olleet hieman epävarmoja rokotteen turvallisuuden suhteen.
 
+06.06.2024 [Jon Bon Jovi Speaks Out on 'Horrible' Health Issue Keeping Him off Stage](https://www.newsweek.com/jon-bon-jovi-illness-singing-health-1908896)
+* Legendary rocker Jon Bon Jovi has revealed details about the illness holding him back from performing.
+* Bon Jovi learnt his vocal chords were atrophying almost 10 years ago and then faced a bout of long COVID.

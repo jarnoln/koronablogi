@@ -1,6 +1,7 @@
 Ryhmiä:
 * [Eroon koronasta](https://www.eroonkoronasta.fi/)
 * [Korona ei ole ohi](https://www.koronaeioleohi.com/)
+* [Suomen Covid-yhdistys ry](https://www.suomencovidyhdistys.fi/)
 
 Data:
 * [Koronatilastot.fi](https://www.koronatilastot.fi/)

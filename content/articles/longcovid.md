@@ -233,3 +233,38 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 04.04.2023 [COVID-19 Infection Accelerates the Progression of Dementia](https://neurosciencenews.com/covid-19-dementia-22938/)
 * Summary: Following COVID-19 infection, all subtypes of dementia, irrespective of a person’s previous dementia type, behave like rapidly progressive dementia.
+
+27.12.2023 [Every COVID Infection Increases Your Risk of Long COVID, Study Warns](https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns)
+
+29.02.2024 [Cognition and Memory after Covid-19 in a Large Community Sample](https://www.nejm.org/doi/full/10.1056/NEJMoa2311330)
+
+07.03.2024 [Tutkimus: koronatartunta laskee älykkyysosamäärää](https://www.is.fi/kotimaa/art-2000010274606.html) ([twiitti](https://twitter.com/iltasanomat/status/1765668745702486131))
+* Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
+* Tehohoitoon joutuneilla älykkyysosamäärän lasku oli 9 pistettä, pitkittynyttä koronatautia sairastaville 6 pistettä ja lievänä sairastaneilla 3 pistettä
+
+13.03.2024 [COVID-19 Leaves Its Mark on the Brain. Significant Drops in IQ Scores Are Noted](https://www.scientificamerican.com/article/covid-19-leaves-its-mark-on-the-brain-significant-drops-in-iq-scores-are/)
+* Research shows that even mild COVID-19 can lead to the equivalent of seven years of brain aging
+* In addition to brain fog, COVID-19 can lead to an array of problems, including headaches, seizure disorders, strokes, sleep problems, and tingling and paralysis of the nerves, as well as several mental health disorders.
+* Large epidemiological analyses showed that people who had COVID-19 were at an increased risk of cognitive deficits, such as memory problems.
+* Imaging studies done in people before and after their COVID-19 infections show shrinkage of brain volume and altered brain structure after infection.
+* A study of people with mild to moderate COVID-19 showed significant prolonged inflammation of the brain and changes that are commensurate with seven years of brain aging.
+* Severe COVID-19 that requires hospitalization or intensive care may result in cognitive deficits and other brain damage that are equivalent to 20 years of aging.
+* Studies show that even when the virus is mild and exclusively confined to the lungs, it can still provoke inflammation in the brain and impair brain cells’ ability to regenerate.
+* COVID-19 increased the risk of development of new-onset dementia in people older than 60 years of age
+* Autopsies have revealed devastating damage in the brains of people who died with COVID-19.
+* Those who had mild and resolved COVID-19 showed cognitive decline equivalent to a three-point loss of IQ.
+* Those with unresolved persistent symptoms...had a six-point loss in IQ.
+* Those who had been admitted to the intensive care unit for COVID-19 had a nine-point loss in IQ. 
+* Reinfection with the virus contributed an additional two-point loss in IQ, as compared with no reinfection.
+
+24.03.2024 [COVID Linked to Lower IQ, Poor Memory and Other Negative Impacts on Brain Health](https://people.com/covid-linked-lower-iq-poor-memory-other-negative-impacts-brain-health-8619254)
+
+18.07.2024 [Long COVID lung damage linked to immune system response](https://www.nature.com/articles/d41586-024-02352-2)
+
+25.07.2024 [Even mild COVID can cause prolonged cognitive impairment](https://www.earth.com/news/even-mild-covid-can-cause-prolonged-cognitive-impairment/)
+
+01.08.2024 [Long-term cognitive and psychiatric effects of COVID-19 revealed in new study](https://www.ox.ac.uk/news/2024-08-01-long-term-cognitive-and-psychiatric-effects-covid-19-revealed-new-study)
+* Many people who were hospitalised with COVID-19 continue to have cognitive and psychiatric problems even two to three years post-infection
+* Two to three years after being infected with COVID-19, participants scored on average significantly lower in cognitive tests (test of attention and memory) than expected. The average deficit was equivalent to 10 IQ points.
+* Additionally, a substantial proportion reported severe symptoms of depression (about 1 in 5 people), anxiety (1 in 8), fatigue (1 in 4), and subjective memory problems (1 in 4), with these symptoms worsening over time.
+* Although in many people these symptoms at 2-3 years were already present 6 months post-infection, some people also experienced new symptoms 2 to 3 years after their infection that they were not experiencing before.

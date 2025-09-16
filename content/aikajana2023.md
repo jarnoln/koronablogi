@@ -65,3 +65,22 @@ title: 2023 Aikajana
 * Husin lähestymistapa on potilasjärjestön mukaan johtanut siihen, että sairautta pidetään Suomessa toiminnallisena häiriönä. Tämä vaikeuttaa hoitoon pääsyä.
 * Myös Risto O. Roine kuitenkin tietää tapauksia, joissa potilaat ovat jääneet vaille polikliinisiä sairaalatutkimuksia. – Sitä perustellaan sillä, että toiminnallinen häiriö ei tarvitse diagnostiikkaa eikä hoitoa. Olen itse nähnyt lähetteitä palautettavan keskussairaaloista paljon juuri tällä perusteella.
 * Tutkimusten lisäksi long covid -potilaat ovat pääsääntöisesti jääneet ilman sairauspäivärahoja ja kuntoutustukia.
+
+5.12.2023 [Kuolleisuuden kasvun syynä ennen kaikkea koronavirustauti vuonna 2022](https://www.stat.fi/julkaisu/cl8mlgiehwn8z0cvzmey6j7sr)
+* Ikävakioitu kuolleisuus kasvoi Tilastokeskuksen mukaan vuonna 2022 edellisvuodesta 7,7 %
+* Kuolleisuuden kasvuun vaikutti kuolleisuuden lisääntyminen erityisesti koronavirustautiin. 
+* Koronavirustautiin menehtyi 4 349 henkilöä eli liki 7 % kuolleista, mikä on liki 3 400 enemmän kuin edellisenä vuonna.
+* Lisäksi covid-19 oli mukana vaikuttamassa yli 2 800 henkilön kuolemaan myötävaikuttavana kuolemansyynä.
+* Koronavirustautiin kuoli kaksi alle 15-vuotiasta lasta.
+* Kuolleisuus kasvoi myös muistisairauksiin sekä sydän- ja verenkiertoelinten sairauksiin.
+
+5.12.2023 [Tilastokeskus: Koronavirustauti oli suurin syy kuolleisuuden kasvuun viime vuonna](https://www.aamulehti.fi/kotimaa/art-2000010036484.html)
+* Koronaan kuolleita oli moninkertaisesti enemmän kuin kahtena edellisenä vuonna yhteensä.
+
+27.12.2023 [Every COVID Infection Increases Your Risk of Long COVID, Study Warns](https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns)
+
+28.12.2023 [Hätkähdyttävät tiedot: näiden yleisten sairauksien riskiä korona lisää rajusti](https://www.satakunnankansa.fi/terveys/art-2000010084807.html)
+* Diabetes, uniapnea, lapsettomuus, astma, muistisairaudet: koronataudilla on todettu yhteys moniin sairauksiin ja haittoihin.
+* Koronataudin sairastaneiden riski sairastua vuoden kuluessa Alzheimerin tautiin nousee peräti 69 prosentilla.
+* Koronataudin on todettu olevan vielä vahingollisempi, jos sen sairastaa toistuvasti.
+

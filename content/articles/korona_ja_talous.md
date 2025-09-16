@@ -5,8 +5,7 @@ date: 2022-11-30
 
 6.10.2020 [Princetonin yliopiston taloustieteen professori: Epidemian hillitsemistä ja taloutta ei voi asettaa vastakkain](https://www.hs.fi/talous/art-2000006659643.html)
 
-25.10.2020
-https://worldaccordingtomatti.blog/2020/10/25/talous-ja-terveys-eivat-ole-vaihtoehtoja/
+25.10.2020 [Talous ja terveys eivät ole vaihtoehtoja](https://worldaccordingtomatti.blog/2020/10/25/talous-ja-terveys-eivat-ole-vaihtoehtoja/)
 
 20.7.2021 [Koronarajoituksista ei aieutunut yhtä suurta haittaa kuin koronapandemian leviämisestä, tutkijat sanovat](https://tekniikanmaailma.fi/koronarajoituksista-ei-aiheutunut-yhta-suurta-haittaa-kuin-koronapandemian-leviamisesta-tutkijat-sanovat/)
 
@@ -26,3 +25,9 @@ https://worldaccordingtomatti.blog/2020/10/25/talous-ja-terveys-eivat-ole-vaihto
 * Bosses and economists are troubled by the worst drop in U.S. worker output since 1947
 
 30.11.2022 [Taloustieteen professori Antti Ripatti: Pitkittyneen koronan kustannukset nousevat miljardeihin euroihin](https://www.mediuutiset.fi/uutiset/mu/9919a3ea-2cac-4438-99d9-566c90b5cf3e)
+
+30.11.2022 [Long Covid may be ‘the next public health disaster’ — with a $3.7 trillion economic impact rivaling the Great Recession](https://www.cnbc.com/2022/11/30/why-long-covid-could-be-the-next-public-health-disaster.html)
+* Long Covid has affected as many as 23 million Americans. It may cost the U.S. economy $3.7 trillion, roughly that of the Great Recession, according to one estimate.
+* Up to 30% of Americans who get Covid-19 have developed long-haul symptoms, affecting as many as 23 million Americans, according to the U.S. Department of Health and Human Services.
+* “Long Covid will be around long after the pandemic subsides, impacting our communities, our health care system, our economy and the well-being of future generations,” the HHS report said.
+

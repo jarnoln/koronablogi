@@ -5,6 +5,15 @@ date: 2023-03-10
 
 Koronaan on kuollut Suomessa tällä hetkellä lähes 9000 ja koko maailmassa lähes 7 miljoonaa. Pitkäaikaisista oireista kärsivien tarkkaa määrää ei tiedetä, mutta arvioiden mukaan heitä on Suomessa jo yli 100 000. Luvut ovat järkyttävän suuria ja on vaikea kuvitella, että jokaisen takana on oikea ihmiskohtalo. Siksi tässä joitain uutisia ihmisistä, joiden kohtaaminen viruksen kanssa ei mennyt hyvin. Monen urheilijan hyvin alkanut ura on katkennut koronatartuntaan, mikä osoittaa selkeästi virheelliseksi käsityksen, ettei koronatartunta olisi vaarallinen, jos on nuori, terve ja hyväkuntoinen.
 
+09.03.2021 [Musiikkitalon korona­lingosta vuosi, ja totuus siitä ei selviä ikinä – Irja Askola oli 75 päivää eristyksissä: ”En minä varmaan koskaan toivu kokonaan”]
+(https://www.is.fi/kotimaa/art-2000007848641.html)
+* Vuosi sitten, kahdeksas maaliskuuta tapahtui yksi Suomen ensimmäisistä koronaviruksen epäillyistä massa-altistumisista. Tuolloin Helsingin Musiikkitalolla järjestettiin naistenpäivän konsertti, jossa on epäilty tapahtuneen reilusti yli sata koronavirustartuntaa.
+* Oireet alkoivat noin viikon kuluttua konsertista, minkä jälkeen hänen vointinsa huononi nopeasti.
+* Tosiasia on, että minun onnettomuuteni oli, että epidemian alkuaikana ei päässyt testeihin eikä päässyt sairaalaan, Askola sanoo vuosi tartunnan jälkeen.
+* Jälkeenpäin Askola on sitä mieltä, että hänen olisi kuulunut olla sairaalahoidossa. Hänen arvionsa mukaan hänen tilansa ei olisi huonontunut yhtä voimakkaasti sairaalassa.
+* Hän arvioi, että toipumisessa kesti reilun puoli vuotta. Vaikka Askola voi jo paremmin, sairaus jätti jälkiä, jotka tuntuvat pitkään. – En minä varmaan koskaan toivu kokonaan.
+* Sairaudesta jäljelle jäi myös anemia. Hemoglobiini hänellä ei ole vieläkään normaalilla tasolla.
+
 04.04.2021 [Virve Rissanen, 33, sairasti vuosi sitten melko lievän koronan, mutta sitten alkoivat todella erikoiset oireet, joille ei näy loppua](https://www.aamulehti.fi/koronavirus/art-2000007897527.html)
 * Virve Rissanen sairastui koronaan noin vuosi sitten. Erikoiset oireet ovat vaivanneet häntä siitä asti. Esimerkiksi liikunta aiheuttaa tunteen, että tauti alkaa alusta.
 
@@ -97,3 +106,8 @@ Koronaan on kuollut Suomessa tällä hetkellä lähes 9000 ja koko maailmassa l�
 06.06.2024 [Jon Bon Jovi Speaks Out on 'Horrible' Health Issue Keeping Him off Stage](https://www.newsweek.com/jon-bon-jovi-illness-singing-health-1908896)
 * Legendary rocker Jon Bon Jovi has revealed details about the illness holding him back from performing.
 * Bon Jovi learnt his vocal chords were atrophying almost 10 years ago and then faced a bout of long COVID.
+
+04.12.2024 [Apu: Irja Askola sairastui ja katosi julkisuudesta – tämä on tilanne nyt](https://www.is.fi/viihde/art-2000010878332.html) (IS)
+* Askola sairastui myös koronaan ensimmäisten suomalaisten joukossa keväällä 2020. Hän osallistui pahamaineiseen naistenpäivän konserttiin 8. maaliskuuta, josta myös muun muassa presidentti Martti Ahtisaari ja rouva Eeva Ahtisaari sairastuivat.
+* Hän arvioi, että toipumisessa kesti reilun puoli vuotta. Vaikka Askola voi jo paremmin, sairaus jätti jälkiä, jotka tuntuvat pitkään. – En minä varmaan koskaan toivu kokonaan.
+* Sairaudesta jäljelle jäi myös anemia. Askola kertoi vuonna 2021, ettei hemoglobiini ollut palannut normaalille tasolle.

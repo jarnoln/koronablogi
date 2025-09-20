@@ -2,11 +2,13 @@
 title: 2024 Aikajana
 ---
 
-04.01.204 [Mask mandate resumes at all 11 New York City public hospitals amid rise in flu, COVID and RSV cases](https://abc7ny.com/nyc-hospitals-mask-mandates-covid-flu/14265768/)
+04.01.2024 [Mask mandate resumes at all 11 New York City public hospitals amid rise in flu, COVID and RSV cases](https://abc7ny.com/nyc-hospitals-mask-mandates-covid-flu/14265768/)
 
 07.01.2024 [Eläkettä leikkaavassa elinaikakertoimessa käänne, syynä koronakuolleisuus](https://www.hs.fi/politiikka/art-2000010103585.html)
 * Työeläkkeen määrään vaikuttavan elinaikakertoimen kehityksessä on tapahtunut ensimmäistä kertaa käänne. 
 * Eläketurvakeskuksen yksikön päällikkö Heikki Tikanmäki sanoo muutoksen johtuvan etenkin koronaan liittyvästä korkeasta kuolleisuudesta vuonna 2022.
+
+18.01.2024 [Immune damage in Long Covid](https://www.science.org/doi/10.1126/science.adn1077)
 
 29.02.2024 [Covid-19 may have small but lasting effects on cognition and memory](https://www.imperial.nhs.uk/about-us/news/covid-may-have-small-but-lasting-effects-on-cognition-and-memory)
 
@@ -15,6 +17,21 @@ title: 2024 Aikajana
 07.03.2024 [Tutkimus: koronatartunta laskee älykkyysosamäärää](https://www.is.fi/kotimaa/art-2000010274606.html) ([twiitti](https://twitter.com/iltasanomat/status/1765668745702486131))
 * Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
 * Tehohoitoon joutuneilla älykkyysosamäärän lasku oli 9 pistettä, pitkittynyttä koronatautia sairastaville 6 pistettä ja lievänä sairastaneilla 3 pistettä
+
+13.03.2024 [COVID-19 Leaves Its Mark on the Brain. Significant Drops in IQ Scores Are Noted](https://www.scientificamerican.com/article/covid-19-leaves-its-mark-on-the-brain-significant-drops-in-iq-scores-are/)
+* Research shows that even mild COVID-19 can lead to the equivalent of seven years of brain aging
+* In addition to brain fog, COVID-19 can lead to an array of problems, including headaches, seizure disorders, strokes, sleep problems, and tingling and paralysis of the nerves, as well as several mental health disorders.
+* Large epidemiological analyses showed that people who had COVID-19 were at an increased risk of cognitive deficits, such as memory problems.
+* Imaging studies done in people before and after their COVID-19 infections show shrinkage of brain volume and altered brain structure after infection.
+* A study of people with mild to moderate COVID-19 showed significant prolonged inflammation of the brain and changes that are commensurate with seven years of brain aging.
+* Severe COVID-19 that requires hospitalization or intensive care may result in cognitive deficits and other brain damage that are equivalent to 20 years of aging.
+* Studies show that even when the virus is mild and exclusively confined to the lungs, it can still provoke inflammation in the brain and impair brain cells’ ability to regenerate.
+* COVID-19 increased the risk of development of new-onset dementia in people older than 60 years of age
+* Autopsies have revealed devastating damage in the brains of people who died with COVID-19.
+* Those who had mild and resolved COVID-19 showed cognitive decline equivalent to a three-point loss of IQ.
+* Those with unresolved persistent symptoms...had a six-point loss in IQ.
+* Those who had been admitted to the intensive care unit for COVID-19 had a nine-point loss in IQ. 
+* Reinfection with the virus contributed an additional two-point loss in IQ, as compared with no reinfection.
 
 14.03.2024 [Laaja tutkimus: Koronapandemian kaksi ensimmäistä vuotta laskivat elinajanodotetta enemmän kuin on luultu](https://yle.fi/a/74-20079095)
 * COVID-19-pandemian ensimmäiset kaksi vuotta laskivat ihmiskunnan elinajanodotetta vuodella ja kuudella kuukaudella, kertoo Lancet-lehdessä julkaistu laaja tutkimus.
@@ -25,6 +42,8 @@ title: 2024 Aikajana
 
 21.03.2024 [Kuoleman jälkeinen kaaos](https://www.is.fi/kotimaa/art-2000010240196.html) ([twiitti](https://twitter.com/iltasanomat/status/1770661765040558563))
 * Suomessa kuolee nyt niin paljon ihmisiä, että tilanne on muuttunut kaoottiseksi.
+
+24.03.2024 [COVID Linked to Lower IQ, Poor Memory and Other Negative Impacts on Brain Health](https://people.com/covid-linked-lower-iq-poor-memory-other-negative-impacts-brain-health-8619254)
 
 16.5.2024 [Koronakuolemien synkin hetki oli syystalvella 2023](https://www.laakarilehti.fi/mielipide/koronakuolemien-synkin-hetki-oli-syystalvella-2023/?public=8a3ea570ce9da292c9a1783caa841229) ([twiitti](https://x.com/Laakarilehti/status/1791005053202952639))
 * Virus tarttuu ilman välityksellä. Terveydenhuollon tulisi päivittää tartuntaohjeensa ja tehdä suojainten käytöstä rutiinia.
@@ -85,7 +104,11 @@ title: 2024 Aikajana
 * For COVID-19 convalescent subjects, this means that their immune system may no longer be responding optimally to new challenges. This may provide an explanation for some of the observed sequelae of COVID-19, such as Long-COVID.
 * "Our results provide a possible explanation that certain long-term consequences of COVID-19 could be related to the damage to the cellular immune system caused by SARS-CoV-2 and the apparently reduced maturation and/or emigration of immune cells from the bone marrow," Winfried Pickl and Rudolf Valenta summarize the study results.
 
+18.07.2024 [Long COVID lung damage linked to immune system response](https://www.nature.com/articles/d41586-024-02352-2)
+
 24.07.2024 [Koronatartunnat ovat taas kasvussa Pirkanmaalla – Tampereen keskustassa jaettuja koronamuistoja leimaa ankeus](https://www.aamulehti.fi/pirkanmaa/art-2000010581303.html)
+
+25.07.2024 [Even mild COVID can cause prolonged cognitive impairment](https://www.earth.com/news/even-mild-covid-can-cause-prolonged-cognitive-impairment/)
 
 29.7.2024 [Is there a COVID outbreak at the Olympics? At least 10 athletes test positive in one week](https://www.today.com/health/coronavirus/covid-olympics-2024-rcna164070)
 
@@ -103,3 +126,40 @@ title: 2024 Aikajana
 * Although in many people these symptoms at 2-3 years were already present 6 months post-infection, some people also experienced new symptoms 2 to 3 years after their infection that they were not experiencing before.
 
 03.08.2024 [Koronatartunnat ovat lähteneet kasvuun, tautihuippu vielä edessä](https://yle.fi/a/74-20102805)
+
+09.10.2024 [Veriryhmällä sittenkin vaikutusta koronan vakaviin riskeihin](https://www.iltalehti.fi/terveysuutiset/a/5e83a863-b51a-4e41-b5eb-96d52a5f4c52) (IL)
+* Koronan sairastaminen voi kaksinkertaistaa sydänkohtauksen, aivoinfarktin tai kuoleman riskin.
+* Tuoreen tutkimuksen mukaan riski kasvaa siitä huolimatta, minkälainen korona on ollut. Riskin kasvu ulottuu ainakin kolmen vuoden päähän koronan sairastamisesta.
+* Tutkimuksen mukaan potilaan kuuluminen johonkin muuhun kuin O-veriryhmään kaksinkertaisti sydäntapahtuminen todennäköisyyden koronan sairastamisen jälkeen verrattuna O-veriryhmään kuuluviin.
+
+09.10.2024 [History of COVID-19 Doubles Long-term Risk of Heart Attack, Stroke and Death] (https://www.newswise.com/articles/history-of-covid-19-doubles-long-term-risk-of-heart-attack-stroke-and-death/)
+* The study found that people with any type of COVID-19 infection were twice as likely to have a major cardiac event, such as heart attack, stroke or even death, for up to three years after diagnosis.
+* Further genetic analysis also revealed individuals with a blood type other an O (such as A, B or AB) were twice as likely to experience an adverse cardiovascular event after COVID-19 than those with an O-blood type.
+* Previous research has shown that people who have A, B or AB blood types were also more susceptible to contracting COVID-19.
+
+13.10.2024 [Laaja tutkimus: Koronatartunta voi lisätä sydänkohtauksen tai aivohalvauksen riskiä vuosia myöhemmin](https://yle.fi/a/74-20117582?text=Laaja%2520tutkimus%253A%2520Koronatartunta%2520voi%2520lis%25C3%25A4t%25C3%25A4%2520syd%25C3%25A4nkohtauksen%2520tai%2520aivohalvauksen%2520riski%25C3%25A4%2520vuosia%2520my%25C3%25B6hemmin)
+* Tuoreen tutkimuksen mukaan koronatartunta voi lisätä sydänkohtauksen tai aivohalvauksen riskiä jopa kolme vuoden ajan.
+* Tulosten mukaan koronatartunnan saaneilla oli kaksinkertainen riski sydänkohtaukseen tai aivoverenkiertohäiriöön verrattuna niihin, jotka välttyivät koronatartunnalta.
+
+18.10.2024 [Long COVID Is Harming Too Many Kids](https://www.scientificamerican.com/article/long-covid-is-harming-too-many-kids/)
+* Pediatric long COVID is more common than many thought, and we keep letting kids be reinfected with new variants
+* The JAMA study comparing infected and uninfected children found that trouble with memory or focusing is the most common long COVID symptom in kids aged six to 11. Back, neck, stomach and head pain were the next most common symptoms. Other behavioral impacts included “fear about specific things” and refusal to go to school.
+* Adolescents aged 12 to 17 reported different leading symptoms. Change or loss in smell or taste was most common, followed by body pains, daytime tiredness, low energy, tiredness after walking and cognitive deficits. The study noted that symptoms “affected almost every organ system.” In other words, these symptoms reflect real physiological trauma.
+* When you put together the estimate that 10 to 20 percent of infected kids may experience long-term symptoms, that many of the most common symptoms affect cognition, energy levels and behavior, and that children are being periodically reinfected, you have a scientific rationale to partly explain children’s widely reported behavioural and learning challenges.
+* We can do something to protect our kids. We can vaccinate them every season, which somewhat reduces the risk of long COVID. We can keep sick children home by passing laws that create paid sick leave and end attendance-based school funding. We can normalize rather than vilify the use of respirator masks that help prevent the spread of airborne diseases.
+
+23.10.2024 [HUSin apulaisylilääkäri Eeva Ruotsalainen: Koronaepidemia vaatii edelleen tarkkaa seurantaa ja rokotuksia](https://yle.fi/a/74-20119630) (Yle)
+* Uusi XEC-variantti on helposti tarttuvaa. Rokotteet tulisi ottaa hyvissä ajoin.
+* Ruotsalainen muistuttaa, että Covid-19-koronavirusta ei tule verrata tavallisiin flunssaviruksiin. Koronavirus aiheuttaa vakavampia taudinkuvia ja kuolemia riskiryhmille. Se myös lisää sydän- ja aivoinfarktin riskiä erityisesti henkilöillä, joilla on ennestään valtimotauteja.
+* Ruotsalainen suosittelee maskin tai hengityssuojaimen käyttöä epidemiakautena etenkin riskiryhmille joukkoliikenteessä ja ruuhkassa.
+
+24.10.2024 [Mielipidekirjoitus / ”On huolestuttavaa, kuinka huonosti long covid ja sen kansanterveydelliset vaikutukset Suomessa tunnistetaan”](https://www.kauppalehti.fi/uutiset/a/e5f31883-f206-437a-a959-775b4b0da2b1)
+* Iso-Britanniassa tehty seurantatutkimus kertoo long covidin esiintyvyyden olevan tällä hetkellä noin kolme prosenttia koko väestöstä.
+* Tuoreen tutkimuksen mukaan koronan sairastaminen voi kaksinkertaistaa sydänkohtauksen, aivoinfarktin tai kuoleman riskin kolmen vuoden seurannassa myös lievän akuutin infektion sairastaneilla
+* Sekä long covid-, että ME/CFS-potilaat kärsivät usein Post-Exertional Malaise (PEM) -oireesta, jossa liika rasitus voi pahentaa oireita ja luoda syvenevän toimintakyvyn laskun kierteen.
+* Näiden sairauksien patofysiologia ja kliinisissä rasituskokeissa saadut tulokset huomioiden hoitosuosituksissa ei suositella menetelmiä, jotka perustuvat teorioihin, joiden mukaan potilaiden oireet johtuisivat välttämiskäyttäytymisestä, haitallisista uskomuksista, aktiivisuuden jälkeen ilmenevien oireiden pelosta tai dekonditiosta, toisin kuin Virrantauksen ja Sainion kirjoituksessa annetaan ymmärtää.
+*  Kehotukset tulkita oireilua pelosta johtuvaksi ja asteittain oireista välittämättä lisättävä kuormitus voivat siis johtaa potilaan paranemisen sijaan tilanteen pahenemiseen.
+* Lääkekehitys niin akuutin infektion kuin pitkäaikaisoireiden osalta jatkuu, mutta toistaiseksi tehokkain tapa vähentää long covidia, on ehkäistä infektioita. Infektioiden määrää voi vähentää jäämällä sairaana kotiin, tehostamalla ilmanvaihtoa ja ilmanpuhdistusta, käyttämällä tarvittaessa hengityksensuojainta ja pitämällä rokotussuojan ajan tasalla.
+
+21.10.2024 [COVID survivors may develop dementia](https://www.nature.com/articles/d44151-024-00168-7) (Nature)
+* COVID-19 survivors show signs of significant cognitive deficits which could become dementia even a year after having the virus. They also have an increased risk of depression, anxiety and disrupted sleep.

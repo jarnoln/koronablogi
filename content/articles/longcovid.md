@@ -236,7 +236,11 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 27.12.2023 [Every COVID Infection Increases Your Risk of Long COVID, Study Warns](https://www.sciencealert.com/every-covid-infection-increases-your-risk-of-long-covid-study-warns)
 
+18.01.2024 [Immune damage in Long Covid](https://www.science.org/doi/10.1126/science.adn1077)
+
 29.02.2024 [Cognition and Memory after Covid-19 in a Large Community Sample](https://www.nejm.org/doi/full/10.1056/NEJMoa2311330)
+
+29.02.2024 [Covid-19 may have small but lasting effects on cognition and memory](https://www.imperial.nhs.uk/about-us/news/covid-may-have-small-but-lasting-effects-on-cognition-and-memory)
 
 07.03.2024 [Tutkimus: koronatartunta laskee älykkyysosamäärää](https://www.is.fi/kotimaa/art-2000010274606.html) ([twiitti](https://twitter.com/iltasanomat/status/1765668745702486131))
 * Koronataudin sairastaneiden ja sairastamattomien välillä oli nähtävissä tilastollisesti merkittävä ero.
@@ -261,6 +265,12 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 
 18.07.2024 [Long COVID lung damage linked to immune system response](https://www.nature.com/articles/d41586-024-02352-2)
 
+15.07.2024 [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
+* As no COVID-19 vaccines were available during the observational time period in 2020, all participants remained unvaccinated.
+* "Even after mild disease progression, we found a significant reduction of immune cells in the blood," says Winfried Pickl, providing details from the study.
+* For COVID-19 convalescent subjects, this means that their immune system may no longer be responding optimally to new challenges. This may provide an explanation for some of the observed sequelae of COVID-19, such as Long-COVID.
+* "Our results provide a possible explanation that certain long-term consequences of COVID-19 could be related to the damage to the cellular immune system caused by SARS-CoV-2 and the apparently reduced maturation and/or emigration of immune cells from the bone marrow," Winfried Pickl and Rudolf Valenta summarize the study results.
+
 25.07.2024 [Even mild COVID can cause prolonged cognitive impairment](https://www.earth.com/news/even-mild-covid-can-cause-prolonged-cognitive-impairment/)
 
 01.08.2024 [Long-term cognitive and psychiatric effects of COVID-19 revealed in new study](https://www.ox.ac.uk/news/2024-08-01-long-term-cognitive-and-psychiatric-effects-covid-19-revealed-new-study)
@@ -268,3 +278,11 @@ Tähän mennessä havaittuja koronan pitkäaikaisvaikutuksia:
 * Two to three years after being infected with COVID-19, participants scored on average significantly lower in cognitive tests (test of attention and memory) than expected. The average deficit was equivalent to 10 IQ points.
 * Additionally, a substantial proportion reported severe symptoms of depression (about 1 in 5 people), anxiety (1 in 8), fatigue (1 in 4), and subjective memory problems (1 in 4), with these symptoms worsening over time.
 * Although in many people these symptoms at 2-3 years were already present 6 months post-infection, some people also experienced new symptoms 2 to 3 years after their infection that they were not experiencing before.
+
+09.10.2024 [History of COVID-19 Doubles Long-term Risk of Heart Attack, Stroke and Death] (https://www.newswise.com/articles/history-of-covid-19-doubles-long-term-risk-of-heart-attack-stroke-and-death/)
+* The study found that people with any type of COVID-19 infection were twice as likely to have a major cardiac event, such as heart attack, stroke or even death, for up to three years after diagnosis.
+* Further genetic analysis also revealed individuals with a blood type other an O (such as A, B or AB) were twice as likely to experience an adverse cardiovascular event after COVID-19 than those with an O-blood type.
+* Previous research has shown that people who have A, B or AB blood types were also more susceptible to contracting COVID-19.
+
+21.10.2024 [COVID survivors may develop dementia](https://www.nature.com/articles/d44151-024-00168-7) (Nature)
+* COVID-19 survivors show signs of significant cognitive deficits which could become dementia even a year after having the virus. They also have an increased risk of depression, anxiety and disrupted sleep.

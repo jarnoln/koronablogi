@@ -2,12 +2,12 @@
 title: 2022 Aikajana
 ---
 
-2022-01-01 [USA lyhensi koronataudin karanteenisuositusta 5 päivään – Epidemiologit arvostelevat päätöstä voimakkaasti](https://tekniikanmaailma.fi/usa-lyhensi-koronataudin-karanteenisuositusta-5-paivaan-epidemiologit-arvostelevat-paatosta-voimakkaasti/)
+01.01.2022 [USA lyhensi koronataudin karanteenisuositusta 5 päivään – Epidemiologit arvostelevat päätöstä voimakkaasti](https://tekniikanmaailma.fi/usa-lyhensi-koronataudin-karanteenisuositusta-5-paivaan-epidemiologit-arvostelevat-paatosta-voimakkaasti/) (TM)
 * ”CDC:n päätös lyhentää karanteeniaikaa viiteen päivään ja töihin paluun mahdollistaminen ilman negatiivisen koronatestin tekemistä on vastuuton ja vaarallinen”, Feldman sanoo Gizmodo-verkkosivustolle.
 
-2022-01-07 [Kiuru: Kouluihin palaaminen ei ole turvallista – pitkäkestoinen korona koskettaa jo suurta joukkoa suomalaisista](https://yle.fi/uutiset/3-12261462)
+07.01.2022 [Kiuru: Kouluihin palaaminen ei ole turvallista – pitkäkestoinen korona koskettaa jo suurta joukkoa suomalaisista](https://yle.fi/uutiset/3-12261462) (Yle)
 
-2022-01-07 [Tiedotustilaisuus pitkäkestoisesta koronasta](https://www.youtube.com/watch?v=b6UnEFR3ijc)
+07.01.2022 [Tiedotustilaisuus pitkäkestoisesta koronasta](https://www.youtube.com/watch?v=b6UnEFR3ijc)
 <!-- 56:25 - jos ei vakavoiduta, niin ihmettelen
 57:25 - terveydenhuollon kantokyky romahtaa
 
@@ -22,65 +22,92 @@ https://www.youtube.com/watch?v=b6UnEFR3ijc&t=3430s
 58:01 Se on sanottava suoraan, että taudinjäljitys eikä rokottaminen toimi sillä tahdilla, kuin tässä tilanteessa pitäisi. Ei toimi myöskään testaus.
 https://youtu.be/b6UnEFR3ijc?t=3472 -->
 
-2022-01-07 [Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita](https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita)
+07.01.2022 [Asiantuntijaryhmä: Covid-19 voi ilmetä pitkäkestoisena noin joka toisella aikuisella – rokotteet vähentävät taudin riskiä ja oireita](https://stm.fi/-/asiantuntijaryhma-covid-19-voi-ilmeta-pitkakestoisena-noin-joka-toisella-aikuisella-rokotteet-vahentavat-taudin-riskia-ja-oireita) (STM)
 
-2022-01-11 [Suomalaistutkijat kehittivät ”biologisen maskin” koronaa vastaan – Nenäsuihke voi tarjota suojaa jopa kahdeksaksi tunniksi](https://tekniikanmaailma.fi/suomalaistutkijat-kehittivat-biologisen-maskin-koronaa-vastaan-nenasuihke-voi-tarjota-suojaa-jopa-kahdeksaksi-tunniksi/)
+11.01.2022 [Suomalaistutkijat kehittivät ”biologisen maskin” koronaa vastaan – Nenäsuihke voi tarjota suojaa jopa kahdeksaksi tunniksi](https://tekniikanmaailma.fi/suomalaistutkijat-kehittivat-biologisen-maskin-koronaa-vastaan-nenasuihke-voi-tarjota-suojaa-jopa-kahdeksaksi-tunniksi/) (TM)
 
-2022-01-13 [STM:n ja THL:n koronainfo](https://yle.fi/uutiset/3-12268586)
+13.01.2022 [STM:n ja THL:n koronainfo](https://yle.fi/uutiset/3-12268586) (Yle)
 * Karanteenien kesto lyhennetään 5 päivään
 
-2022-01-25 [Ministeri Krista Kiuru jää sairauslomalle](https://www.hs.fi/politiikka/art-2000008565688.html)
+25.01.2022 [Ministeri Krista Kiuru jää sairauslomalle](https://www.hs.fi/politiikka/art-2000008565688.html)
   
-2022-01-25 [Joko pandemia päättyy?](https://www.hs.fi/ulkomaat/art-2000008553797.html)
+25.01.2022 [Joko pandemia päättyy?](https://www.hs.fi/ulkomaat/art-2000008553797.html) (HS)
 * "Aaltoilu jatkuu noin kaksi vuotta, kunnes tilanne alkaa rauhoittua." (Sane)
 
-2022-02-08 [D-vitamiinin puutos yhdistettiin aiempaa vankemmin vakavalle koronataudille altistavaksi tekijäksi – ”14-kertainen riski”](https://tekniikanmaailma.fi/d-vitamiinin-puutos-yhdistettiin-aiempaa-vankemmin-vakavalle-koronataudille-altistavaksi-tekijaksi-14-kertainen-riski/)
+08.02.2022 [D-vitamiinin puutos yhdistettiin aiempaa vankemmin vakavalle koronataudille altistavaksi tekijäksi – ”14-kertainen riski”](https://tekniikanmaailma.fi/d-vitamiinin-puutos-yhdistettiin-aiempaa-vankemmin-vakavalle-koronataudille-altistavaksi-tekijaksi-14-kertainen-riski/) (TM)
 
-2022-02-10 [Suomi avaa yhteiskuntaa, mutta THL ei harkitse maskisuosituksen muuttamista: ”Pidämme sitä aika kevyenä keinona”](https://www.hs.fi/kotimaa/art-2000008600964.html)
+10.02.2022 [Suomi avaa yhteiskuntaa, mutta THL ei harkitse maskisuosituksen muuttamista: ”Pidämme sitä aika kevyenä keinona”](https://www.hs.fi/kotimaa/art-2000008600964.html) (HS)
 * Selkeä strategian tavoite tälle vuodelle on yhteiskunnan auki pitäminen
 
-2022-02-10 [Koronaepidemian hillintään uudet linjaukset - tavoitteena vakauttaa yhteiskunta mahdollisimman avoimeksi](https://stm.fi/-/uudet-linjaukset-koronaepidemian-hillintaan)
+10.02.2022 [Koronaepidemian hillintään uudet linjaukset - tavoitteena vakauttaa yhteiskunta mahdollisimman avoimeksi](https://stm.fi/-/uudet-linjaukset-koronaepidemian-hillintaan) (STM)
 * Epidemiantorjunta perustuu jatkossa ensisijaisesti ihmisten omaehtoisen terveysturvallisen toimintatavan tukemiseen, tartuntojen vakavien seurausten ehkäisemiseen rokotuksin ja vain välttämättömiltä ja rajatuilta osin tilapäiseen sääntelyyn.
 * Tarkoitus on luopua laajamittaisista toimista.
 
-2022-02-10 [Koronatestaus- ja jäljitysstrategia on päivitetty - tavoitteena ehkäistä taudin leviämistä erityisesti riskiryhmissä](https://stm.fi/-/koronatestaus-ja-jaljitysstrategia-on-paivitetty-tavoitteena-ehkaista-taudin-leviamista-erityisesti-riskiryhmissa)
+10.02.2022 [Koronatestaus- ja jäljitysstrategia on päivitetty - tavoitteena ehkäistä taudin leviämistä erityisesti riskiryhmissä](https://stm.fi/-/koronatestaus-ja-jaljitysstrategia-on-paivitetty-tavoitteena-ehkaista-taudin-leviamista-erityisesti-riskiryhmissa)
 * Päivitetyn strategian mukaan tartunnanjäljitys tulisi kohdentaa sosiaali- ja terveydenhuollon asiakkaisiin ja potilaisiin sekä kyseisten yksiköiden työntekijöihin. 
 
-2022-02-15 [Tutkimus: Lieväkin koronatartunta lisää huomattavasti sydänsairauden riskiä vielä vuoden tartunnan jälkeen](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/)
+10.02.2022 [Heart-disease risk soars after COVID — even with a mild case](https://www.nature.com/articles/d41586-022-00403-0) (Nature)
+*  Researchers found that rates of many conditions, such as heart failure and stroke, were substantially higher in people who had recovered from COVID-19 than in similar people who hadn’t had the disease.
 
-2022-03-01 [THL:n Mika Salminen: Koronapandemia on lähestymässä loppuaan – "Olen optimistinen sen suhteen, että tää oli nyt tässä"](https://www.mtvuutiset.fi/artikkeli/thl-n-mika-salminen-koronapandemia-on-lahestymassa-loppuaan-olen-optimistinen-sen-suhteen-etta-taa-oli-nyt-tassa/8368112#gs.5w1tpv)
+15.02.2022 [Tutkimus: Lieväkin koronatartunta lisää huomattavasti sydänsairauden riskiä vielä vuoden tartunnan jälkeen](https://tekniikanmaailma.fi/tutkimus-lievakin-koronatartunta-lisaa-huomattavasti-sydansairauden-riskia-viela-vuoden-tartunnan-jalkeen/) (TM)
 
-2022-03-03 [Koronapandemia on vihdoin hellittämässä – Mika Salminen vahvistaa: ”Voiton puolella ollaan”](https://www.iltalehti.fi/koronavirus/a/d808b93a-0ddc-4f1a-a9cc-7270f23bb465)
+01.03.2022 [THL:n Mika Salminen: Koronapandemia on lähestymässä loppuaan – "Olen optimistinen sen suhteen, että tää oli nyt tässä"](https://www.mtvuutiset.fi/artikkeli/thl-n-mika-salminen-koronapandemia-on-lahestymassa-loppuaan-olen-optimistinen-sen-suhteen-etta-taa-oli-nyt-tassa/8368112)
+* – Ehdottomasti pitää lähteä normaalia elämää elämään, Salminen päättää. 
+
+03.03.2022 [Koronapandemia on vihdoin hellittämässä – Mika Salminen vahvistaa: ”Voiton puolella ollaan”](https://www.iltalehti.fi/koronavirus/a/d808b93a-0ddc-4f1a-a9cc-7270f23bb465)
 - Mika Salmisen mukaan syksyllä tuskin nähdään yhtä vakavaa korona-aaltoa.
 
-2022-03-03 [Omicron Is 40% Deadlier Than Seasonal Flu, Study Finds](https://www.bloomberg.com/news/articles/2022-03-03/omicron-is-40-deadlier-than-seasonal-flu-japanese-study-finds)
+03.03.2022 [Omicron Is 40% Deadlier Than Seasonal Flu, Study Finds](https://www.bloomberg.com/news/articles/2022-03-03/omicron-is-40-deadlier-than-seasonal-flu-japanese-study-finds)
 
-2022-03-08 [Korona tuhoaa aivoja vuosilla, tutkijat havaitsivat – Tutkimuksessa verrattiin aivokuvia ennen ja jälkeen koronatartunnan](https://tekniikanmaailma.fi/korona-tuhoaa-aivoja-vuosilla-tutkijat-havaitsivat-tutkimuksessa-verrattiin-aivokuvia-ennen-ja-jalkeen-koronatartunnan/)
+08.03.2022 [Korona tuhoaa aivoja vuosilla, tutkijat havaitsivat – Tutkimuksessa verrattiin aivokuvia ennen ja jälkeen koronatartunnan](https://tekniikanmaailma.fi/korona-tuhoaa-aivoja-vuosilla-tutkijat-havaitsivat-tutkimuksessa-verrattiin-aivokuvia-ennen-ja-jalkeen-koronatartunnan/) (TM)
 
-2022-03-17 [Koronapotilaiden määrä sairaalassa on noussut yhä – THL:n Salminen: Läpi Euroopan on tehty johtopäätös, että koronan kanssa on tultava toimeen](https://yle.fi/a/3-12363055)
+17.03.2022 [Koronapotilaiden määrä sairaalassa on noussut yhä – THL:n Salminen: Läpi Euroopan on tehty johtopäätös, että koronan kanssa on tultava toimeen](https://yle.fi/a/3-12363055) (Yle)
 
-2022-04-14 [THL:n yleinen maskisuositus poistuu](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371)
+22.03.2022 [Evaluation of science advice during the COVID-19 pandemic in Sweden](https://www.nature.com/articles/s41599-022-01097-5) (Nature)
+* During 2020, however, Sweden had ten times higher COVID-19 death rates compared with neighbouring Norway.
+* We argue that that scientific methodology was not followed by the major figures in the acting authorities—or the responsible politicians—with alternative narratives being considered as valid, resulting in arbitrary policy decisions.
+* The Swedish people were kept in ignorance of basic facts such as the airborne SARS-CoV-2 transmission, that asymptomatic individuals can be contagious and that face masks protect both the carrier and others.
+* Many elderly people were administered morphine instead of oxygen despite available supplies, effectively ending their lives.
+* We recommend Sweden begins a self-critical process about its political culture and the lack of accountability of decision-makers to avoid future failures, as occurred with the COVID-19 pandemic.
+* Many schools did not inform parents or even teachers about confirmed COVID-19 transmission on the premises, nor reported it to official agencies, and urged parents not to tell if their children were infected—since this would “spread fear”
+* Some municipalities refused to declare the number of deaths in the care homes and there was an attempt to keep the death rates “covered up” at a regional level.
+* Despite the Swedish Freedom of Information Laws, several requested emails, meeting minutes or even agendas of meetings were not obtained, or only with large parts of the text redacted. For example, the underlying models for decision-making from the Public Health Agency and their assumptions were not made public—particularly not during the first months of the pandemic. 
+* For example, although several of the people involved publicly made statements that face masks were not needed, or even “dangerous” or contra-productive—they later claimed they had always been supportive of their use.
+* The first interim report noted that Government measures were late and inadequate, and called the spread of the virus in society the “single most important factor behind the major outbreaks and the high number of deaths in residential care”. The Commission found that “the strategy failed to protect the elderly” and that the Government’s measures were both insufficient and late, and noted the late onset of widespread testing.
+* The Swedish Health and Social Care Inspectorate (IVO), a government agency supervising healthcare and social services, reported widespread, “systemic” failures in its report released November 24, 2020. Its investigation cited “serious shortcomings” including that one-fifth of the people in nursing homes were denied their right to receive an individual medical assessment.
+* Less than one-tenth of COVID-19 patients had been examined by a physician. Some patients were put on end-of-life treatment without a positive test and failures were cited in all of Sweden’s 21 healthcare regions.
+* On May 21, 2020, the British independent sustainability rating agency “Standard Ethics” lowered the ethical rating of Sweden, since the Swedish health policy did not comply with the WHO recommendations.
+* In November 2020, the Organisation for Economic Cooperation and Development’s (OECD) and the European Union ranked Sweden lowest among 35 European countries considering multiple COVID-19 management metrics including lowering the spread of infection, reducing people’s mobility, and discharging ICU patients. 
+* The Public Health Agency did not base its advice on scientific evidence but on pre-conceptions on influenza pandemics and herd-immunity—relying primarily on a small advisory group with a narrow disciplinary focus and too limited expertise.
+* None of the official actors took notion of what could have been done better, and no one took responsibility for the results. This institutional rigidity is illustrated by the self-protective reaction to external critique. The Swedish strategy was considered “internationally superior” from the beginning and should not be questioned, a position fuelled by the Swedish mainstream (and state-sponsored) media.
+* Transparency and accurate information to the public were not a priority—with most communication aimed to “not spread fear” or increase social unrest.
+* The Swedish strategy has not shown to be superior in any measurable aspect compared to the Nordic neighbours or internationally. 
+* The Swedish strategy has also been at the base of the controversial Great Barrington Declaration (published October 4, 2020) aiming for natural herd-immunity by letting the infections spread in a “controlled way” in society (Kulldorff et al., 2020), with several of the initiators/defenders having strong ties to Sweden. This strategy is considered internationally as unscientific, unethical, and unfeasible.
+* The Swedish authorities involved were not self-critical and did not engage in any official and open dialogue and misled the public by withholding correct information and even spreading misleading information.
 
-2022-04-27 [Päättäjät halusivat vähätellä koronapandemiaa ja pantata tietoa kansalaisilta, paljastaa uusi tutkimus](https://yle.fi/uutiset/3-12414931)
+14.04.2022 [THL:n yleinen maskisuositus poistuu](https://www.sttinfo.fi/tiedote/thln-yleinen-maskisuositus-poistuu-mutta-maskia-voi-oman-harkinnan-mukaan-edelleen-kayttaa?publisherId=69817778&releaseId=69938371)
+
+27.04.2022 [Päättäjät halusivat vähätellä koronapandemiaa ja pantata tietoa kansalaisilta, paljastaa uusi tutkimus](https://yle.fi/uutiset/3-12414931)
 * THL:n raportin mukaan vuoden 2020 alkupuolella tilannetta Suomessa leimasi haluttomuus uskoa koronaviruksen vaarallisuutta. Viruksen arvioitiin käyttäytyvän kuin influenssavirus tai sen ei uskottu tarttuvan ihmisestä toiseen.
 * Osa THL:n tutkimukseen haastatelluista asiantuntijoista kertoo myös, että päättäjät toppuuttelivat liian vakavien uhkaskenaarioiden esittämistä, koska ne voisivat pelottaa kansalaisia.
   * "Se rupes näyttää siltä, että tilanne näyttää tosi pahalta. Ja sitte kuitenki se kansallinen viesti oli, että ei tässä mitään hätää. (...) Just niitä epävirallisia reittejä alko sitä tietoo tihkua."
 * Varsinkin THL saa kritiikkiä huonosta tiedonkulusta. 
 
-2022-05-05 [Vakava koronatauti saattaa kiihdyttää kognitiivista vanhenemista jopa 20 vuodella, tutkimus kertoo](https://tekniikanmaailma.fi/vakava-koronatauti-saattaa-kiihdyttaa-kognitiivista-vanhenemista-jopa-20-vuodella-tutkimus-kertoo/)
+05.05.2022 [Vakava koronatauti saattaa kiihdyttää kognitiivista vanhenemista jopa 20 vuodella, tutkimus kertoo](https://tekniikanmaailma.fi/vakava-koronatauti-saattaa-kiihdyttaa-kognitiivista-vanhenemista-jopa-20-vuodella-tutkimus-kertoo/) (TM)
 
-2022-05-07 [Tutkijat havaitsivat yhteyden erektiohäiriön ja sairastetun koronavirustaudin välillä – Ongelmat jatkuneet puoli vuottakin sairastamisen jälkeen](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-erektiohairion-ja-sairastetun-koronavirustaudin-valilla-ongelmat-jatkuneet-puoli-vuottakin-sairastamisen-jalkeen/)
+07.05.2022 [Tutkijat havaitsivat yhteyden erektiohäiriön ja sairastetun koronavirustaudin välillä – Ongelmat jatkuneet puoli vuottakin sairastamisen jälkeen](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-erektiohairion-ja-sairastetun-koronavirustaudin-valilla-ongelmat-jatkuneet-puoli-vuottakin-sairastamisen-jalkeen/) (TM)
 * Muun muassa yhdysvaltalaisen Miamin yliopiston urologit kertoivat helmikuisessa tutkimusraportissaan, että he ovat havainneet erektiohäiriöriskin nousevan 20 prosentilla koronavirustaudin nujertamisen jälkeen. Tutkimusta johtaneen urologin, tohtori Ranjith Ramasamyn mukaan he havaitsivat selkeän kaavan erektiohäiriön puhkeamisen ja sairastetun koronavirustaudin välillä.
 
-2022-05-23 [COVID lessons from Japan: the right messaging empowers citizens](https://www.nature.com/articles/d41586-022-01385-9)
+23.05.2022 [COVID lessons from Japan: the right messaging empowers citizens](https://www.nature.com/articles/d41586-022-01385-9)
 * Through six waves of COVID-19 in Japan, the number of cases and deaths per capita has been significantly lower than in other G7 countries. This is despite having the world’s oldest population, and being densely packed.
 * Often, phrases such as ‘exit strategy’ or ‘back to normal’ are used by people longing for the days when we lived without the threat of this virus. But we are nowhere near back to normal.
 
-2022-06-02 [”Nyt on aika kiittää” – Yli kahden vuoden ajan jatkuneet koronakatsaukset päättyivät viestiin, joka herkisti jopa THL:n Mika Salmisen](https://www.hs.fi/kotimaa/art-2000008859436.html)
+02.06.2022 [”Nyt on aika kiittää” – Yli kahden vuoden ajan jatkuneet koronakatsaukset päättyivät viestiin, joka herkisti jopa THL:n Mika Salmisen](https://www.hs.fi/kotimaa/art-2000008859436.html)
 * THL ja STM on järjestänyt suoria tilannekatsauksia koronaepidemiasta liki viikoittain yli kahden vuoden ajan. Torstain tilaisuus oli sarjassaan 90:s ja tältä erää viimeinen.
 * "Kiitollinen fiilis – yhdessä koronan selkä taitettiin, kaikkien suomalaisten voimin."
+* Salminen muistutti, että kaiken kaikkiaan Suomessa on selvitty tästä vähän yli kahden vuoden ajasta varsin hyvin verrattuna muihin maihin, joissa on ollut vielä pahempi tilanne.
 
-2022-06-02 [THL:n arvio: noin 20 prosenttia koronakuolemiksi tilastoiduista kuolemista johtuu muista syistä](https://yle.fi/uutiset/3-12467215)
+02.06.2022 [THL:n arvio: noin 20 prosenttia koronakuolemiksi tilastoiduista kuolemista johtuu muista syistä](https://yle.fi/uutiset/3-12467215)
 * Suomessa koronaan liittyvät kuolemia on raportoitu pandemian aikana yli 4 500. Rapotoiduissa kuolemantapaukssa arviolta 20 prosentissa pääkuolinsyy on jokin muu kuin koronainfektio. 
 
 2020-06-06 [Tutkijat havaitsivat yhteyden hengitysilman typpidioksidin määrän ja vakavien koronatapausten välillä](https://tekniikanmaailma.fi/tutkijat-havaitsivat-yhteyden-hengitysilman-typpidioksidin-maaran-ja-vakavien-koronatapausten-valilla/)

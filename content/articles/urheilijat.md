@@ -10,7 +10,7 @@ Tuossa on kuitenkin pari ongelmaa: Vaikka "yleensä vaaraton" kuulostaa rauhoitt
 Toinen ongelma on se, että vaikka riski sairastua vakavasti koronan akuutissa vaiheessa on suhteellisen pieni (muttei olematon), pitkäaikaisen koronan riski on varsin merkittävä myös nuorille.
 
 Urheilijat ovat varsin hyväkuntoisia, mutta siitä huolimatta yllättävän moni on sairastunut vakavasti koronatartunnan jälkeen, osa niin vakavasti, että urheiliu-ura on kärsinyt tai jopa katkennut kokonaan.
-Tässä joitaine esimerkkejä:
+Tässä joitain esimerkkejä:
 
 22.9.2022 [Santeri Virtasen, 23, koronatartunnasta alkoi karmea sydänsairauskierre – vuoden kuluttua sydänosastolla pelko paisui sietämättömäksi](https://www.is.fi/sm-liiga/art-2000009081821.html)
 * Kahden sydänlihastulehduksen, sairaalajakson ja pelaamattomuuden kurittamana Virtanen ei tuntenut enää itseään huippu-urheilijaksi, jonka varaan hänen koko identiteettinsä oli rakentunut.

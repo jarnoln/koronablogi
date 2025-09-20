@@ -25,7 +25,7 @@ title: 2025 Aikajana
 * Viimeisen viikon aikana sairaaloihin on kirjautunut 43 213 potilasta, joilla on tauti.
 * Thaimaassa suositellaan kasvomaskin käyttöä ja välitöntä koronatestin tekemistä, jos tyypillisiä oireita ilmenee.
 
-22.05.2025 ([Long Covidin perinnöllinen riskitekijä tunnistettu](https://www.helsinki.fi/fi/uutiset/geenit/long-covidin-perinnollinen-riskitekija-tunnistettu)
+22.05.2025 [Long Covidin perinnöllinen riskitekijä tunnistettu](https://www.helsinki.fi/fi/uutiset/geenit/long-covidin-perinnollinen-riskitekija-tunnistettu)
 * Helsingin yliopiston johtama kansainvälinen long Covid -geenitutkimus yli miljoonan henkilön aineistossa tunnisti perinnöllisiä tekijöitä, jotka altistavat koronavirusinfektion jälkeisille pitkäkestoisille oireille, kuten lamaannuttavalle väsymykselle, pitkittyneelle yskälle, aivosumulle ja verenpaineen heittelylle.
 * Tutkimuksessa löytynyt geneettinen riskitekijä sijaitsee kromosomissa 6, FOXP4-geenin alueella. Tämän geenin koodaama proteiini osallistuu erityisesti keuhkojen toiminnan ja immuunipuolustuksen säätelyyn. Tunnistettu riskitekijä lisää long Covidin riskiä noin 60 prosentilla. 
 
